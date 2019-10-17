@@ -1,0 +1,315 @@
+«Сократить зависимость от России»: зачем американцам «Нафтогаз»
+
+Несколько предпринимателей, поддерживающих, в том числе материально, Республиканскую партию США, добивались смены руководства украинской компании «Нафтогаз». Об этом сообщило в воскресенье агентство Associated Press (AP) со ссылкой на свои источники.
+
+
+
+Реклама
+
+
+.adcenter-wrapper {
+padding: 0 20px 0 85px;
+}
+.AdCentre_new_adv{
+margin-bottom: 20px;
+}
+.AdCentre_new_adv .partner_material_item{
+min-height: 76px;
+margin: 10px 0px;
+float: left;
+margin-left: 12px;
+}
+.AdCentre_new_adv .x80_80{
+max-width: 80px;
+max-height: 80px;
+margin-right: 10px;
+float: left;
+}
+.AdCentre_new_adv .partner_material_item_text{
+float:left;
+max-width: 120px;
+}
+.AdCentre_new_adv .partner_material_item_text_value{
+font: normal 14px/16px "PT Sans", serif;
+display: block;
+}
+.AdCentre_new_adv .partner_material_item_text_value:hover{
+color: #b11116;
+}
+.AdCentre_new_adv .sausage-header{
+position: relative;
+display: block;
+height: 34px;
+margin-left: 10px;
+font: bold 15px/36px 'PT Sans', sans-serif;
+color: #333;
+letter-spacing: 0.01em;
+border-bottom: 1px solid #dfdfdf;
+}
+@media print, screen and (max-width: 1260px){
+.adcenter-wrapper {
+padding: 0 0 0 0;
+}
+.AdCentre_new_adv {
+width: 587px;
+}
+.AdCentre_new_adv .sausage-list{
+width: 587px;
+max-height: 208px;
+}
+.AdCentre_new_adv .partner_material_item_text{
+max-width: 190px;
+}
+}
+
+
+ AdfProxy.ssp('AdCentre', {
+'p1': 'bwrhb',
+'p2': 'fomw',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ECONOMY',
+
+'puid59': 'business:gc',
+
+}, {
+'begun-auto-pad': "432328744",
+'begun-block-id': "442235190"
+});
+
+
+
+
+
+
+set_resizeblock_handler('#AdCentre', function () {
+if( $('#AdCentre').height() > 10 ) {
+$('.AdCentre_name, .AdCentre_bot').show();
+//$('#Adcenter_Vertical').hide();
+} else {
+$('.AdCentre_name, .AdCentre_bot').hide();
+}
+});
+
+Ряд предпринимателей, заявлявших ранее о своих связях с Трампом и его личным адвокатом Рудольфом Джулиани, пытались сместить председателя правления «Нафтогаза» Андрея Коболева. Его место должен был занять директор по интегрированному газовому бизнесу компании Андрей Фаворов, отмечает агентство.
+
+
+#mt_incut {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut"></div>');
+fetch('//news.mirtesen.ru/data/js/91014.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut').html(txt);
+});
+}
+
+
+Зеленский смешал карты
+Источники АР утверждают, что сторонники американского лидера придерживались исключительно деловых целей, избегая политики. Речь идет об американских предпринимателях Игоре Фрумане и Льве Парнасе, а также о «нефтяном магнате» из Флориды по имени Гарри Сарджинт III.
+Агентство утверждает, что в их планы входило добиваться через новое руководство заключения выгодных контрактов между «Нафтогазом» и американскими энергетическими компаниями, во главе которых стоят сторонники американского лидера. При этом уточняется, что после победы на украинских президентских выборах Владимира Зеленского план бизнесменов провалился.
+
+
+
+
+
+AdfProxy.ssp('in_read', {
+'p1': 'bryhb',
+'p2': 'fcvb',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ECONOMY',
+
+'puid59': 'business:gc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "432328918"
+});
+
+
+
+Ранее газета Politico сообщила, что о расширении наблюдательного совета компании «Нафтогаз» и включении в него большего числа американских граждан просил президента Зеленского министр энергетики США Рик Перри.
+По данным источников издания, Перри считал, что такого рода изменения помогут «Нафтогазу» «сократить свою зависимость от поставок энергоносителей из России и увеличить объем американских инвестиций».
+Как отмечает издание, на рассмотрении членов правления находились двое высокопоставленных энергетиков из родного штата Перри — Техаса.
+
+
+#mt_incut2 {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut2 .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut2 .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut2 .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut2 .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut2"></div>');
+fetch('//news.mirtesen.ru/data/js/92823.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut2').html(txt);
+});
+}
+
+После этого, по данным собеседников агентства, министр энергетики США Рик Перри предпринял усилия по смене управленческой команды «Нафтогаза». Отмечается, что не известно, была ли попытка Перри сменить членов совета директоров «Нафтогаза» согласована со сподвижниками Джулиани, настаивающими на аналогичном исходе.
+%Однако, по данным агентства, бизнесмены, пытавшиеся сменить руководство в государственной газовой компании, похоже, знали о планах администрации Трампа, связанных с Украиной. 
+Так, по словам источников агентства, они знали, что президент сменит посла США на Украине Мэри Йованович за несколько месяцев до того, как она была отозвана в Вашингтон.
+
+
+
+#native3{ position: relative; float: right; width: auto; margin-left: 10px }
+#begun_block_439285592 .ad_native_block{
+position: relative !important;
+z-index: 1 !important;
+padding: .4em 1em .7em .7em !important;
+min-height: 100% !important;
+overflow: hidden !important;
+background: #eeefeb!important;
+border-bottom: 4px solid #e0e1dd;
+font-size: 14px !important;
+width: 410px!important;
+font-family: "Arial";
+color:#000;
+}
+#begun_block_439285592 .ad_native_img {
+position: relative !important;
+margin-right: 12px !important;
+float: left !important;
+overflow: hidden !important;
+-ms-flex-negative: 0 !important;
+flex-shrink: 0 !important;
+margin-top: 6px;
+}
+#begun_block_439285592 .ad_native_title_wrapper {
+line-height: 16px;
+padding-top: 4px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone {
+font-size: 18px;
+font-weight: 700;
+line-height: 19px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone:hover {
+color: #AF242C !important;
+}
+#begun_block_439285592 .ad_native_title {
+margin-top: 10px;
+}
+#begun_block_439285592 .ad_native_title span {
+background-color: #AF242C;
+color: #fff;
+padding: 2px 5px;
+}
+#begun_block_439285592 .ad_native_desc {
+line-height: 16px;
+margin-top: 10px;
+}
+#begun_block_439285592 span.ad_native_sponsored {
+display: none;
+}
+
+
+
+AdfProxy.sspScroll('native3', {
+'p1': 'bwjcl',
+'p2': 'fjgk',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ECONOMY',
+
+'puid59': 'business:gc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "439285592"
+});
+
+
+
+Отголоски импичмента Трампу
+Ранее агентство со ссылкой на источники сообщило, что в минувшую пятницу Трамп заявил республиканцам в палате представителей конгресса США, будто это Перри просил его связаться с Зеленским по телефону.
+
+Новости СМИ2
+
+(function() {
+var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+sc.src = '//smi2.ru/data/js/93296.js'; sc.charset = 'utf-8';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+}());
+
+«Министр Перри полностью поддерживал и призывал президента (поговорить) с новым президентом Украины, чтобы обсудить вопросы, связанные с энергетической безопасностью и экономическим развитием», — приводит агентство заявление представителя минэнерго США Шайлин Хайнс.
+По ее словам, министр энергетики США не продвигал чьих-либо личных интересов. Она сказала, что его беседы с украинскими чиновниками о «Нафтогазе» были частью его усилий по реформированию энергетического сектора страны и созданию условий, при которых западные компании могут вести бизнес.
+Белый дом ранее опубликовал стенограмму разговора Трампа с Зеленским. Интерес к разговорам американского президента с иностранными лидерами обострился в СМИ после того, как демократы обвинили Трампа в оказании давления на президента Украины по вопросу о проведении расследования в отношении сына бывшего вице-президента США Джо Байдена — Хантера Байдена. Демократы считают, что Трамп злоупотребил властью ради борьбы против политического оппонента, и запустили процедуру импичмента.
+Из обнародованной стенограммы следует, что американский президент в беседе действительно касался дел бывшего вице-президента США Байдена и его сына на Украине. Однако президент Украины ранее заявил, что Трамп давления на него не оказывал.
+На поставки газа на Украину претендует также Польша. Представители Польши, Украины и США ранее подписали в Варшаве соглашение о газовом сотрудничестве между странами. 31 августа представитель польского правительства по вопросам стратегической энергетической инфраструктуры Пётр Наимский заявил, что Варшава сможет поставлять Украине 6 млрд кубометров газа в год при условии, что украинская сторона построит интерконнектор.
+

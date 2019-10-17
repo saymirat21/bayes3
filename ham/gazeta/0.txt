@@ -1,0 +1,318 @@
+Неоплачиваемый декрет: кого лишат пособия на ребенка
+
+Получать пособия по уходу за ребенком до полутора лет должны лишь те родители, которые уделяют достаточное внимание малышу. Работающие семейные россияне не могут претендовать на данный тип выплат, считают в Минтруде. Министерство уже подготовило соответствующий законопроект об изменении условий поддержки тем, кто лишь формально ухаживает за своими детьми до полутора лет. С документом можно ознакомиться на портале правовой информации.
+
+
+
+Реклама
+
+
+.adcenter-wrapper {
+padding: 0 20px 0 85px;
+}
+.AdCentre_new_adv{
+margin-bottom: 20px;
+}
+.AdCentre_new_adv .partner_material_item{
+min-height: 76px;
+margin: 10px 0px;
+float: left;
+margin-left: 12px;
+}
+.AdCentre_new_adv .x80_80{
+max-width: 80px;
+max-height: 80px;
+margin-right: 10px;
+float: left;
+}
+.AdCentre_new_adv .partner_material_item_text{
+float:left;
+max-width: 120px;
+}
+.AdCentre_new_adv .partner_material_item_text_value{
+font: normal 14px/16px "PT Sans", serif;
+display: block;
+}
+.AdCentre_new_adv .partner_material_item_text_value:hover{
+color: #b11116;
+}
+.AdCentre_new_adv .sausage-header{
+position: relative;
+display: block;
+height: 34px;
+margin-left: 10px;
+font: bold 15px/36px 'PT Sans', sans-serif;
+color: #333;
+letter-spacing: 0.01em;
+border-bottom: 1px solid #dfdfdf;
+}
+@media print, screen and (max-width: 1260px){
+.adcenter-wrapper {
+padding: 0 0 0 0;
+}
+.AdCentre_new_adv {
+width: 587px;
+}
+.AdCentre_new_adv .sausage-list{
+width: 587px;
+max-height: 208px;
+}
+.AdCentre_new_adv .partner_material_item_text{
+max-width: 190px;
+}
+}
+
+
+ AdfProxy.ssp('AdCentre', {
+'p1': 'bwrhb',
+'p2': 'fomw',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_FINANCE',
+
+'puid59': 'bc',
+
+}, {
+'begun-auto-pad': "432328744",
+'begun-block-id': "442235190"
+});
+
+
+
+
+
+
+set_resizeblock_handler('#AdCentre', function () {
+if( $('#AdCentre').height() > 10 ) {
+$('.AdCentre_name, .AdCentre_bot').show();
+//$('#Adcenter_Vertical').hide();
+} else {
+$('.AdCentre_name, .AdCentre_bot').hide();
+}
+});
+
+По задумке авторов инициативы, выплаты из бюджета должен получать только тот человек, который реально сидит с ребенком на протяжении всего положенного срока. «Если в период работы застрахованного лица на условиях неполного рабочего времени уход за ребенком осуществляет иное лицо, право застрахованного лица на ежемесячное пособие по уходу за ребенком прекращается», — значится в пояснительной записке к законопроекту.
+
+
+#mt_incut {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut"></div>');
+fetch('//news.mirtesen.ru/data/js/91014.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut').html(txt);
+});
+}
+
+
+В министерстве также уточнили, что если опекун при неполном рабочем дне проводит на работе больше времени, чем с ребенком, то деньги по уходу за малышом не должны поступать ему на карту ежемесячно. При таком раскладе
+средства должны поступать на счет того, кто выполняет обязанности родителя, пока тот трудится — например, их родственникам.
+Сейчас по закону выплата пособия не прекращается, если его получатель, находясь в отпуске по уходу за ребенком, работает неполный рабочий день. Деньги продолжают поступать даже в том случае, если мать, отец или опекун фактически работают полный день. Все дело в том, что действующее законодательство никак не регламентирует количество часов, проведенных на работе сотрудником, который официально находится в декретном отпуске. Это показатель устанавливается лично между работником и работодателем. То есть на практике руководство формально может сократить своему сотруднику рабочий день на час, что обеспечит ему право на пособие.
+В итоге россияне получают и зарплату в полном объеме, и выплаты по уходу за ребенком.
+Минтруд такую практику расценивает как нарушение трудового законодательства. «В данной ситуации пособие по уходу за ребенком уже не является компенсацией утраченного заработка, а приобретает характер дополнительного материального стимулирования работника, что свидетельствует о злоупотреблении правом»,— указывают в ведомстве.
+
+
+
+
+
+AdfProxy.ssp('in_read', {
+'p1': 'bryhb',
+'p2': 'fcvb',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_FINANCE',
+
+'puid59': 'bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "432328918"
+});
+
+
+
+Между тем в министерстве говорят, что возможное вступление в силу подобных поправок не означает, что лишать пособия будут всех работающих родителей. Получателя пособия можно менять, если фактический уход за ребенком начинает осуществлять другой родственник вместо того, кто выходит трудиться, пояснили принадлежащему Григорию Березкину РБК в ведомстве.
+
+
+#mt_incut2 {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut2 .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut2 .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut2 .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut2 .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut2"></div>');
+fetch('//news.mirtesen.ru/data/js/92823.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut2').html(txt);
+});
+}
+
+К моменту публикации материала «Газете.Ru» не удалось получить оперативный комментарий от Минтруда.
+Плата за рождаемость
+В настоящий момент размер пособия по уходу за ребенком до полутора лет составляет порядка 40% от среднего заработка гражданина до выхода в оплачиваемый декретный отпуск. Средства выплачиваются только тем сотрудникам, которые официально работали по трудовому договору, а работодатель исправно платил за них страховые взносы. По закону россиянин, находясь в декрете, должен получать не менее 3,3 тыс. рублей в месяц на первого ребенка и 6,6 тыс. руб. на второго. При этом размер пособия не может быть выше 26,2 тыс. рублей.
+Впрочем, и этих средств не всегда хватает на полноценный уход за малышом, жалуются молодые родители.По данным свежего опроса ВЦИОМ, лишь 27% россиян считают меры эффективными, в то время как больше половины опрошенных ратуют за повышение количества льгот. При этом около 52% респондентов отмечают, что только на выплаты от государства без дополнительного заработка прожить матери и малолетнему ребенку крайне сложно.
+
+
+
+#native3{ position: relative; float: right; width: auto; margin-left: 10px }
+#begun_block_439285592 .ad_native_block{
+position: relative !important;
+z-index: 1 !important;
+padding: .4em 1em .7em .7em !important;
+min-height: 100% !important;
+overflow: hidden !important;
+background: #eeefeb!important;
+border-bottom: 4px solid #e0e1dd;
+font-size: 14px !important;
+width: 410px!important;
+font-family: "Arial";
+color:#000;
+}
+#begun_block_439285592 .ad_native_img {
+position: relative !important;
+margin-right: 12px !important;
+float: left !important;
+overflow: hidden !important;
+-ms-flex-negative: 0 !important;
+flex-shrink: 0 !important;
+margin-top: 6px;
+}
+#begun_block_439285592 .ad_native_title_wrapper {
+line-height: 16px;
+padding-top: 4px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone {
+font-size: 18px;
+font-weight: 700;
+line-height: 19px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone:hover {
+color: #AF242C !important;
+}
+#begun_block_439285592 .ad_native_title {
+margin-top: 10px;
+}
+#begun_block_439285592 .ad_native_title span {
+background-color: #AF242C;
+color: #fff;
+padding: 2px 5px;
+}
+#begun_block_439285592 .ad_native_desc {
+line-height: 16px;
+margin-top: 10px;
+}
+#begun_block_439285592 span.ad_native_sponsored {
+display: none;
+}
+
+
+
+AdfProxy.sspScroll('native3', {
+'p1': 'bwjcl',
+'p2': 'fjgk',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_FINANCE',
+
+'puid59': 'bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "439285592"
+});
+
+
+
+Впрочем, если на детей до полутора лет государство выплачивает все же более-менее адекватные деньги, то дальше размер выплат драматически падает, признают эксперты. Сейчас родитель, у которого на обеспечении находится ребенок от 1,5 до 3 лет, получает из бюджета всего лишь 50 рублей в месяц.
+Правда,
+с 2020 года родители детей до трех лет будут ежемесячно получать от государства 12 тыс. рублей, обещает правительство.
+Но деньги увидят только малоимущие семьи, чей суммарный доход не превышает двух прожиточных минимумов.То есть с учетом того, что такая семья обычно состоит из матери, отца и ребенка, это означает, что доход отца-кормильца семьи должен быть чуть меньше 45 тыс. рублей в месяц, отметила в разговоре с «Газетой.Ru» председатель молодежного парламента при Госдуме Мария Воропаева.
+
+Новости СМИ2
+
+(function() {
+var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+sc.src = '//smi2.ru/data/js/93296.js'; sc.charset = 'utf-8';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+}());
+
+Но даже если семья подходит под категорию малоимущих, то и это не дает ей право на автоматическое получение денег. Проблема в том, что часто для того, чтобы получить эти выплаты, женщине надо пройти многочисленные «круги бюрократического ада», так как отделы социального обеспечения трактуют перечень необходимых для назначения выплат документов «кто во что горазд», указала эксперт. Например, даже в Москве эту выплату нельзя оформить через сайт Госуслуг, то есть нельзя понять, какие именно документы нужны.
+Даже если родители успешно преодолеют испытания бюрократической машины, пособие выплачивается только на первого ребенка, в то время как и второй, и пятый тоже хотят кушать, отметила председатель Всероссийского общественного движения «Национальный Родительский Комитет» Ирина Волынец. По ее словам, подобные половинчатые меры по-прежнему не выступают для россиян стимулом заводить детей, что в итоге негативно сказывается на уровне рождаемости.
+Тем временем естественная убыль населения в 2019 году продолжает ускоряться.
+За январь—август текущего года убыль оценивается в 219,2 тыс. человек против 169,1 тыс. человек за аналогичный период 2018 года,
+следует из данных Росстата.
+

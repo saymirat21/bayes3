@@ -1,0 +1,313 @@
+Слишком дорогая Украина: почему нужны новые газопроводы
+
+Министр энергетики РФ Александр Новак в онлайн-интервью «Газете.Ru» заявил, что транзит российского газа через Украину обходится значительно дороже других маршрутов. Киев установил самый высокий тариф на прокачку, подчеркнул он.
+«Если говорить о существующих маршрутах, которые сегодня используются для транзита российского газа, то украинское направление на сегодняшний день является самим дорогим, и там самый высокий тариф установлен — в 2-2,5 раза выше, чем другие маршруты», — сказал министр.
+Для сравнения он привел в пример газопроводы «Ямал-Европа» и «Северный поток — 1», где цена прокачки 1000 куб. метров газа на 100 км ниже, чем по украинской трубе.
+
+
+
+Реклама
+
+
+.adcenter-wrapper {
+padding: 0 20px 0 85px;
+}
+.AdCentre_new_adv{
+margin-bottom: 20px;
+}
+.AdCentre_new_adv .partner_material_item{
+min-height: 76px;
+margin: 10px 0px;
+float: left;
+margin-left: 12px;
+}
+.AdCentre_new_adv .x80_80{
+max-width: 80px;
+max-height: 80px;
+margin-right: 10px;
+float: left;
+}
+.AdCentre_new_adv .partner_material_item_text{
+float:left;
+max-width: 120px;
+}
+.AdCentre_new_adv .partner_material_item_text_value{
+font: normal 14px/16px "PT Sans", serif;
+display: block;
+}
+.AdCentre_new_adv .partner_material_item_text_value:hover{
+color: #b11116;
+}
+.AdCentre_new_adv .sausage-header{
+position: relative;
+display: block;
+height: 34px;
+margin-left: 10px;
+font: bold 15px/36px 'PT Sans', sans-serif;
+color: #333;
+letter-spacing: 0.01em;
+border-bottom: 1px solid #dfdfdf;
+}
+@media print, screen and (max-width: 1260px){
+.adcenter-wrapper {
+padding: 0 0 0 0;
+}
+.AdCentre_new_adv {
+width: 587px;
+}
+.AdCentre_new_adv .sausage-list{
+width: 587px;
+max-height: 208px;
+}
+.AdCentre_new_adv .partner_material_item_text{
+max-width: 190px;
+}
+}
+
+
+ AdfProxy.ssp('AdCentre', {
+'p1': 'bwrhb',
+'p2': 'fomw',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ENERGY',
+
+'puid59': 'bc',
+
+}, {
+'begun-auto-pad': "432328744",
+'begun-block-id': "442235190"
+});
+
+
+
+
+
+
+set_resizeblock_handler('#AdCentre', function () {
+if( $('#AdCentre').height() > 10 ) {
+$('.AdCentre_name, .AdCentre_bot').show();
+//$('#Adcenter_Vertical').hide();
+} else {
+$('.AdCentre_name, .AdCentre_bot').hide();
+}
+});
+
+Это обусловлено, в первую очередь, тем, что украинская газотранспортная система (ГТС) создавалась около 50 лет назад, тогда были еще старые технологии, достаточно большой износ основных фондов, большие потери при транспортировке газа, пояснил министр.
+
+
+#mt_incut {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut"></div>');
+fetch('//news.mirtesen.ru/data/js/91014.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut').html(txt);
+});
+}
+
+
+В то же время новые газопроводы, такие как «Турецкий поток», «Северный поток – 1» (уже действует) и «Северный поток — 2», строятся на основе современных технологий: это трубы большого диаметра, это высокое давление, высокая скорость передачи газа, низкие потери.
+«Себестоимость транспортировки газа по «Северному потоку — 1» на сегодняшний день обходится почти в 2 раза дешевле потребителю, чем себестоимость транспортировки по ГТС Украины», — добавил Новак. 
+Кроме этого, сейчас центр добычи газа находится на Ямале, это Бованенковское месторождение. Маршрут «Северного потока-1» через Балтийское море оттуда до Германии на 1885 км короче, чем через украинскую ГТС, обращает внимание глава Минэнерго.
+
+
+
+
+
+AdfProxy.ssp('in_read', {
+'p1': 'bryhb',
+'p2': 'fcvb',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ENERGY',
+
+'puid59': 'bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "432328918"
+});
+
+
+
+Ранее украинские политики отмечали, что транзит российского газа ежегодно приносит национальной казне доход в $2-4 млрд. Действующий контракт на транзит газа межу «Газпромом» и «Нафтогазом» истекает 1 января 2020 года. В настоящее время стороны при участии посредника в лице Еврокомиссии обсуждают возможные параметры нового соглашения, однако пока даже близко не подошли к возможному компромиссу.
+
+
+#mt_incut2 {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut2 .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut2 .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut2 .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut2 .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut2"></div>');
+fetch('//news.mirtesen.ru/data/js/92823.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut2').html(txt);
+});
+}
+
+О том, что Киеву необходимо доказать целесообразность сохранения поставок через украинскую ГТС ранее заявлял президент РФ Владимир Путин, а следом и представители «Газпрома». Эту же позицию озвучивал Александр Новак в ходе последних трехсторонних консультаций в Брюсселе.
+США, ряд европейских стран, а также Еврокомиссия, считают, что проект увеличит зависимость от российского газа, а Украина потеряет транзитные доходы, «поэтому любыми способами, любыми силами, методами, путем изменения законодательств, или путем прямого шантажа необходимо оставить этот объем газа через украинскую газотранспортную систему», посетовал Новак.
+ «Представьте, вам предложили, допустим, поехать из Москвы в Петербург. Вы хотите через 4 часа на «Сапсане» уже добраться. А вам бы сказали: «Нет, вы не можете ехать, потому что вы должны использовать старую железнодорожную инфраструктуру, старый локомотив, старые вагоны. Вот езжайте, пожалуйста, по ним, по-другому вы не можете». Но это просто нонсенс какой-тот, на самом деле», — возмутился министр.
+О скором конце «украинской монополии» в сфере транзита газа в Европу заявил и глава австрийского концерна OMV, участвующего в реализации проекта, Райнер Зеле в интервью немецкому изданию Frankfurter Allgemeine Zeitung на прошлой неделе. Именно запуск «Северного потока — 2» поставит точку в этом вопросе.
+
+
+
+#native3{ position: relative; float: right; width: auto; margin-left: 10px }
+#begun_block_439285592 .ad_native_block{
+position: relative !important;
+z-index: 1 !important;
+padding: .4em 1em .7em .7em !important;
+min-height: 100% !important;
+overflow: hidden !important;
+background: #eeefeb!important;
+border-bottom: 4px solid #e0e1dd;
+font-size: 14px !important;
+width: 410px!important;
+font-family: "Arial";
+color:#000;
+}
+#begun_block_439285592 .ad_native_img {
+position: relative !important;
+margin-right: 12px !important;
+float: left !important;
+overflow: hidden !important;
+-ms-flex-negative: 0 !important;
+flex-shrink: 0 !important;
+margin-top: 6px;
+}
+#begun_block_439285592 .ad_native_title_wrapper {
+line-height: 16px;
+padding-top: 4px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone {
+font-size: 18px;
+font-weight: 700;
+line-height: 19px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone:hover {
+color: #AF242C !important;
+}
+#begun_block_439285592 .ad_native_title {
+margin-top: 10px;
+}
+#begun_block_439285592 .ad_native_title span {
+background-color: #AF242C;
+color: #fff;
+padding: 2px 5px;
+}
+#begun_block_439285592 .ad_native_desc {
+line-height: 16px;
+margin-top: 10px;
+}
+#begun_block_439285592 span.ad_native_sponsored {
+display: none;
+}
+
+
+
+AdfProxy.sspScroll('native3', {
+'p1': 'bwjcl',
+'p2': 'fjgk',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ENERGY',
+
+'puid59': 'bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "439285592"
+});
+
+
+
+После запуска газопровода страны Восточной Европы потеряют возможность устанавливать слишком высокие цен за транзит. Это, несомненно, позитивный момент для Европы, сказал он.
+Переговоры по новому транзитному контракту между Москвой и Киевом осложняются судебной историей между «Газпромом» и «Нафтогазом». В прошлом году Стокгольмский арбитраж принял решение взыскать с Украины $2 млрд в качестве оплаты за газ, но отменил правило «бери или плати», при этом подтвердил обязательства «Газпрома» по транзиту и присудил $4,56 млрд в пользу «Нафтогаза».
+
+Новости СМИ2
+
+(function() {
+var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+sc.src = '//smi2.ru/data/js/93296.js'; sc.charset = 'utf-8';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+}());
+
+Российский газовый концерн не стал платить итоговые $2,56 млрд и подал апелляцию. «Нафтогаз» пытается арестовать имущество «Газпрома» в третьих странах, чтобы взыскать долг. Российская сторона настаивает на нулевой варианте судебных споров для окончательного решения этого вопроса, украинская сторона не собирается отказываться от выигрыша.
+«Здесь предстоит еще большая дискуссия. До конца года будем взаимодействовать с нашими коллегами (на Украине) в рабочем порядке и с нашими коллегами из Еврокомиссии», — пообещал Новак.
+

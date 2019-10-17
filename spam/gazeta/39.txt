@@ -1,0 +1,317 @@
+Европа посчитает: Новак рассказал о цене украинского транзита
+
+В России прояснили критерии определения цены транзита газа через Украину. Их озвучил министр энергетики России Александр Новак в интервью радиостанции Business FM.
+
+
+
+Реклама
+
+
+.adcenter-wrapper {
+padding: 0 20px 0 85px;
+}
+.AdCentre_new_adv{
+margin-bottom: 20px;
+}
+.AdCentre_new_adv .partner_material_item{
+min-height: 76px;
+margin: 10px 0px;
+float: left;
+margin-left: 12px;
+}
+.AdCentre_new_adv .x80_80{
+max-width: 80px;
+max-height: 80px;
+margin-right: 10px;
+float: left;
+}
+.AdCentre_new_adv .partner_material_item_text{
+float:left;
+max-width: 120px;
+}
+.AdCentre_new_adv .partner_material_item_text_value{
+font: normal 14px/16px "PT Sans", serif;
+display: block;
+}
+.AdCentre_new_adv .partner_material_item_text_value:hover{
+color: #b11116;
+}
+.AdCentre_new_adv .sausage-header{
+position: relative;
+display: block;
+height: 34px;
+margin-left: 10px;
+font: bold 15px/36px 'PT Sans', sans-serif;
+color: #333;
+letter-spacing: 0.01em;
+border-bottom: 1px solid #dfdfdf;
+}
+@media print, screen and (max-width: 1260px){
+.adcenter-wrapper {
+padding: 0 0 0 0;
+}
+.AdCentre_new_adv {
+width: 587px;
+}
+.AdCentre_new_adv .sausage-list{
+width: 587px;
+max-height: 208px;
+}
+.AdCentre_new_adv .partner_material_item_text{
+max-width: 190px;
+}
+}
+
+
+ AdfProxy.ssp('AdCentre', {
+'p1': 'bwrhb',
+'p2': 'fomw',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ENERGY',
+
+'puid59': 'gc',
+
+}, {
+'begun-auto-pad': "432328744",
+'begun-block-id': "442235190"
+});
+
+
+
+
+
+
+set_resizeblock_handler('#AdCentre', function () {
+if( $('#AdCentre').height() > 10 ) {
+$('.AdCentre_name, .AdCentre_bot').show();
+//$('#Adcenter_Vertical').hide();
+} else {
+$('.AdCentre_name, .AdCentre_bot').hide();
+}
+});
+
+По его словам, стоимость будет определяться «в соответствии с европейским законодательством».
+«И это не стоимость прокачки за 1000 кубических метров газа и за 100 километров, как это было ранее, это будет цена, связанная со входом в газотранспортную систему и выходом. И за это нужно будет платить. Хотя в переводе, конечно, это все считается и оценивается с точки зрения конкуренции с другими газотранспортными системами. В настоящий момент пока мы не обсуждали цену в рамках переговоров, я думаю, что это будет обсуждаться позже. И это будет в рамках существующих тарифов, которые действуют сегодня в Европе», — ответил российский министр.
+
+
+#mt_incut {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut"></div>');
+fetch('//news.mirtesen.ru/data/js/91014.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut').html(txt);
+});
+}
+
+
+Как рассказал Александр Новак, пока что цена транзита сторонами не оговаривалась. Ранее «Нафтогаз» рассчитал цену транзита российского газа на пять лет вперед, сообщали в пресс-службе компании. Она соотносится с объемом бронирования мощностей.
+На период 2020–2024 годов при бронировании 60 млрд куб. м мощностей украинской газотранспортной системы (ГТС) тариф составит $3,21 за тысячу кубометров на 100 км, при бронировании 90 млрд куб. м — $2,56.
+Текущий контракт на поставку Украине газа заканчивается в конце этого года и на каких условиях будет заключен новый, пока не ясно. 19 сентября в Брюсселе на трехсторонней встрече с представителем Европейской комиссии Россия и Украина как раз обсуждали газовый транзит.
+
+
+
+
+
+AdfProxy.ssp('in_read', {
+'p1': 'bryhb',
+'p2': 'fcvb',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ENERGY',
+
+'puid59': 'gc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "432328918"
+});
+
+
+
+Одним из главных достижений этого мероприятия вице-президент ЕК Марош Шефчович назвал то, что cтороны остались привержены европейским нормам и правилам.
+«Мы принципиально договорились, что новый договор будет на основе европейских норм и права», — указал Шефчович. 
+Но договориться по конкретным срокам нового контракта в тот раз не получилось. Позиции Украины и России расходятся. Киев взял сторону ЕК, который предлагает заключить новый долгосрочный контракт — на 10 лет. В Москве же готовы заключить краткосрочный контракт.
+
+
+#mt_incut2 {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut2 .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut2 .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut2 .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut2 .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut2"></div>');
+fetch('//news.mirtesen.ru/data/js/92823.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut2').html(txt);
+});
+}
+
+Следующий раунд трехсторонних консультаций России, Украины и Еврокомиссии (ЕК) по газу запланирован на 28 октября.
+На полях Российской энергонедели в Москве 2 октября президент России Владимир Путин впервые четко заявил, что Россия готова заключить газовый контракт с Киевом.
+«Мы готовы будем работать в рамках европейского законодательства и подпишем договор с Украиной на транзит в рамках европейского законодательства», — cказал российский президент.
+Это будет в том случае, если Украина успеет до конца года «имплементировать европейское законодательство», если нет — Москва продлит контракт на год, добавил президент.
+
+
+
+#native3{ position: relative; float: right; width: auto; margin-left: 10px }
+#begun_block_439285592 .ad_native_block{
+position: relative !important;
+z-index: 1 !important;
+padding: .4em 1em .7em .7em !important;
+min-height: 100% !important;
+overflow: hidden !important;
+background: #eeefeb!important;
+border-bottom: 4px solid #e0e1dd;
+font-size: 14px !important;
+width: 410px!important;
+font-family: "Arial";
+color:#000;
+}
+#begun_block_439285592 .ad_native_img {
+position: relative !important;
+margin-right: 12px !important;
+float: left !important;
+overflow: hidden !important;
+-ms-flex-negative: 0 !important;
+flex-shrink: 0 !important;
+margin-top: 6px;
+}
+#begun_block_439285592 .ad_native_title_wrapper {
+line-height: 16px;
+padding-top: 4px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone {
+font-size: 18px;
+font-weight: 700;
+line-height: 19px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone:hover {
+color: #AF242C !important;
+}
+#begun_block_439285592 .ad_native_title {
+margin-top: 10px;
+}
+#begun_block_439285592 .ad_native_title span {
+background-color: #AF242C;
+color: #fff;
+padding: 2px 5px;
+}
+#begun_block_439285592 .ad_native_desc {
+line-height: 16px;
+margin-top: 10px;
+}
+#begun_block_439285592 span.ad_native_sponsored {
+display: none;
+}
+
+
+
+AdfProxy.sspScroll('native3', {
+'p1': 'bwjcl',
+'p2': 'fjgk',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ENERGY',
+
+'puid59': 'gc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "439285592"
+});
+
+
+
+В Киеве говорят, что Украина успеет внедрить европейские правила до конца года. Об этом, в частности, напоминал исполнительный директор НАК «Нафтогаз» Юрий Витренко.
+Есть и второй вариант, указал Витренко. Он состоит в том, чтобы заключить контракт не на транзит, а на своп газа. Этот вариант даже лучше продления текущего контракта и он позволяет уже сейчас применить европейские правила, писал в фейсбуке украинский топ-менеджер.
+
+Новости СМИ2
+
+(function() {
+var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+sc.src = '//smi2.ru/data/js/93296.js'; sc.charset = 'utf-8';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+}());
+
+Напомним, своповые газовые поставки предполагают перенос точки приема газа. Как указывалось ранее, при таком сценарии российская сторона будет передавать оговоренный объем газа на границе Украина-Россия, а Киев точно такой же объем газа будет передавать на границе Украина-ЕС.
+Иными словами, Украина может взять обязательства на прием российского газа на границе и его возвратом на границе с Евросоюзом.
+Однако, по словам Витренко, остается вопрос «абсолютно неприемлемого требования российской стороны, чтобы «Нафтогаз» отказался от своей победы в Стокгольмском арбитраже». 
+Напомним, в 2018 году Стокгольмский арбитраж обязал «Газпром» выплатить $4,63 млрд украинскому «Нафтогазу». Компенсации обязали выплатить из-за недопоставленных объемов газа по транзитному договору. В итоге «Газпром» остался должен украинской компании $2,56 млрд, но не заплатив, обжаловал решение суда.
+«Какой тогда смысл в контрактах, если одна из сторон может нарушать его условия и не нести за это никакой ответственности?» — возмущался Витренко.
+

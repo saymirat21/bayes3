@@ -1,0 +1,315 @@
+Недешевый маневр: Минск требует денег от Москвы
+
+Потери бюджета Белоруссии от российского налогового маневра в нефтяной отрасли в 2020 году Минск оценил в $400 млн. Об этом заявил глава Минфина страны Максим Ермолович.
+
+
+
+Реклама
+
+
+.adcenter-wrapper {
+padding: 0 20px 0 85px;
+}
+.AdCentre_new_adv{
+margin-bottom: 20px;
+}
+.AdCentre_new_adv .partner_material_item{
+min-height: 76px;
+margin: 10px 0px;
+float: left;
+margin-left: 12px;
+}
+.AdCentre_new_adv .x80_80{
+max-width: 80px;
+max-height: 80px;
+margin-right: 10px;
+float: left;
+}
+.AdCentre_new_adv .partner_material_item_text{
+float:left;
+max-width: 120px;
+}
+.AdCentre_new_adv .partner_material_item_text_value{
+font: normal 14px/16px "PT Sans", serif;
+display: block;
+}
+.AdCentre_new_adv .partner_material_item_text_value:hover{
+color: #b11116;
+}
+.AdCentre_new_adv .sausage-header{
+position: relative;
+display: block;
+height: 34px;
+margin-left: 10px;
+font: bold 15px/36px 'PT Sans', sans-serif;
+color: #333;
+letter-spacing: 0.01em;
+border-bottom: 1px solid #dfdfdf;
+}
+@media print, screen and (max-width: 1260px){
+.adcenter-wrapper {
+padding: 0 0 0 0;
+}
+.AdCentre_new_adv {
+width: 587px;
+}
+.AdCentre_new_adv .sausage-list{
+width: 587px;
+max-height: 208px;
+}
+.AdCentre_new_adv .partner_material_item_text{
+max-width: 190px;
+}
+}
+
+
+ AdfProxy.ssp('AdCentre', {
+'p1': 'bwrhb',
+'p2': 'fomw',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ENERGY',
+
+'puid59': 'bc',
+
+}, {
+'begun-auto-pad': "432328744",
+'begun-block-id': "442235190"
+});
+
+
+
+
+
+
+set_resizeblock_handler('#AdCentre', function () {
+if( $('#AdCentre').height() > 10 ) {
+$('.AdCentre_name, .AdCentre_bot').show();
+//$('#Adcenter_Vertical').hide();
+} else {
+$('.AdCentre_name, .AdCentre_bot').hide();
+}
+});
+
+«$800 млн с учетом потерь в 2019 году. Это суммарно для экономики — по $400 млн в 2019 году и 2020 году», — такие цифры привел министр, сообщило агентство БелТА. Отвечая на вопрос о возможной компенсации за маневр, он отметил, что Минск и Москва «пока в процессе» обсуждения этого вопроса.
+Ранее президент Белоруссии Александр Лукашенко заявлял, что за шесть лет бюджет республики недополучит $11 млрд.
+Правда, в июле этого года в российском МИДе заявили, что Россия не собирается компенсировать Минску последствия налогового маневра в нефтяной отрасли. Менять собственную систему налогоообложения — суверенное право страны, и требовать за это деньги некорректно, говорил замглавы МИД РФ Григорий Карасин.
+
+
+#mt_incut {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut"></div>');
+fetch('//news.mirtesen.ru/data/js/91014.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut').html(txt);
+});
+}
+
+
+В России и раньше скептически оценивали вероятность компенсаций Минску, отмечая, что говорить об этом можно только при решении проблемы более активной экономической интеграции наших стран.
+Однако никаких существенных достижений в этом вопросе достичь не удалось. В Минске даже высказывали опасения, что Россия твердо намерена присоединить Белоруссию. В ответ российский МИД заявил, что налоговый маневр — это суверенное право нашей страны.
+Российской Госдумой был принят следующий сценарий маневра: в течение шести лет, то есть в 2019-2024 годы, поэтапно будут снижаться экспортные пошлины на нефть и нефтепродукты — с 30% до нуля от цены нефти.
+
+
+
+
+
+AdfProxy.ssp('in_read', {
+'p1': 'bryhb',
+'p2': 'fcvb',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ENERGY',
+
+'puid59': 'bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "432328918"
+});
+
+
+
+Одновременно пропорционально будет повышаться налог на добычу полезных ископаемых (НДПИ). Дополнительные доходы от НДПИ в результате налогового маневра принесут российскому бюджету порядка 10,8 трлн рублей, поскольку эти доходы полностью идут в казну. При этом будет введен ряд механизмов для поддержки и стимулирования нефтепереработки в стране.
+
+
+#mt_incut2 {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut2 .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut2 .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut2 .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut2 .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut2"></div>');
+fetch('//news.mirtesen.ru/data/js/92823.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut2').html(txt);
+});
+}
+
+Минск неоднократно за последние годы приводил свои планы по диверсификации экспорта нефти, однако пока что страна получает на свои нефтеперерабатывающие заводы практически только российскую нефть. Это логично — поставляемая из Москвы нефть самая дешевая, да и находится Россия ближе других нефтедобывающих стран.
+При этом условия получения российской нефти до сих пор, даже после объявления о налоговом маневре, остаются для Минска наиболее экономически выгодными — республика могла закупать у России нефть, не платя при этом таможенные пошлины.
+Согласно оценкам Всемирного банка, в начале 2000-х годов размер нефтяной субсидии, получаемой от России, достигал в отдельные годы 10% об объема ВВП Белоруссии, но с 2009 года стал снижаться и в 2016-м составил 4,6% по отношению к ВВП страны.
+
+
+
+#native3{ position: relative; float: right; width: auto; margin-left: 10px }
+#begun_block_439285592 .ad_native_block{
+position: relative !important;
+z-index: 1 !important;
+padding: .4em 1em .7em .7em !important;
+min-height: 100% !important;
+overflow: hidden !important;
+background: #eeefeb!important;
+border-bottom: 4px solid #e0e1dd;
+font-size: 14px !important;
+width: 410px!important;
+font-family: "Arial";
+color:#000;
+}
+#begun_block_439285592 .ad_native_img {
+position: relative !important;
+margin-right: 12px !important;
+float: left !important;
+overflow: hidden !important;
+-ms-flex-negative: 0 !important;
+flex-shrink: 0 !important;
+margin-top: 6px;
+}
+#begun_block_439285592 .ad_native_title_wrapper {
+line-height: 16px;
+padding-top: 4px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone {
+font-size: 18px;
+font-weight: 700;
+line-height: 19px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone:hover {
+color: #AF242C !important;
+}
+#begun_block_439285592 .ad_native_title {
+margin-top: 10px;
+}
+#begun_block_439285592 .ad_native_title span {
+background-color: #AF242C;
+color: #fff;
+padding: 2px 5px;
+}
+#begun_block_439285592 .ad_native_desc {
+line-height: 16px;
+margin-top: 10px;
+}
+#begun_block_439285592 span.ad_native_sponsored {
+display: none;
+}
+
+
+
+AdfProxy.sspScroll('native3', {
+'p1': 'bwjcl',
+'p2': 'fjgk',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ENERGY',
+
+'puid59': 'bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "439285592"
+});
+
+
+
+Минск, получая российскую нефть, частично ее поставляет на экспорт, но основной объем нефти все же перерабатывается внутри страны, и потом продукты этой переработки идут в Европу, поясняет старший аналитик БКС Премьер Сергей Суверов.
+
+Новости СМИ2
+
+(function() {
+var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+sc.src = '//smi2.ru/data/js/93296.js'; sc.charset = 'utf-8';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+}());
+
+В 2017 году глубина переработки — этот показатель отражает величину нефтепродуктов, получаемых с тонны нефти — составила около 73% на белорусском НПЗ «Нафтан» и 78% — на Мозырском НПЗ. После модернизации двух заводов глубина переработки нефти должна вырасти до 90-92%.
+Казалось бы, Белоруссия попала в тупик. Платить компенсацию за налоговый маневр Москва отказывалась.
+Но в конце апреле из России по трубопроводу «Дружба» на белорусские НПЗ стала поступать нефть, загрязненная хлорорганическими соединениями. Этот случай снова стал красной тряпкой, которой Минск, как тореадор, стал размахивать перед лицом нашей станы, требуя компенсации убытков.
+Летом президент Белоруссии Александр Лукашенко заявил о том, что Белоруссия понесла убытки на сотни миллионов долларов, и призывал свое правительство активнее требовать компенсации с России.
+Решение вопроса о компенсации «за грязную нефть» обойти не удастся, что-то да придется заплатить, считает Суверов.
+Поэтому белорусская сторона будет стремиться «отжать» у Москвы по максимуму, но, конечно же, о тех суммах компенсации, которые приводит Лукашенко или министры правительства соседней страны, речь быть не может – они будут гораздо ниже, отмечает аналитик.
+

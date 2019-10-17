@@ -1,0 +1,319 @@
+Аппетиты растут: сколько денег нужно для счастья
+
+Стало известно, сколько нужно для счастья среднестатистическому россиянину. Об этом говорят результаты опроса исследовательского центра портала SuperJob, опубликованные на их сайте.
+
+
+
+Реклама
+
+
+.adcenter-wrapper {
+padding: 0 20px 0 85px;
+}
+.AdCentre_new_adv{
+margin-bottom: 20px;
+}
+.AdCentre_new_adv .partner_material_item{
+min-height: 76px;
+margin: 10px 0px;
+float: left;
+margin-left: 12px;
+}
+.AdCentre_new_adv .x80_80{
+max-width: 80px;
+max-height: 80px;
+margin-right: 10px;
+float: left;
+}
+.AdCentre_new_adv .partner_material_item_text{
+float:left;
+max-width: 120px;
+}
+.AdCentre_new_adv .partner_material_item_text_value{
+font: normal 14px/16px "PT Sans", serif;
+display: block;
+}
+.AdCentre_new_adv .partner_material_item_text_value:hover{
+color: #b11116;
+}
+.AdCentre_new_adv .sausage-header{
+position: relative;
+display: block;
+height: 34px;
+margin-left: 10px;
+font: bold 15px/36px 'PT Sans', sans-serif;
+color: #333;
+letter-spacing: 0.01em;
+border-bottom: 1px solid #dfdfdf;
+}
+@media print, screen and (max-width: 1260px){
+.adcenter-wrapper {
+padding: 0 0 0 0;
+}
+.AdCentre_new_adv {
+width: 587px;
+}
+.AdCentre_new_adv .sausage-list{
+width: 587px;
+max-height: 208px;
+}
+.AdCentre_new_adv .partner_material_item_text{
+max-width: 190px;
+}
+}
+
+
+ AdfProxy.ssp('AdCentre', {
+'p1': 'bwrhb',
+'p2': 'fomw',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_FINANCE',
+
+'puid59': 'bc:finance:business',
+
+}, {
+'begun-auto-pad': "432328744",
+'begun-block-id': "442235190"
+});
+
+
+
+
+
+
+set_resizeblock_handler('#AdCentre', function () {
+if( $('#AdCentre').height() > 10 ) {
+$('.AdCentre_name, .AdCentre_bot').show();
+//$('#Adcenter_Vertical').hide();
+} else {
+$('.AdCentre_name, .AdCentre_bot').hide();
+}
+});
+
+Для полного счастья россиянам нужна зарплата размером в 161 тысячу рублей в месяц. При этом мужчинам для счастья нужна ежемесячная зарплата в размере 181 тысяча рублей, женщинам – 138 тыс. Опрос проводился с 16 по 26 августа 2019 года, в нем приняли участие 2,5 тыс. человек старше 18 лет.
+
+
+#mt_incut {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut"></div>');
+fetch('//news.mirtesen.ru/data/js/91014.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut').html(txt);
+});
+}
+
+
+Больше всего денег для счастья россиянам нужно было в 2017 году — 184 тыс. рублей, говорят ранние исследования портала. В 2018 году россиянам было достаточно 159 тысяч рублей.
+Судя по результатам исследования, планка растет вместе с повышением окладов. Так, в среднем, получающим более 80 тыс. рублей в месяц хочется зарабатывать по 238 тыс. рублей. А зарабатывающим менее 30 тыс. в месяц достаточно для счастья 117 тыс. рублей.
+Кроме того, отличаются требования и в возрастном разрезе. Если молодежи до 24 лет для полного счастья достаточно и 118 тыс. рублей, то гражданам в возрасте старше 35 лет необходимо 172 тыс. рублей.
+Опрос дает разбивку и по городам.
+Самые высокие зарплатные ожидания в разрезе по городам — у жителей Москвы. В столице для полного счастья нужно зарабатывать по 212 тысяч рублей в месяц, cчитают респонденты.
+На втором месте жители Владивостока — они назвали желаемый размер оклада в 205 тысяч рублей, на третьем месте жители Ростова-на-Дону — им для счастья необходимо ежемесячно зарабатывать 200 тысяч рублей.
+
+
+
+
+
+AdfProxy.ssp('in_read', {
+'p1': 'bryhb',
+'p2': 'fcvb',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_FINANCE',
+
+'puid59': 'bc:finance:business',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "432328918"
+});
+
+
+
+Жители Санкт-Петербурга указали на желаемый уровень зарплат в 165 тысяч рублей, город занял десятое место по зарплатным ожиданиям. Одни из самых низких ожиданий по зарплатам в Кирове — 120 тыс. рублей и в Оренбурге — 115 тыс. рублей.
+
+
+#mt_incut2 {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut2 .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut2 .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut2 .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut2 .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut2"></div>');
+fetch('//news.mirtesen.ru/data/js/92823.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut2').html(txt);
+});
+}
+
+«Денежный аппетит за год больше всего вырос в Ижевске (+10 000 руб.), Набережных Челнах (+9 000 рублей), в Москве (+5 000 рублей) и Санкт-Петербурге (также +5 000 рублей). Скромнее в своих мечтах о счастье по сравнению с 2018 годом стали жители Тольятти (-7 000 рублей) и Барнаула (также -7 000 рублей)», — указывает портал SuperJob.
+Средняя месячная зарплата в целом по стране гораздо ниже озвученных респондентами цифр. За первое полугодие 2019 года она составила 46 210 рублей, говорится в докладе «Социально-экономическое положение России».
+Реальные располагаемые доходы россиян за первое полугодие 2019 года снизились в годовом выражении на 1,3%, ранее сообщал Росстат.
+При этом реальные зарплаты в первой половине 2019 года увеличились на 1,9%.
+
+
+
+#native3{ position: relative; float: right; width: auto; margin-left: 10px }
+#begun_block_439285592 .ad_native_block{
+position: relative !important;
+z-index: 1 !important;
+padding: .4em 1em .7em .7em !important;
+min-height: 100% !important;
+overflow: hidden !important;
+background: #eeefeb!important;
+border-bottom: 4px solid #e0e1dd;
+font-size: 14px !important;
+width: 410px!important;
+font-family: "Arial";
+color:#000;
+}
+#begun_block_439285592 .ad_native_img {
+position: relative !important;
+margin-right: 12px !important;
+float: left !important;
+overflow: hidden !important;
+-ms-flex-negative: 0 !important;
+flex-shrink: 0 !important;
+margin-top: 6px;
+}
+#begun_block_439285592 .ad_native_title_wrapper {
+line-height: 16px;
+padding-top: 4px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone {
+font-size: 18px;
+font-weight: 700;
+line-height: 19px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone:hover {
+color: #AF242C !important;
+}
+#begun_block_439285592 .ad_native_title {
+margin-top: 10px;
+}
+#begun_block_439285592 .ad_native_title span {
+background-color: #AF242C;
+color: #fff;
+padding: 2px 5px;
+}
+#begun_block_439285592 .ad_native_desc {
+line-height: 16px;
+margin-top: 10px;
+}
+#begun_block_439285592 span.ad_native_sponsored {
+display: none;
+}
+
+
+
+AdfProxy.sspScroll('native3', {
+'p1': 'bwjcl',
+'p2': 'fjgk',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_FINANCE',
+
+'puid59': 'bc:finance:business',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "439285592"
+});
+
+
+
+Большую часть трат жители страны отводят на потребительские вещи. Так, 61,8 % совокупных расходов населения в первом полугодии 2019 года пришлось на покупку товаров, 18,8% совокупных расходов пришлось на оплату услуг.
+Реальные доходы населения падают. В 2018 году реальные доходы находились в отрицательной зоне — снизились на 0,2%. До конца 2019 года они почти не вырастут, ожидают в Минэкономразвития. Рост доходов составит 1% в годовом выражении, считает глава ведомства Максим Орешкин. Об этом он заявлял в эфире канала «Россия 1».
+Предпосылки для того, чтобы доходы населения действительно по итогам года «вышли в небольшой плюс» присутствуют, считает директор Института стратегического анализа компании ФБК Игорь Николаев. 
+Обещания Орешкина о росте доходов населения объяснимы несколькими факторами, поясняет эксперт.
+
+Новости СМИ2
+
+(function() {
+var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+sc.src = '//smi2.ru/data/js/93296.js'; sc.charset = 'utf-8';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+}());
+
+В частности, с 1 октября индексируются зарплаты бюджетников. Около двух миллионов занятых в бюджетном секторе будут получать оклады на 4,3% выше. Также с этого месяца увеличиваются выплаты военным пенсионерам.
+«Повышение зарплат бюджетникам и пенсий военным — индексация с 1 октября — это безусловно рост доходов по меньшей мере этой категории населения, а это все учитывается в общей копилке», — объясняет Николаев.
+Вторая предпосылка для роста доходов населения, по его словам, заключается в том, что c 1 октября ужесточились правила по выдаче кредитов. Реальные располагаемые денежные доходы — это доходы за вычетом обязательных платежей, скорректированные на инфляцию. Туда же входят и выплаты по кредитам, напоминает Николаев.
+«Это, конечно, такая неоднозначная мера [нововведения ЦБ. — «Газета.Ru»]. Просто это означает, что будут меньше брать кредитов и, соответственно, меньше платить по кредитам. И это статистически увеличивает реальные доходы населения», — добавляет он.
+Напомним, с 1 октября банки должны рассчитывать показатель долговой нагрузки (ПДН) для желающих взять новый потребительский кредит. В итоге взять кредит станет сложнее и число отказов может возрасти, говорили «Газете.Ru» эксперты.
+

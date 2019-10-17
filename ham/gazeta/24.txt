@@ -1,0 +1,334 @@
+Страхи и мифы: почему российские налоги вызывают ужас 
+
+Лучше, чем в Европе
+Действующая в России налоговая система достаточно комфортна и стабильна. С таким тезисом выступил Сергей Дробышевский, директор по научной работе Института Гайдара на экспертной сессии «Налоговая политика как фактор конкурентоспособности российского бизнеса» в рамках Гайдаровского форума. Но представители бизнеса с ним категорически не согласились.
+
+
+
+Реклама
+
+
+.adcenter-wrapper {
+padding: 0 20px 0 85px;
+}
+.AdCentre_new_adv{
+margin-bottom: 20px;
+}
+.AdCentre_new_adv .partner_material_item{
+min-height: 76px;
+margin: 10px 0px;
+float: left;
+margin-left: 12px;
+}
+.AdCentre_new_adv .x80_80{
+max-width: 80px;
+max-height: 80px;
+margin-right: 10px;
+float: left;
+}
+.AdCentre_new_adv .partner_material_item_text{
+float:left;
+max-width: 120px;
+}
+.AdCentre_new_adv .partner_material_item_text_value{
+font: normal 14px/16px "PT Sans", serif;
+display: block;
+}
+.AdCentre_new_adv .partner_material_item_text_value:hover{
+color: #b11116;
+}
+.AdCentre_new_adv .sausage-header{
+position: relative;
+display: block;
+height: 34px;
+margin-left: 10px;
+font: bold 15px/36px 'PT Sans', sans-serif;
+color: #333;
+letter-spacing: 0.01em;
+border-bottom: 1px solid #dfdfdf;
+}
+@media print, screen and (max-width: 1260px){
+.adcenter-wrapper {
+padding: 0 0 0 0;
+}
+.AdCentre_new_adv {
+width: 587px;
+}
+.AdCentre_new_adv .sausage-list{
+width: 587px;
+max-height: 208px;
+}
+.AdCentre_new_adv .partner_material_item_text{
+max-width: 190px;
+}
+}
+
+
+ AdfProxy.ssp('AdCentre', {
+'p1': 'bwrhb',
+'p2': 'fomw',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ECONOMY',
+
+'puid59': 'bc',
+
+}, {
+'begun-auto-pad': "432328744",
+'begun-block-id': "442235190"
+});
+
+
+
+
+
+
+set_resizeblock_handler('#AdCentre', function () {
+if( $('#AdCentre').height() > 10 ) {
+$('.AdCentre_name, .AdCentre_bot').show();
+//$('#Adcenter_Vertical').hide();
+} else {
+$('.AdCentre_name, .AdCentre_bot').hide();
+}
+});
+
+Дробышевский отметил, что в рейтинге Всемирного банка Doing Business за 10 лет с 2009 года по компоненте «Налоги» Россия поднялась с 134-го на 53-е место. Но, по его мнению, многочисленные налоговые «мифы» мешают властям проводить тонкую настройку системы, повышать собираемость налогов.
+
+
+#mt_incut {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut"></div>');
+fetch('//news.mirtesen.ru/data/js/91014.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut').html(txt);
+});
+}
+
+
+Для большей убедительности организаторы сессии перед ее началом раздали участникам доклад на тему мифических изъянов налоговой системы.
+Самый распространенный миф говорит о том, что налоговая нагрузка, в частности налог на прибыль предприятий, в России непомерно высока, и это якобы препятствует инвестициям.
+Но авторы доклада считают, что Россия по сравнению со странами ОЭСР имеет низкий уровень налогообложения. «В 2017 году средняя эффективная налоговая ставка в России равна 16,7%, а в среднем по ОЭСР — 21,6%. Предельная эффективная ставка налога в России составляет 7,9%, а в ОЭСР — 13,9%», — подсчитали эксперты.
+
+
+
+
+
+AdfProxy.ssp('in_read', {
+'p1': 'bryhb',
+'p2': 'fcvb',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ECONOMY',
+
+'puid59': 'bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "432328918"
+});
+
+
+
+Из этого сделан вывод о том, что налоговые условия для реализации инвестпроектов в экономике России как минимум, не хуже, чем в большинстве стран ОЭСР и БРИКС.
+
+
+#mt_incut2 {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut2 .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut2 .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut2 .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut2 .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut2"></div>');
+fetch('//news.mirtesen.ru/data/js/92823.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut2').html(txt);
+});
+}
+
+Авторы исследования предлагают властям не снижать ставку налога на прибыль. Все равно это никак не простимулирует инвестиционную деятельность и не приведет к созданию новых производств, считают они. Предпочтительнее, если уж власти задумаются об очередном налоговом маневре, снижение ставки налога на труд (страховых взносов).
+Плоская и эффективная
+На фоне роста цен на бензин эксперты не могли не развенчать миф о том, что экспортные пошлины на энергоносители обеспечивают низкие внутренние цены на бензин.
+Эксперты доказывают, что экспортные пошлины могли бы сдерживать рост цен на бензоколонках, но «вследствие неэффективности нефтепереработки конечные цены для потребителей практически не отличаются от мировых».
+
+
+
+#native3{ position: relative; float: right; width: auto; margin-left: 10px }
+#begun_block_439285592 .ad_native_block{
+position: relative !important;
+z-index: 1 !important;
+padding: .4em 1em .7em .7em !important;
+min-height: 100% !important;
+overflow: hidden !important;
+background: #eeefeb!important;
+border-bottom: 4px solid #e0e1dd;
+font-size: 14px !important;
+width: 410px!important;
+font-family: "Arial";
+color:#000;
+}
+#begun_block_439285592 .ad_native_img {
+position: relative !important;
+margin-right: 12px !important;
+float: left !important;
+overflow: hidden !important;
+-ms-flex-negative: 0 !important;
+flex-shrink: 0 !important;
+margin-top: 6px;
+}
+#begun_block_439285592 .ad_native_title_wrapper {
+line-height: 16px;
+padding-top: 4px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone {
+font-size: 18px;
+font-weight: 700;
+line-height: 19px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone:hover {
+color: #AF242C !important;
+}
+#begun_block_439285592 .ad_native_title {
+margin-top: 10px;
+}
+#begun_block_439285592 .ad_native_title span {
+background-color: #AF242C;
+color: #fff;
+padding: 2px 5px;
+}
+#begun_block_439285592 .ad_native_desc {
+line-height: 16px;
+margin-top: 10px;
+}
+#begun_block_439285592 span.ad_native_sponsored {
+display: none;
+}
+
+
+
+AdfProxy.sspScroll('native3', {
+'p1': 'bwjcl',
+'p2': 'fjgk',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ECONOMY',
+
+'puid59': 'bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "439285592"
+});
+
+
+
+Экспортные пошлины поддерживают не внутреннего потребителя, а неэффективных собственников, поэтому необходимо скорейшее проведение налогового маневра, рекомендуют специалисты.
+Не остался без оценки и подоходный налог. Это миф, что «НДФЛ несправедлив и его следует сделать прогрессивным», считают эксперты и настаивают на целесообразности нынешней плоской шкалы в 13%.
+Если делать этот налог более «справедливым», не меняя самой ставки налога, то можно было повысить необлагаемый уровень, например, до минимального прожиточного минимума.
+Правда, это новшество ударит по доходам региональных и местных бюджетов, отмечают эксперты РАНХиГС.
+
+Новости СМИ2
+
+(function() {
+var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+sc.src = '//smi2.ru/data/js/93296.js'; sc.charset = 'utf-8';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+}());
+
+Еще одно предложение по приданию подоходному налогу большей справедливости и прогрессивности — ужесточение статуса нерезидентов.
+Минфин мог бы, например, сократить для физлиц со 183 до 90 дней срок пребывания в России, после которого присваивается резидентский статус. То есть, в этом случае иностранец будет вынужден платить налоги по российским законам и отчисления вырастут, а злоупотреблений станет меньше.
+Бизнес хочет стабильности
+Всего таких мифов эксперты РАНХиГС насчитали более десятка. И по поводу мифов никто из приглашенных к участию экспертов и представителей бизнеса не спорил.
+Участвующий в налоговой дискуссии замминистра финансов РФ Илья Трунин на предложение модератора оценить экспертные изыскания ответил в том духе, что он лучше еще посидит и послушает. Зато Дмитрий Сатин, заместитель руководителя Федеральной налоговой службы, примирительно сказал, что действующая налоговая система «не идеальна, но выполняет свои задачи».
+Иными словами, представители двух регуляторных органов вроде бы дали понять, что кардинальных изменений в ближайшее время не предвидится. Но им не очень поверили.
+Представители бизнеса высказывали опасения как раз по поводу стабильности налоговой системы РФ. Александр Шохин, глава РСПП, отметил, что власти выполнили в общем-то обещание не менять налоги до 2018 года включительно. Текущую налоговую нагрузку перераспределили, но в целом она, можно считать, не выросла. Теперь срок моратория прошел, и власти снова обещают зафиксировать действующую налоговую нагрузку. Но бизнесу не стоит расслабляться.
+«Мы видим заходы с разных сторон по поводу налогов и сборов», — предупредил Шохин и привел пример с экологическим сбором.
+Он попросил, чтобы предпринимателей не ставили хотя бы перед фактом налоговых новаций. Если уж Госдума будет принимать какие-то изменения, то не позднее весенний сессии, а вводить их надо с временным лагом в полгода.
+Неудовольствие крупного бизнеса вызывает и механизм вхождения в приоритетные нацпроекты. На период их реализации, примерно на 15 лет, власть могла бы зафиксировать стабильность налогообложения участников таких проектов.
+«Важна даже не сама ставка, а именно ее стабильность», — считает Шохин.
+Самозанятые боятся властей
+По поводу стабильности российских налогов больше всех возмущался Борис Титов, бизнес-омбудсмен. Он считает, что нет смысла в такой стабильности, которая «дестимулирует экономический рост и не выполняет функцию ликвидации социального неравенства». Титов сослался на опыт Китая, который даже при росте ВВП в 7% снижает нагрузку на труд.
+В России экономический рост загнан в однопроцентное гетто, а власти только и думают, как бы еще урвать с бизнеса.
+Титов предложил: ФНС могла бы повышать налоги там, где больше прибыль, и снижать, если она уменьшается.
+Сергей Шаталов, советник директора «Научно-исследовательского финансового института Министерства финансов РФ», тоже признал, что идеальной налоговой системы не бывает, и призвал ускорить налоговый маневр.
+Кроме того, он предложил подумать об обнулении ставки для российских компаний при экспорте услуг. 
+И, наконец, Шаталов считает, что властям необходимо активнее отказываться от различного рода налоговых льгот и преференций, поскольку это негативно влияет на конкурентную среду.
+Наконец, эксперты затронули тему введения 4%-го налога на самозанятых. Будет ли такой налог стимулом для вывода их из тени, уверенности нет. Сатин сказал, что этот налог поможет вывести из тени порядка 15 млн человек. Но Шохин возразил на это, что желающих будет немного, самозанятые не доверяют власти и боятся ее.
+Для того, чтобы не боялись, необходимо для начала уменьшить «глубину проверки» бизнеса контрольными органами, силовыми структурами. У них глубина проверки – 10 лет, у ФНС — 3 года.
+При этом объявить амнистию по несовершенным или невыявленным нарушениям закона нельзя. «Надо сначала поймать, а потом уж объявлять амнистию, таков закон», — иронизировал Шохин.
+В плане экспертов был еще один пункт для обсуждения — «Можно ли повысить привлекательность российской налоговой юрисдикции для обеспеченных граждан?». Но до этой темы собравшиеся так и не дошли, оставили олигархов в покое. На усмотрение контрольно-надзорных органов США и ЕС.
+

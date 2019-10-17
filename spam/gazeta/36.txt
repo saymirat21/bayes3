@@ -1,0 +1,324 @@
+Отказ от доллара: почему медлит Европа
+
+Судя по последним заявлениям чиновников, активный курс на дедолларизацию продолжается. Как сказал на днях президент России Владимир Путин, сейчас приходится думать о том, как обезопасить себя от того, чтобы США стали использовать свою валюту как инструмент политического давления и диверсифицировать расчеты.
+
+
+
+Реклама
+
+
+.adcenter-wrapper {
+padding: 0 20px 0 85px;
+}
+.AdCentre_new_adv{
+margin-bottom: 20px;
+}
+.AdCentre_new_adv .partner_material_item{
+min-height: 76px;
+margin: 10px 0px;
+float: left;
+margin-left: 12px;
+}
+.AdCentre_new_adv .x80_80{
+max-width: 80px;
+max-height: 80px;
+margin-right: 10px;
+float: left;
+}
+.AdCentre_new_adv .partner_material_item_text{
+float:left;
+max-width: 120px;
+}
+.AdCentre_new_adv .partner_material_item_text_value{
+font: normal 14px/16px "PT Sans", serif;
+display: block;
+}
+.AdCentre_new_adv .partner_material_item_text_value:hover{
+color: #b11116;
+}
+.AdCentre_new_adv .sausage-header{
+position: relative;
+display: block;
+height: 34px;
+margin-left: 10px;
+font: bold 15px/36px 'PT Sans', sans-serif;
+color: #333;
+letter-spacing: 0.01em;
+border-bottom: 1px solid #dfdfdf;
+}
+@media print, screen and (max-width: 1260px){
+.adcenter-wrapper {
+padding: 0 0 0 0;
+}
+.AdCentre_new_adv {
+width: 587px;
+}
+.AdCentre_new_adv .sausage-list{
+width: 587px;
+max-height: 208px;
+}
+.AdCentre_new_adv .partner_material_item_text{
+max-width: 190px;
+}
+}
+
+
+ AdfProxy.ssp('AdCentre', {
+'p1': 'bwrhb',
+'p2': 'fomw',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_FINANCE',
+
+'puid59': 'bc',
+
+}, {
+'begun-auto-pad': "432328744",
+'begun-block-id': "442235190"
+});
+
+
+
+
+
+
+set_resizeblock_handler('#AdCentre', function () {
+if( $('#AdCentre').height() > 10 ) {
+$('.AdCentre_name, .AdCentre_bot').show();
+//$('#Adcenter_Vertical').hide();
+} else {
+$('.AdCentre_name, .AdCentre_bot').hide();
+}
+});
+
+По его словам, между странами Евразийского экономического союза 72% расчетов осуществляется в рублях, кроме того, многие страны мира задумываются и переходят к расчетам в национальных валютах.
+
+
+#mt_incut {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut"></div>');
+fetch('//news.mirtesen.ru/data/js/91014.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut').html(txt);
+});
+}
+
+
+«Я думаю, что переосмысление этой ситуации обязательно должно прийти к правящим кругам США», — отметил глава государства.
+По словам Путина, расчеты в долларах в мировой торговле падают. «Было 50% с лишним, стало 45%», — заявил президент.
+Дедолларизация в России и мире действительно продолжается, констатируют опрошенные «Газетой.Ru» эксперты. Это заметно, в частности, по тому, как страны продолжают сокращать свои резервы в долларах.
+Согласно статистике МВФ, доля доллара в них сократилась до минимального уровня с 2013 года – это $6,79 трлн или 61,63% от всех объемов резервов.
+Российский Центробанк только за последний год почти в два раза сократил долю доллара в структуре резервов — до 23,6% по состоянию на 31 марта 2019 года, 
+против 43,7% годом ранее, одновременно нарастив долю юаня, евро и золота.
+
+
+
+
+
+AdfProxy.ssp('in_read', {
+'p1': 'bryhb',
+'p2': 'fcvb',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_FINANCE',
+
+'puid59': 'bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "432328918"
+});
+
+
+
+Это следует из последнего «Обзора деятельности Банка России по управлению активами в иностранных валютах и золоте», опубликованного на сайте регулятора.
+Избавляются страны и от доллара в расчетах по бизнес-контрактам. В частности, это касается военных и в целом экспортных контрактов России.
+
+
+#mt_incut2 {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut2 .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut2 .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut2 .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut2 .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut2"></div>');
+fetch('//news.mirtesen.ru/data/js/92823.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut2').html(txt);
+});
+}
+
+Так, «Газпромнефть» и «Сургутнефтегаз» начали перестраховывать себя от возможных рисков из-за санкционной политики Соединенных штатов Америки и ввели изменения в экспортные контракты с возможностью оплаты в евро, сообщало агентство Reuters. В мае 2018 года Евросоюз перешел на расчеты в евро за нефтепродукты, поставляемые из Ирана.
+Часть взаиморасчетов России с иностранными партнерами, не только среди Евразийского экономического союза, действительно проходит в местных валютах, но доля эта все равно небольшая, говорит член совета директоров компании «ФинЭкспертиза» Агван Микаелян. 
+При этом эксперты очень сильно сомневаются, что ее удастся серьезно нарастить в ближайшее время. Все контракты, которые в России могли перевести, в основном уже перевели в другие валюты, отличные от доллара, говорит аналитик «Финам» Алексей Коренев. По его мнению, хотя доля отказа от доллара в контрактах и будет расти, но медленнее, чем раньше.
+
+
+
+#native3{ position: relative; float: right; width: auto; margin-left: 10px }
+#begun_block_439285592 .ad_native_block{
+position: relative !important;
+z-index: 1 !important;
+padding: .4em 1em .7em .7em !important;
+min-height: 100% !important;
+overflow: hidden !important;
+background: #eeefeb!important;
+border-bottom: 4px solid #e0e1dd;
+font-size: 14px !important;
+width: 410px!important;
+font-family: "Arial";
+color:#000;
+}
+#begun_block_439285592 .ad_native_img {
+position: relative !important;
+margin-right: 12px !important;
+float: left !important;
+overflow: hidden !important;
+-ms-flex-negative: 0 !important;
+flex-shrink: 0 !important;
+margin-top: 6px;
+}
+#begun_block_439285592 .ad_native_title_wrapper {
+line-height: 16px;
+padding-top: 4px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone {
+font-size: 18px;
+font-weight: 700;
+line-height: 19px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone:hover {
+color: #AF242C !important;
+}
+#begun_block_439285592 .ad_native_title {
+margin-top: 10px;
+}
+#begun_block_439285592 .ad_native_title span {
+background-color: #AF242C;
+color: #fff;
+padding: 2px 5px;
+}
+#begun_block_439285592 .ad_native_desc {
+line-height: 16px;
+margin-top: 10px;
+}
+#begun_block_439285592 span.ad_native_sponsored {
+display: none;
+}
+
+
+
+AdfProxy.sspScroll('native3', {
+'p1': 'bwjcl',
+'p2': 'fjgk',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_FINANCE',
+
+'puid59': 'bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "439285592"
+});
+
+
+
+Так, если внимательно посмотреть структуру товарооборота России и Китая (по данным за прошлый год — более $100 млрд), то окажется, что большая часть его проходит, несмотря на все лозунги по отказу от доллара, совсем не в национальных валютах, замечает Коренев. По итогам 2018 года, например, доля расчетов в нацвалютах двух стран составила менее 17%. На долларовые контракты до сих приходится более 75% оборота.
+
+Новости СМИ2
+
+(function() {
+var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+sc.src = '//smi2.ru/data/js/93296.js'; sc.charset = 'utf-8';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+}());
+
+Как поясняет Микаелян, отказываться от доллара в контрактам странам вообще неудобно из-за волатильности курсов национальных валют.
+Многие контракты, если их перевести на нацвалюты, будут гораздо дороже и содержать транзакционные издержки, отмечает Коренев.
+«Транзакционные издержки при расчетах в валюте отличной от доллара в основном будут связаны с расходами на валютную конвертацию. Большинство валют отличных от доллара как яркий тому пример турецкая лира — несут в себе существенный валютный риск из-за повышенной волатильности», — объясняет финансовый аналитик «БКС Премьер» Сергей Дейнека.
+Так что неудивительно, что дедолларизация в России идет не в пользу расчетов в национальных валютах, а в пользу перевода контрактов в евро.
+По данным Федеральной таможенной службы (ФТС), за пять лет, которые наша страна живет под санкциями со стороны США, доля евро в расчетах нашей страны с ее торговыми партнерами выросла — с 18,1% до 34,3%.
+При этом, по словам опрошенных «Газетой.Ru» экспертов, вообще уйти от доллара в пользу других валют и евро, крайне сложно, так как самый главный мировой товар — нефть — котируется именно в нем.
+Чересчур активная дедолларизация не выгодна самой Европе.
+Масштабный отказ Европы от долларовых расчетов формирует риски для самой европейской экономики, 
+отмечает Сергей Дейнека.
+ЕС остается одним из крупнейших импортеров энергоносителей, за которые союз расплачивается в основном долларами. И пока не будет создан достаточно ликвидный нефтяной бенчмарк (индикатор для оценки рынка — «Газета.Ru»), номинированный в евро, оплата за нефтяные поставки евро будет связана с повышенным валютным риском.
+Поэтому объемы транзакций в евро даже на нефтяном рынке сейчас очень скромные. Масштабный переход на расчеты в евро не выгоден самой Европе, отмечает он.
+Помимо сопутствующих курсовых рисков при расчетах «не в долларах», экспортная компонента европейской экономики также может испытать давление, добавляет Дейнека.
+Другими словами, если Европа откажется от доллара в глобальном масштабе и будет рассчитываться за импортные поставки в своей национальной валюте, то евро получит определенный стимул для укрепления. Как следствие, более крепкий евро «урежет» доходы европейских экспортеров, так как товары, произведенные в еврозоне, подорожают и окажутся неконкурентоспособными на других рынках, поясняет Микаелян.
+

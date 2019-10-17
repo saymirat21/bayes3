@@ -1,0 +1,332 @@
+«Вам звонят из банка»: как воруют наши деньги
+
+Мошенники получают деньги клиентов банков благодаря базам персональных данных, которые утекают в интернет. Именно они — хлеб для «обзвонщиков», обманывающих население. Такие базы с фамилиями, номерами телефонов, паспортными данными и другой информацией продаются в огромной количестве.
+
+
+
+Реклама
+
+
+.adcenter-wrapper {
+padding: 0 20px 0 85px;
+}
+.AdCentre_new_adv{
+margin-bottom: 20px;
+}
+.AdCentre_new_adv .partner_material_item{
+min-height: 76px;
+margin: 10px 0px;
+float: left;
+margin-left: 12px;
+}
+.AdCentre_new_adv .x80_80{
+max-width: 80px;
+max-height: 80px;
+margin-right: 10px;
+float: left;
+}
+.AdCentre_new_adv .partner_material_item_text{
+float:left;
+max-width: 120px;
+}
+.AdCentre_new_adv .partner_material_item_text_value{
+font: normal 14px/16px "PT Sans", serif;
+display: block;
+}
+.AdCentre_new_adv .partner_material_item_text_value:hover{
+color: #b11116;
+}
+.AdCentre_new_adv .sausage-header{
+position: relative;
+display: block;
+height: 34px;
+margin-left: 10px;
+font: bold 15px/36px 'PT Sans', sans-serif;
+color: #333;
+letter-spacing: 0.01em;
+border-bottom: 1px solid #dfdfdf;
+}
+@media print, screen and (max-width: 1260px){
+.adcenter-wrapper {
+padding: 0 0 0 0;
+}
+.AdCentre_new_adv {
+width: 587px;
+}
+.AdCentre_new_adv .sausage-list{
+width: 587px;
+max-height: 208px;
+}
+.AdCentre_new_adv .partner_material_item_text{
+max-width: 190px;
+}
+}
+
+
+ AdfProxy.ssp('AdCentre', {
+'p1': 'bwrhb',
+'p2': 'fomw',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_FINANCE',
+
+'puid59': 'business:bc',
+
+}, {
+'begun-auto-pad': "432328744",
+'begun-block-id': "442235190"
+});
+
+
+
+
+
+
+set_resizeblock_handler('#AdCentre', function () {
+if( $('#AdCentre').height() > 10 ) {
+$('.AdCentre_name, .AdCentre_bot').show();
+//$('#Adcenter_Vertical').hide();
+} else {
+$('.AdCentre_name, .AdCentre_bot').hide();
+}
+});
+
+За первое полугодие 2019 года специалистами Центра мониторинга и реагирования на компьютерные атаки в кредитно-финансовой сфере (ФинЦЕРТ) Банка России обнаружены 12 903 объявления о продаже баз данных. При этом только в 12% случаев распространение баз с личной информацией допустили банки, указано в годовом отчете организации.
+
+
+#mt_incut {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut"></div>');
+fetch('//news.mirtesen.ru/data/js/91014.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut').html(txt);
+});
+}
+
+
+ЦБ подчеркивает, что социальная инженерия — это главная угроза информационной безопасности. «Более 97% хищений со счетов физических лиц и 39% хищений со счетов юридических лиц были совершены с использованием приемов социальной инженерии», — рассказал на форуме «Финополис» первый замглавы департамента информационной безопасности ЦБ Артем Сычев.
+Этим термином называют метод получения информации, основанный на особенностях психологии людей. Чаще всего речь идет о звонках клиенту банка. Мошенники играют на человеческих слабостях и выманивают деньги, отметил Сычев.
+По его словам, определяющее значение имеют три фактора.
+Во-первых, в зависимости от того, что говорит «обзвонщик», клиент боится потерять деньги, хочет заработать (пробуждение чувства наживы) или вынужден быстро принять решение, поскольку его заставляют сообщить некие данные срочно.
+«И здесь решающим является второй фактор — уровень критичности мышления в стрессовой ситуации», — указывают в ЦБ.
+
+
+
+
+
+AdfProxy.ssp('in_read', {
+'p1': 'bryhb',
+'p2': 'fcvb',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_FINANCE',
+
+'puid59': 'business:bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "432328918"
+});
+
+
+
+При этом именно утечка персональных данных — это основа для такого рода мошеннических действий.
+«Основным источником для социальной инженерии является подпитка таких называемых «обзвонщиков» информацией для обзвона. «Обзвонщику» нужно немного: номер телефона клиента и ФИО», — сказал Сычев.
+
+
+#mt_incut2 {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut2 .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut2 .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut2 .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut2 .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut2"></div>');
+fetch('//news.mirtesen.ru/data/js/92823.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut2').html(txt);
+});
+}
+
+Откуда берутся эти данные? В ЦБ отмечают, что источниками утечки персональных данных являются не столько сотрудники банков, «сколько иные многочисленные операторы обработки персональных данных».
+По словам Сычева, речь в частности идет о данных, внесенных, например, на сайте интернет-магазина для доставки товаров. То есть в утечке персональных данных виноваты сами пользователи. К сожалению, эта информация часто попадает в руки к мошенникам — обнаруженное ЦБ число предложений по продаже баз данных это подтверждает.
+Кроме того, на руку мошенникам переход по ссылкам из непроверенных источников, скачивание сомнительных приложений, игнорирование установки антивируса и его предупреждений. Все это позволяет злоумышленниками получить логины и пароли от личного кабинета или первичные данные по банковской карте.
+В Банке России полагают, что бороться с мошенничеством нужно, повышая осведомленность граждан. При этом ФинЦЕРТ ожидает, что спрос на данные продолжит расти.
+
+
+
+#native3{ position: relative; float: right; width: auto; margin-left: 10px }
+#begun_block_439285592 .ad_native_block{
+position: relative !important;
+z-index: 1 !important;
+padding: .4em 1em .7em .7em !important;
+min-height: 100% !important;
+overflow: hidden !important;
+background: #eeefeb!important;
+border-bottom: 4px solid #e0e1dd;
+font-size: 14px !important;
+width: 410px!important;
+font-family: "Arial";
+color:#000;
+}
+#begun_block_439285592 .ad_native_img {
+position: relative !important;
+margin-right: 12px !important;
+float: left !important;
+overflow: hidden !important;
+-ms-flex-negative: 0 !important;
+flex-shrink: 0 !important;
+margin-top: 6px;
+}
+#begun_block_439285592 .ad_native_title_wrapper {
+line-height: 16px;
+padding-top: 4px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone {
+font-size: 18px;
+font-weight: 700;
+line-height: 19px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone:hover {
+color: #AF242C !important;
+}
+#begun_block_439285592 .ad_native_title {
+margin-top: 10px;
+}
+#begun_block_439285592 .ad_native_title span {
+background-color: #AF242C;
+color: #fff;
+padding: 2px 5px;
+}
+#begun_block_439285592 .ad_native_desc {
+line-height: 16px;
+margin-top: 10px;
+}
+#begun_block_439285592 span.ad_native_sponsored {
+display: none;
+}
+
+
+
+AdfProxy.sspScroll('native3', {
+'p1': 'bwjcl',
+'p2': 'fjgk',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_FINANCE',
+
+'puid59': 'business:bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "439285592"
+});
+
+
+
+«Тенденция роста числа покушений на хищение платежных и персональных данных клиентов банков сохранится», — указано в отчете.
+«Мы считаем очень важным доводить до клиентов банков, и я сейчас, пользуясь случаем, хочу об этом сказать: если вам кто-то звонит и пытается узнать ваши данные, положите трубку и сами перезвоните в контактный центр вашего банка», — сказала, выступая на форуме, глава Банка России Эльвира Набиуллина.
+Согласно статистике ЦБ, объем несанкционированных операций с использованием платежных карт российских банков в прошлом году оказался самым большим за последние четыре года и составил 1,384 млрд руб.
+«Повышение степени защищенности информационных систем кредитных организаций привело к тому, что фокус внимания преступников сместился на атаки на клиентов банков», — говорится в отчете ФинЦЕРТ.
+
+Новости СМИ2
+
+(function() {
+var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+sc.src = '//smi2.ru/data/js/93296.js'; sc.charset = 'utf-8';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+}());
+
+ЦБ предупреждает, что зачастую данные платежных карт сообщают в переписке или в телефонных разговорах сами участники. В дальнейшем они могут сопоставляться и компилироваться с информацией, полученной из других источников.
+Новая опасная ловушка
+Вместе с тем мошенники придумывают все новые и новые способы кражи денег. От звонка преступника, который притворяется сотрудником банка, можно спастись, проявив бдительность. В первую очередь, проверив номер, с которого поступает вызов — действительно ли это номер кредитной организации.
+Однако мошенники уже взяли на вооружение новый инструмент обмана. Они выдают себя за сотрудников банков при помощи подмены номеров телефонов.
+«Технология подмены исходящего телефонного номера на номера, идентичные номерам кол‐центров кредитных организаций, позволила им успешно выдавать себя за сотрудников служб безопасности банков и под видом блокировки подозрительных транзакций совершать хищения средств жертв», — говорится в отчете.
+В результате значительно увеличилось количество сообщений о номерах телефонов злоумышленников, констатирует ФинЦЕРТ.
+Организация отправила на блокировку информацию о 4936 номерах мобильных операторов и номерах в коде 8‐800. Это почти в 39 раз больше, чем годом ранее, когда было заблокировано 127 телефонных номеров.
+Теперь ЦБ намерен инициировать изменения в закон о связи, чтобы операторы активнее шли навстречу регулятору и блокировали подменные номера.
+«Как правило, наши обращения большей частью связаны с подменой телефонных номеров, и операторы в этом не всегда идут навстречу, ссылаясь на отсутствие норм в законе. Вот здесь, очевидно, мы будем инициировать изменения в закон о связи», — сказал Сычев.
+О проблеме «Газете.Ru» рассказали и в «Росгосстрах Банке».
+«Действительно, в последние несколько месяцев возросло число обращений клиентов »Росгосстрах Банка» по поводу того, что им звонили мошенники, представляясь сотрудниками контакт-центра или службы безопасности банка. Мошенники звонят с целью получения сведений конфиденциального характера, относящихся к персональным данным клиентов, номерам их пластиковых карт, номерам счетов и остаткам на них», — сказал руководитель службы безопасности банка Валерий Антонов.
+Банк предупреждает клиентов о мошенниках и убедительно просит не сообщать звонящим свои персональные данные, данные банковских карт и счетов, в том числе трехзначный код с обратной стороны карты (CVV), ПИН-код карты, СМС-коды подтверждения операций.
+«Мы постоянно пытаемся донести до клиентов основную идею: сотрудники банка никогда не будут запрашивать подобную информацию», — подчеркнул Антонов.
+Лотерея с проигрышем
+Вот еще один подводный камень и риск потерять деньги — мошеннические сайты. Их число растет, как на дрожжах.
+«В отчетном периоде зафиксирован значительный, почти в семь раз, рост количества сайтов в категории мошеннических: лжеопросы, лжекомпенсации, лжевыигрыши и так далее. ФинЦЕРТ инициировал снятие с делегирования 9 тыс. 778 фишинговых доменов — на 486% больше, чем годом ранее», — говорится в документе.
+«Сейчас наиболее всего распространены мошенничества с использованием информации с сайтов продаж, когда псевдопокупатель готов перевести деньги за твой товар и просит данные карты, а также псевдовыигрыши в лотереи, сообщения о переводе денег на твой счет как способ добыть информацию о карте и фейковые сайты», — отметила руководитель практики уголовного и административного права НЮС «Амулекс» Алена Зеленовская.
+Кроме того, Банк России нашел около 780 тыс. сайтов с вредоносным программным обеспечением. С помощью них компьютерные преступники рассылают письма с зараженными вирусами файлами или ссылками на сайты с вредоносным ПО. Этот метод также используется, чтобы красть деньги банков и их клиентов.
+

@@ -1,0 +1,317 @@
+$113 млн за два месяца: в Грузии признали убытки от ссоры с Россией
+
+Запрет на авиасообщение между Россией и Грузией принес последней убытков на сумму порядка $113 миллионов, заявила глава Национальной администрации туризма (НАТ) страны Мариам Квривишвили. Об этом сообщает телеканал «Имеди».
+В июле грузинская туристическая индустрия потеряла $57 млн, а в августе – $56 млн, отметила Квривишвили. В сентябре турпоток из России немного вырос, но «ожиданий руководства страны это не оправдало», поскольку Тбилиси привык к значительному – на несколько десятков процентов – росту.
+При этом в первом полугодии 2019 года доходы Грузии от туризма росли, из-за чего власти республики ожидали «беспрецедентно высоких цифр» в третьем квартале.
+
+
+
+Реклама
+
+
+.adcenter-wrapper {
+padding: 0 20px 0 85px;
+}
+.AdCentre_new_adv{
+margin-bottom: 20px;
+}
+.AdCentre_new_adv .partner_material_item{
+min-height: 76px;
+margin: 10px 0px;
+float: left;
+margin-left: 12px;
+}
+.AdCentre_new_adv .x80_80{
+max-width: 80px;
+max-height: 80px;
+margin-right: 10px;
+float: left;
+}
+.AdCentre_new_adv .partner_material_item_text{
+float:left;
+max-width: 120px;
+}
+.AdCentre_new_adv .partner_material_item_text_value{
+font: normal 14px/16px "PT Sans", serif;
+display: block;
+}
+.AdCentre_new_adv .partner_material_item_text_value:hover{
+color: #b11116;
+}
+.AdCentre_new_adv .sausage-header{
+position: relative;
+display: block;
+height: 34px;
+margin-left: 10px;
+font: bold 15px/36px 'PT Sans', sans-serif;
+color: #333;
+letter-spacing: 0.01em;
+border-bottom: 1px solid #dfdfdf;
+}
+@media print, screen and (max-width: 1260px){
+.adcenter-wrapper {
+padding: 0 0 0 0;
+}
+.AdCentre_new_adv {
+width: 587px;
+}
+.AdCentre_new_adv .sausage-list{
+width: 587px;
+max-height: 208px;
+}
+.AdCentre_new_adv .partner_material_item_text{
+max-width: 190px;
+}
+}
+
+
+ AdfProxy.ssp('AdCentre', {
+'p1': 'bwrhb',
+'p2': 'fomw',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_TOURISM',
+
+'puid59': 'bc',
+
+}, {
+'begun-auto-pad': "432328744",
+'begun-block-id': "442235190"
+});
+
+
+
+
+
+
+set_resizeblock_handler('#AdCentre', function () {
+if( $('#AdCentre').height() > 10 ) {
+$('.AdCentre_name, .AdCentre_bot').show();
+//$('#Adcenter_Vertical').hide();
+} else {
+$('.AdCentre_name, .AdCentre_bot').hide();
+}
+});
+
+«Сокращение туристического потока из России, безусловно, влияет на частный сектор, бизнес и туристическую индустрию», – подчеркнула глава турадминистрации.
+В НАТ сообщили также, что в сентябре количество туристических визитов из России в Грузию упало почти на треть, составив порядка 105,5 тысяч. 
+
+
+#mt_incut {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut"></div>');
+fetch('//news.mirtesen.ru/data/js/91014.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut').html(txt);
+});
+}
+
+
+Ранее в Министерстве иностранных дел России заявили, что хотели бы нормализации отношений с Грузией. Замглавы МИД Андрей Руденко заявил, что в России рассчитывают вернуть диалог между двумя странами хотя бы на тот уровень, который был до июньских событий в Тбилиси.
+«Мы надеемся на нормализацию ситуации», — подчеркнул российский дипломат.
+Он выразил надежду, что сдвиг в отношениях произойдет на переговорах по безопасности и стабильности в Закавказье в Женеве.
+В Государственной думе накануне заявили, что уже в ближайшее время авиасообщение с Грузией может быть восстановлено. Однако, по словам председателя комитета Госдумы по делам СНГ, евразийской интеграции и связям с соотечественниками Леонида Калашникова, о конкретных сроках говорить пока не приходится. Перед возобновлением авиарейсов нужно убедиться, что грузинские аэропорты безопасны для российских самолетов, добавил он.
+
+
+
+
+
+AdfProxy.ssp('in_read', {
+'p1': 'bryhb',
+'p2': 'fcvb',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_TOURISM',
+
+'puid59': 'bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "432328918"
+});
+
+
+
+Калашников добавил, что даже после самых тяжелых кризисов Россия и Грузия могут найти общий язык. В качестве примера он привел встречу министров иностранных дел двух стран Сергея Лаврова и Давида Залкалиани, состоявшуюся в Нью-Йорке в конце сентября. Главы МИДов встретились на полях Генассамблеи ООН и поговорили лично впервые с 2008 года.
+
+
+#mt_incut2 {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut2 .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut2 .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut2 .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut2 .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut2"></div>');
+fetch('//news.mirtesen.ru/data/js/92823.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut2').html(txt);
+});
+}
+
+11 лет назад, напомним, Грузия разорвала дипломатические отношения с Российской Федерацией после августовской войны и признания Москвой независимости республик Абхазия и Южная Осетия. Тбилиси считает эти территории «оккупированными».
+По итогам встречи с Лавровым грузинский министр Залкалиани заявил, что прямые авиарейсы из России нужно возобновить как можно скорее.
+«Моя позиция хорошо известна общественности,  отношения между народами, развитие туризма — это те направления, которые способствуют деэскалации ситуации», — подчеркнул глава МИД Грузии.
+Пресс-секретарь президента России Дмитрий Песков, комментируя встречу двух министров, заявил, что Кремль выступает за восстановление хороших отношений с Грузией, а данные переговоры «дадут старт конструктивному диалогу между Москвой и Тбилиси».
+22 июня президент России Владимир Путин запретил российским авиакомпаниям совершать рейсы в Грузию, начиная с 8 июля. Этот указ, отмечали в Кремле, является вынужденной мерой и связан с антироссийскими протестами в Грузии.
+Президент Грузии Саломе Зурабишвили в ответ на этот шаг заявила, что россияне должны иметь возможность приехать в Грузию, поскольку «они любят эту страну». По ее словам, вопросы политики не должны отражаться на обычных туристах.
+
+
+
+#native3{ position: relative; float: right; width: auto; margin-left: 10px }
+#begun_block_439285592 .ad_native_block{
+position: relative !important;
+z-index: 1 !important;
+padding: .4em 1em .7em .7em !important;
+min-height: 100% !important;
+overflow: hidden !important;
+background: #eeefeb!important;
+border-bottom: 4px solid #e0e1dd;
+font-size: 14px !important;
+width: 410px!important;
+font-family: "Arial";
+color:#000;
+}
+#begun_block_439285592 .ad_native_img {
+position: relative !important;
+margin-right: 12px !important;
+float: left !important;
+overflow: hidden !important;
+-ms-flex-negative: 0 !important;
+flex-shrink: 0 !important;
+margin-top: 6px;
+}
+#begun_block_439285592 .ad_native_title_wrapper {
+line-height: 16px;
+padding-top: 4px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone {
+font-size: 18px;
+font-weight: 700;
+line-height: 19px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone:hover {
+color: #AF242C !important;
+}
+#begun_block_439285592 .ad_native_title {
+margin-top: 10px;
+}
+#begun_block_439285592 .ad_native_title span {
+background-color: #AF242C;
+color: #fff;
+padding: 2px 5px;
+}
+#begun_block_439285592 .ad_native_desc {
+line-height: 16px;
+margin-top: 10px;
+}
+#begun_block_439285592 span.ad_native_sponsored {
+display: none;
+}
+
+
+
+AdfProxy.sspScroll('native3', {
+'p1': 'bwjcl',
+'p2': 'fjgk',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_TOURISM',
+
+'puid59': 'bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "439285592"
+});
+
+
+
+Путин решил запретить полеты в Грузию после вспыхнувших в стране массовых антироссийских протестов. Поводом для митингов, перераставших в столкновения с полицией, стал инцидент в грузинском парламенте. Российский депутат Госдумы Сергей Гаврилов, прилетевший в республику по линии Межпарламентской ассамблеи православия, произнес приветственную речь, сидя в кресле спикера парламента.
+
+Новости СМИ2
+
+(function() {
+var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+sc.src = '//smi2.ru/data/js/93296.js'; sc.charset = 'utf-8';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+}());
+
+Этот шаг вызвал негодование у представителей оппозиции, указавших также на «неуважение» со стороны Гаврилова, произносившего речь на русском языке. Они призвали сторонников выходить на улицы и потребовали от российской делегации «выметаться из страны».
+Откликнувшиеся на призыв граждане, несколько тысяч человек, выкрикивали различные антироссийские лозунги и требовали отставки ряда высокопоставленных чиновников. Они ворвались в парламент и облили Гаврилова водой — депутат вместе со спутниками был вынужден под охраной срочно уехать в аэропорт и улететь в Россию. 
+В ходе столкновений с полицией пострадало более 200 человек. Власти Грузии при этом частично удовлетворили требования протестующих, внеся изменения в избирательное законодательство, а несколько чиновников подало в отставку.
+

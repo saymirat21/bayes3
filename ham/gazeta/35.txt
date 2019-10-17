@@ -1,0 +1,319 @@
+До 70 лет? Депутат сообщил о повышении пенсионного возраста
+
+Заявления о повышении пенсионного возраста до 70 лет являются «полным бредом», сообщил в пятницу, 6 сентября, источник ТАСС в правительстве России.
+
+
+
+Реклама
+
+
+.adcenter-wrapper {
+padding: 0 20px 0 85px;
+}
+.AdCentre_new_adv{
+margin-bottom: 20px;
+}
+.AdCentre_new_adv .partner_material_item{
+min-height: 76px;
+margin: 10px 0px;
+float: left;
+margin-left: 12px;
+}
+.AdCentre_new_adv .x80_80{
+max-width: 80px;
+max-height: 80px;
+margin-right: 10px;
+float: left;
+}
+.AdCentre_new_adv .partner_material_item_text{
+float:left;
+max-width: 120px;
+}
+.AdCentre_new_adv .partner_material_item_text_value{
+font: normal 14px/16px "PT Sans", serif;
+display: block;
+}
+.AdCentre_new_adv .partner_material_item_text_value:hover{
+color: #b11116;
+}
+.AdCentre_new_adv .sausage-header{
+position: relative;
+display: block;
+height: 34px;
+margin-left: 10px;
+font: bold 15px/36px 'PT Sans', sans-serif;
+color: #333;
+letter-spacing: 0.01em;
+border-bottom: 1px solid #dfdfdf;
+}
+@media print, screen and (max-width: 1260px){
+.adcenter-wrapper {
+padding: 0 0 0 0;
+}
+.AdCentre_new_adv {
+width: 587px;
+}
+.AdCentre_new_adv .sausage-list{
+width: 587px;
+max-height: 208px;
+}
+.AdCentre_new_adv .partner_material_item_text{
+max-width: 190px;
+}
+}
+
+
+ AdfProxy.ssp('AdCentre', {
+'p1': 'bwrhb',
+'p2': 'fomw',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ECONOMY',
+
+'puid59': 'bc',
+
+}, {
+'begun-auto-pad': "432328744",
+'begun-block-id': "442235190"
+});
+
+
+
+
+
+
+set_resizeblock_handler('#AdCentre', function () {
+if( $('#AdCentre').height() > 10 ) {
+$('.AdCentre_name, .AdCentre_bot').show();
+//$('#Adcenter_Vertical').hide();
+} else {
+$('.AdCentre_name, .AdCentre_bot').hide();
+}
+});
+
+«Предположения депутата Рашкина мы можем назвать полным бредом, иначе никак», — приводит ТАСС слова источника в кабмине.
+Ранее депутат Госдумы от КПРФ Валерий Рашкин сообщил, что знает о подготовке новой пенсионной реформы, ее второго этапа. «Опять началась подготовка к следующему удару по нашим людям, которые достигают пенсионного возраста», – сообщил «Независимой газете» депутат Рашкин.
+По мнению Рашкина, одним из признаков проводимой чиновниками подготовки можно считать, например, недавнее заявление правительства, что в стране резко выросла продолжительность жизни граждан: у женщин – до 78,5 года, у мужчин – до 68,5 года. 
+
+
+#mt_incut {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut"></div>');
+fetch('//news.mirtesen.ru/data/js/91014.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut').html(txt);
+});
+}
+
+
+«Я начал проводить разведку боем, чтобы узнать, кто там в правительстве, в этих структурах, министерствах, чем занимается», — пояснил Рашкин изданию. В ходе такого расследования депутат обнаружил рабочую группу, которая занимается анализом полученного бюджетом эффекта от уже стартовавшей в этом году реформы и разработкой мер по дальнейшему сокращению бюджетных отчислений в Пенсионный фонд.
+«У меня есть сведения, что создана группа. Я не могу их подтвердить вам документально. Это один в один, на 100% та же группа, которая готовила и первый этап пенсионной реформы – повышение возраста выхода на пенсию», цитирует издание депутата. 
+По словам Рашкина, в правительстве поняли, что предварительные итоги пенсионной реформы «печальны». Та черная дыра, которая есть в Пенсионном фонде, то есть, недостаток средств для выплат пенсионерам, не закрыта. Перечисления из госбюджета на покрытие дефицита ПФР продолжаются.
+Дефицит бюджета Фонда в 2019 году составит 23 млрд рублей, в 2020 году — 21,9 млрд рублей, а в 2021 году — 33,8 млрд рублей. 
+Выпадающие доходы бюджета ПФР компенсируются за счет межбюджетных трансфертов из федерального бюджета. В 2019 году — 54,6 млрд рублей, в 2020 году — 57,0 млрд рублей, в 2021 году — 61,0 млрд рублей.
+
+
+
+
+
+AdfProxy.ssp('in_read', {
+'p1': 'bryhb',
+'p2': 'fcvb',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ECONOMY',
+
+'puid59': 'bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "432328918"
+});
+
+
+
+Закрыть дефицит можно все тем же нехитрым способом – ограничить выход россиян на пенсию, подняв пенсионный возраст до 70 лет.
+Первый этап начат, второй — готовится?
+Постепенное повышение пенсиoнного возраста началось в этом гoду. Переходный период, как заявляли в правительстве, прoдлится до 2028 года. То есть к этому сроку и состоится увеличение пенсионногo возраста на пять лет: с 55 до 60 лет — для женщин, с 60 до 65 лет — для мужчин.
+
+
+#mt_incut2 {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut2 .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut2 .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut2 .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut2 .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut2"></div>');
+fetch('//news.mirtesen.ru/data/js/92823.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut2').html(txt);
+});
+}
+
+Президент РФ Владимир Путин подписал закoн об изменении пенсионной системы 3 октября 2018 гoда. До этого в течение нескольких лет Кремль пытался сдерживать повышение пенсионного возраста. Но в апреле 2015 года во время телевизионной «прямая линии» президент согласился с тем, что повышение пенсионного возраста в России необходимо. Пока, правда, в теории.
+Владимир Путин, отвечая на вопрос экс-министра финансов Алексея Кудрина, заданный в ходе «прямой линии», впервые заявил, что повышение пенсионного возраста — это правильно. «Ваши коллеги… говорят, что... нужно как можно быстрее повысить пенсионный возраст, иначе нам не сбалансировать пенсионную систему, в которую мы постоянно вынуждены из бюджета, из резервных фондов направлять огромные средства; это все мешает нашему развитию. И по сути-то это, теоретически это, конечно, правильно», — сказал он.
+Затем президент отметил, что для грамотного выстраивания экономической политики нужно иметь не только голову, но и сердце, и обеспечение высоких темпов роста будет происходить таким образом, чтобы «не накладывать чрезмерную нагрузку на плечи наших граждан». 
+Пресс-секретарь президента Дмитрий Песков на вопрос корреспондента «Газеты.Ru», означают ли эти слова Владимира Путина, что он принял принципиальное решение о повышении пенсионного возраста, ответил: «Нет».
+
+
+
+#native3{ position: relative; float: right; width: auto; margin-left: 10px }
+#begun_block_439285592 .ad_native_block{
+position: relative !important;
+z-index: 1 !important;
+padding: .4em 1em .7em .7em !important;
+min-height: 100% !important;
+overflow: hidden !important;
+background: #eeefeb!important;
+border-bottom: 4px solid #e0e1dd;
+font-size: 14px !important;
+width: 410px!important;
+font-family: "Arial";
+color:#000;
+}
+#begun_block_439285592 .ad_native_img {
+position: relative !important;
+margin-right: 12px !important;
+float: left !important;
+overflow: hidden !important;
+-ms-flex-negative: 0 !important;
+flex-shrink: 0 !important;
+margin-top: 6px;
+}
+#begun_block_439285592 .ad_native_title_wrapper {
+line-height: 16px;
+padding-top: 4px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone {
+font-size: 18px;
+font-weight: 700;
+line-height: 19px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone:hover {
+color: #AF242C !important;
+}
+#begun_block_439285592 .ad_native_title {
+margin-top: 10px;
+}
+#begun_block_439285592 .ad_native_title span {
+background-color: #AF242C;
+color: #fff;
+padding: 2px 5px;
+}
+#begun_block_439285592 .ad_native_desc {
+line-height: 16px;
+margin-top: 10px;
+}
+#begun_block_439285592 span.ad_native_sponsored {
+display: none;
+}
+
+
+
+AdfProxy.sspScroll('native3', {
+'p1': 'bwjcl',
+'p2': 'fjgk',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ECONOMY',
+
+'puid59': 'bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "439285592"
+});
+
+
+
+Занятых столько же, сколько и пенсионеров
+Эксперты тем не менее посчитали, что был нажат спусковой крючок. Замдиректора по научной работе Института мировой экономики и международных отношений Евгений Гонтмахер уточнил тогда, что слова президента могут в данном случае расходиться с задачами правительства. Тем более что для принятия решения о пенсионном возрасте есть вполне объективные причины. Прежде всего это демографическая ситуация в стране, которая такова, что начиная примерно с 2018 года численность трудоспособного населения в трудоспособном возрасте будет постоянно снижаться.
+По оценке директора Института социального анализа и прогнозирования РАНХиГС Татьяны Малевой, к 2030 году численность занятых в экономике сравняется с количеством пенсионеров. Как свести концы с концами пенсионной системе в таких условиях и где предприятиям брать работников в нужном объеме — вопрос, на который ответа у правительства нет до сих пор. 
+
+Новости СМИ2
+
+(function() {
+var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+sc.src = '//smi2.ru/data/js/93296.js'; sc.charset = 'utf-8';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+}());
+
+Впрочем, в ближайшее время повышения пенсионного возраста до 70 лет, скорее всего, не планируется. Об этом в феврале этого года заявлял министр экономического развития Максим Орешкин. Он сказал, прогноз Минфина не предусматривает повышение пенсионного возраста в ближайшее десятилетие и подчеркнул, что пенсионный возраст в России останется без изменений до 2036 года.
+«Реформа сконструирована так, чтобы в ближайшее десятилетие этот вопрос больше не поднимался. В нашем прогнозе до 2036 года и в готовящемся в Минфине бюджетном прогнозе дальнейшее повышение пенсионного возраста не предусмотрено», — говорил Орешкин.
+Министр добавил также, что долгосрочный эффект повышения пенсионного возраста население сможет оценить только через несколько лет.
+

@@ -1,0 +1,314 @@
+Открыть небо: Грузия хочет вернуть рейсы из России
+
+Прямые рейсы из России нужно возобновить как можно скорее, заявил министр иностранных дел Грузии Давид Залкалиани, передает РИА «Новости». Глава грузинского МИДа отметил, что Тбилиси приветствует ускорение деэскалации.
+«Мы только приветствуем, если процесс скоро возобновится. Моя позиция хорошо известна общественности,  отношения между народами, развитие туризма – это те направления, которые способствуют деэскалации ситуации», – подчеркнул дипломат.
+Спецпредставитель премьер-министра Грузии по урегулированию отношений с РФ Зураб Абашидзе в свою очередь указал, что «нельзя опережать события».
+
+
+
+Реклама
+
+
+.adcenter-wrapper {
+padding: 0 20px 0 85px;
+}
+.AdCentre_new_adv{
+margin-bottom: 20px;
+}
+.AdCentre_new_adv .partner_material_item{
+min-height: 76px;
+margin: 10px 0px;
+float: left;
+margin-left: 12px;
+}
+.AdCentre_new_adv .x80_80{
+max-width: 80px;
+max-height: 80px;
+margin-right: 10px;
+float: left;
+}
+.AdCentre_new_adv .partner_material_item_text{
+float:left;
+max-width: 120px;
+}
+.AdCentre_new_adv .partner_material_item_text_value{
+font: normal 14px/16px "PT Sans", serif;
+display: block;
+}
+.AdCentre_new_adv .partner_material_item_text_value:hover{
+color: #b11116;
+}
+.AdCentre_new_adv .sausage-header{
+position: relative;
+display: block;
+height: 34px;
+margin-left: 10px;
+font: bold 15px/36px 'PT Sans', sans-serif;
+color: #333;
+letter-spacing: 0.01em;
+border-bottom: 1px solid #dfdfdf;
+}
+@media print, screen and (max-width: 1260px){
+.adcenter-wrapper {
+padding: 0 0 0 0;
+}
+.AdCentre_new_adv {
+width: 587px;
+}
+.AdCentre_new_adv .sausage-list{
+width: 587px;
+max-height: 208px;
+}
+.AdCentre_new_adv .partner_material_item_text{
+max-width: 190px;
+}
+}
+
+
+ AdfProxy.ssp('AdCentre', {
+'p1': 'bwrhb',
+'p2': 'fomw',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_TOURISM',
+
+'puid59': 'bc',
+
+}, {
+'begun-auto-pad': "432328744",
+'begun-block-id': "442235190"
+});
+
+
+
+
+
+
+set_resizeblock_handler('#AdCentre', function () {
+if( $('#AdCentre').height() > 10 ) {
+$('.AdCentre_name, .AdCentre_bot').show();
+//$('#Adcenter_Vertical').hide();
+} else {
+$('.AdCentre_name, .AdCentre_bot').hide();
+}
+});
+
+«Мы видим, что там [в РФ] думают об этом и, как видно, даже работают над этим. Такие послания мы получаем от Лаврова, а сейчас и от Пескова. Так что подождем дальнейшего шага. Мы уже рассказали о нашем отношении в связи с этим вопросом. Мы приветствуем такое решение», — сказал Абашидзе.
+
+
+#mt_incut {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut"></div>');
+fetch('//news.mirtesen.ru/data/js/91014.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut').html(txt);
+});
+}
+
+
+Он также отметил, что Грузия выступает за «углубление гуманитарных контактов» и расширение туристической сферы.
+В пятницу, 4 октября, глава МИД Грузии Давид Залкалиани назвал состоявшуюся в Нью-Йорке встречу с министром иностранных дел России Сергеем Лавровым «своевременной и необходимой».
+Два дипломата побеседовали на полях Генеральной ассамблеи ООН. Сейчас посредником между двумя странами выступает Швейцария, организовавшая встречу в Нью-Йорке. В 2008 году Грузия разорвала дипломатические отношения с Россией после того, как Москва признала независимость Абхазии и Южной Осетии.
+Пресс-секретарь президента России Дмитрий Песков, комментируя встречу двух министров иностранных дел, заявил, что Кремль выступает за восстановление хороших отношений с Грузией, а данные переговоры «дадут старт конструктивному диалогу между Москвой и Тбилиси».
+22 июня президент России Владимир Путин запретил российским авиакомпаниям совершать рейсы в Грузию, начиная с 8 июля. Тогда Песков детализировал, что этот указ является вынужденной мерой и связан с антироссийскими протестами в Грузии.
+
+
+
+
+
+AdfProxy.ssp('in_read', {
+'p1': 'bryhb',
+'p2': 'fcvb',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_TOURISM',
+
+'puid59': 'bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "432328918"
+});
+
+
+
+Грузинский президент Саломе Зурабишвили в ответ на это заявила, что россияне должны иметь возможность приехать в Грузию, поскольку «они любят эту страну». По ее словам, вопросы политики не должны отражаться на обычных туристах.
+
+
+#mt_incut2 {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut2 .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut2 .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut2 .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut2 .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut2"></div>');
+fetch('//news.mirtesen.ru/data/js/92823.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut2').html(txt);
+});
+}
+
+Компания Georgian Airways уже предложила российским гражданам вариант маршрута в Грузию: транзитом через Армению по маршруту Тбилиси-Ереван-Москва.
+В середине августа вице-президент Российского союза туриндустрии Юрий Барзыкин сообщил, что поток туристов из России в Грузию снизился на 70%. За день до этого премьер-министр Грузии Мамука Бахтадзе рассказал, что туристический сектор потерпел ущерб до $60 млн за месяц с момента запрета на полеты. Ожидается, что общие потери грузинской экономики к 2020 году из-за отмены авиасообщения превысят $700 млн.
+По данным сервиса для путешественников «Туту.ру», Грузия занимала третье место в списке наиболее популярных маршрутов у российских туристов, которые не приобретали путевки в туристических агентствах, однако после закрытия авиасообщения страна потеряла позицию в десятке.
+Антироссийские протесты начались в Тбилиси 20 июня из-за инцидента с участием депутата Государственной думы РФ Сергея Гаврилова. Парламентарий, прилетевший в Грузию в составе делегации Межпарламентской ассамблеи православия (МАП), возмутил грузинскую оппозицию тем, что занял место спикера парламента и произнес речь на русском языке.
+
+
+
+#native3{ position: relative; float: right; width: auto; margin-left: 10px }
+#begun_block_439285592 .ad_native_block{
+position: relative !important;
+z-index: 1 !important;
+padding: .4em 1em .7em .7em !important;
+min-height: 100% !important;
+overflow: hidden !important;
+background: #eeefeb!important;
+border-bottom: 4px solid #e0e1dd;
+font-size: 14px !important;
+width: 410px!important;
+font-family: "Arial";
+color:#000;
+}
+#begun_block_439285592 .ad_native_img {
+position: relative !important;
+margin-right: 12px !important;
+float: left !important;
+overflow: hidden !important;
+-ms-flex-negative: 0 !important;
+flex-shrink: 0 !important;
+margin-top: 6px;
+}
+#begun_block_439285592 .ad_native_title_wrapper {
+line-height: 16px;
+padding-top: 4px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone {
+font-size: 18px;
+font-weight: 700;
+line-height: 19px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone:hover {
+color: #AF242C !important;
+}
+#begun_block_439285592 .ad_native_title {
+margin-top: 10px;
+}
+#begun_block_439285592 .ad_native_title span {
+background-color: #AF242C;
+color: #fff;
+padding: 2px 5px;
+}
+#begun_block_439285592 .ad_native_desc {
+line-height: 16px;
+margin-top: 10px;
+}
+#begun_block_439285592 span.ad_native_sponsored {
+display: none;
+}
+
+
+
+AdfProxy.sspScroll('native3', {
+'p1': 'bwjcl',
+'p2': 'fjgk',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_TOURISM',
+
+'puid59': 'bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "439285592"
+});
+
+
+
+Депутаты от «Европейской Грузии» и «Единого национального движения» сначала потребовали от российских депутатов «убираться из парламента». После этого они сами покинули здание и призвали грузин выйти на митинг. Вечером на площади перед зданием грузинского парламента собрались несколько тысяч возмущенных человек, требовавших от глав силовых ведомств и правительства уйти в отставку.
+
+Новости СМИ2
+
+(function() {
+var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+sc.src = '//smi2.ru/data/js/93296.js'; sc.charset = 'utf-8';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+}());
+
+Полиция не стала прикладывать особых усилий, чтобы не допустить демонстрантов в парламент. Протестующие ворвались в зал заседаний, облили депутата Гаврилова водой и потребовали от российских делегатов немедленно вернуться в Россию. После этого россияне в сопровождении охраны незамедлительно выехали в аэропорт и вернулись в Москву первым же авиарейсом.
+Силовики, разгоняя протестующих, применяли слезоточивый газ, резиновые пули и водометы. Более 250 человек пострадали. В Кремле акцию протеста назвали проявлением русофобии и экстремизма.
+

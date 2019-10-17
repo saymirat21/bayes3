@@ -1,0 +1,318 @@
+Точка невозврата: «Северный поток — 2» уперся в Данию
+
+Министр энергетики России Александр Новак в интервью радиостанции Business FM в пятницу 4 октября сообщил, что Дания, скорее всего, даст разрешение на прокладку «Северного потока – 2» в своих водах.
+
+
+
+Реклама
+
+
+.adcenter-wrapper {
+padding: 0 20px 0 85px;
+}
+.AdCentre_new_adv{
+margin-bottom: 20px;
+}
+.AdCentre_new_adv .partner_material_item{
+min-height: 76px;
+margin: 10px 0px;
+float: left;
+margin-left: 12px;
+}
+.AdCentre_new_adv .x80_80{
+max-width: 80px;
+max-height: 80px;
+margin-right: 10px;
+float: left;
+}
+.AdCentre_new_adv .partner_material_item_text{
+float:left;
+max-width: 120px;
+}
+.AdCentre_new_adv .partner_material_item_text_value{
+font: normal 14px/16px "PT Sans", serif;
+display: block;
+}
+.AdCentre_new_adv .partner_material_item_text_value:hover{
+color: #b11116;
+}
+.AdCentre_new_adv .sausage-header{
+position: relative;
+display: block;
+height: 34px;
+margin-left: 10px;
+font: bold 15px/36px 'PT Sans', sans-serif;
+color: #333;
+letter-spacing: 0.01em;
+border-bottom: 1px solid #dfdfdf;
+}
+@media print, screen and (max-width: 1260px){
+.adcenter-wrapper {
+padding: 0 0 0 0;
+}
+.AdCentre_new_adv {
+width: 587px;
+}
+.AdCentre_new_adv .sausage-list{
+width: 587px;
+max-height: 208px;
+}
+.AdCentre_new_adv .partner_material_item_text{
+max-width: 190px;
+}
+}
+
+
+ AdfProxy.ssp('AdCentre', {
+'p1': 'bwrhb',
+'p2': 'fomw',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ECONOMY',
+
+'puid59': 'gc',
+
+}, {
+'begun-auto-pad': "432328744",
+'begun-block-id': "442235190"
+});
+
+
+
+
+
+
+set_resizeblock_handler('#AdCentre', function () {
+if( $('#AdCentre').height() > 10 ) {
+$('.AdCentre_name, .AdCentre_bot').show();
+//$('#Adcenter_Vertical').hide();
+} else {
+$('.AdCentre_name, .AdCentre_bot').hide();
+}
+});
+
+«По той информации, которая есть у нас сейчас, все-таки сохраняются шансы на то, что будет получено разрешение Дании на прокладку участка подводного газопровода в ее исключительной экономической зоне», — отметил Новак.
+
+
+#mt_incut {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut"></div>');
+fetch('//news.mirtesen.ru/data/js/91014.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut').html(txt);
+});
+}
+
+
+По словам министра, сроки рассмотрения заявки, связанной с маршрутом через исключительную экономическую зону королевства, уже прошли. Причин для отказа в заявке нет, есть надежда на получение разрешения страны и мнение, что «решение должно состояться», отметил Новак.
+При этом министр подчеркнул, что в случае невыдачи Данией разрешения сроки завершения строительства газопровода сдвинутся на несколько месяцев.
+Они затягивали как могли
+Ранее в пятницу газета «Известия», ссылаясь на источники, знакомые с ходом реализации проекта, сообщала, что у Дании больше нет политических возражений в отношении строительства российского газопровода в ее исключительной экономической зоне. «Политические моменты были, когда заявка касалась прохождения через датские территориальные воды, — рассказал изданию источник. — На том этапе они что могли затянуть, затягивали.
+
+
+
+
+
+AdfProxy.ssp('in_read', {
+'p1': 'bryhb',
+'p2': 'fcvb',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ECONOMY',
+
+'puid59': 'gc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "432328918"
+});
+
+
+
+В конце июня ее отозвали. Но в случае с поданными в июле заявками речь идет о маршрутах через исключительную экономическую зону Дании, что регулируется международной конвенцией о морском праве. И там сделать Копенгаген уже ничего не может».
+
+
+#mt_incut2 {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut2 .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut2 .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut2 .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut2 .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut2"></div>');
+fetch('//news.mirtesen.ru/data/js/92823.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut2').html(txt);
+});
+}
+
+В настоящее время остались вопросы административного характера, и те «на финишной прямой», добавил собеседник издания.
+Как известно, газопровод «Северный поток — 2» пройдет из России в Германию по дну Балтийского моря рядом с работающим «Северным потоком». Длина газопровода — более 1,2 тыс. км. Cтоимость проекта оценивается в €9,5 млрд. Мощность «Северного потока — 2» составляет 55 млрд куб. м газа в год.
+Маршрут российского газопровода проходит через исключительные экономические зоны и территориальные воды России, Финляндии, Швеции, Дании и Германии.
+Согласие на строительство в настоящее время не дала только Дания. 
+Копенгаген уже несколько лет не согласует заявку проектной компании «Северного потока — 2» Nord Stream 2 AG на прохождение морской магистрали в его водах. Оператор подал уже несколько заявок.
+
+
+
+#native3{ position: relative; float: right; width: auto; margin-left: 10px }
+#begun_block_439285592 .ad_native_block{
+position: relative !important;
+z-index: 1 !important;
+padding: .4em 1em .7em .7em !important;
+min-height: 100% !important;
+overflow: hidden !important;
+background: #eeefeb!important;
+border-bottom: 4px solid #e0e1dd;
+font-size: 14px !important;
+width: 410px!important;
+font-family: "Arial";
+color:#000;
+}
+#begun_block_439285592 .ad_native_img {
+position: relative !important;
+margin-right: 12px !important;
+float: left !important;
+overflow: hidden !important;
+-ms-flex-negative: 0 !important;
+flex-shrink: 0 !important;
+margin-top: 6px;
+}
+#begun_block_439285592 .ad_native_title_wrapper {
+line-height: 16px;
+padding-top: 4px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone {
+font-size: 18px;
+font-weight: 700;
+line-height: 19px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone:hover {
+color: #AF242C !important;
+}
+#begun_block_439285592 .ad_native_title {
+margin-top: 10px;
+}
+#begun_block_439285592 .ad_native_title span {
+background-color: #AF242C;
+color: #fff;
+padding: 2px 5px;
+}
+#begun_block_439285592 .ad_native_desc {
+line-height: 16px;
+margin-top: 10px;
+}
+#begun_block_439285592 span.ad_native_sponsored {
+display: none;
+}
+
+
+
+AdfProxy.sspScroll('native3', {
+'p1': 'bwjcl',
+'p2': 'fjgk',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ECONOMY',
+
+'puid59': 'gc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "439285592"
+});
+
+
+
+Но в обход еще дороже
+В какие сроки Дания примет решение в отношении прокладки российского газопровода не вполне понятно. Это произойдет, как только закончится оценка воздействия на окружающую среду и безопасность, пояснял ранее «Известиям» глава пресс-службы Датского энергетического агентства Туре Фальбе-Хансен.
+
+Новости СМИ2
+
+(function() {
+var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+sc.src = '//smi2.ru/data/js/93296.js'; sc.charset = 'utf-8';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+}());
+
+Вопрос может затянуться из-за согласования с другими странами. В операторе проекта «Северный поток — 2» — компании Nord Stream 2 AG тоже не дали четкого ответа, однако отметили, что все идет по графику.
+В Москве в то же время не исключают, что «Северный поток — 2», возможно, придется в обход Дании. Однако это приведет к удорожанию проекта, подчеркнули в Минэнерго РФ.
+«Понятно, что есть и другие разные варианты в случае отсутствия такого разрешения — просто этот проект будет несколько дороже и несколько по времени будет дольше реализован», — заявлял Новак на полях Российской энергетической недели.
+При этом председатель совета директоров «Газпрома» Виктор Зубков подчеркивал, что у Дании нет оснований не выдать разрешение на прокладку трубы. «Будет дольше, будет дороже, но это же газ для стран Европы и странно, что такая ситуация происходит», — указал Зубков.
+Обход датских территориальных вод может потребовать дополнительных затрат объемом до 150 млн евро, указал начальник отдела инвестидей «БКС Брокер» Нарек Авакян. 
+По словам Зубкова, трубоукладочное судно уже практически подошло к территориальным водам экономической зоны Дании.
+Ранее задержку в строительстве проекта допускал финансовый директор Nord Stream 2 AG Пол Коркоран. По его словам, позиция Дании может привести к отсрочке ввода проекта на 2020 год. Эксперты, опрошенные «Газетой.Ru» ранее говорили, что шансы на сохранение маршрута пока есть, несмотря на сильнейшее давление, которому подвергается датское правительство со стороны противников проекта. Тем не менее в ближайшие недели должна быть пройдена точка невозврата.
+

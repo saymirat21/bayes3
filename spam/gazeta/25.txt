@@ -1,0 +1,325 @@
+Доллар по 70: как Америка ударит по рублю
+
+10 октября начинается новый раунд переговоров между США и Китаем. Никаких договоренностей или серьезного продвижения от него не ждут. Наоборот, по всем признакам ситуация может ухудшиться.
+
+
+
+Реклама
+
+
+.adcenter-wrapper {
+padding: 0 20px 0 85px;
+}
+.AdCentre_new_adv{
+margin-bottom: 20px;
+}
+.AdCentre_new_adv .partner_material_item{
+min-height: 76px;
+margin: 10px 0px;
+float: left;
+margin-left: 12px;
+}
+.AdCentre_new_adv .x80_80{
+max-width: 80px;
+max-height: 80px;
+margin-right: 10px;
+float: left;
+}
+.AdCentre_new_adv .partner_material_item_text{
+float:left;
+max-width: 120px;
+}
+.AdCentre_new_adv .partner_material_item_text_value{
+font: normal 14px/16px "PT Sans", serif;
+display: block;
+}
+.AdCentre_new_adv .partner_material_item_text_value:hover{
+color: #b11116;
+}
+.AdCentre_new_adv .sausage-header{
+position: relative;
+display: block;
+height: 34px;
+margin-left: 10px;
+font: bold 15px/36px 'PT Sans', sans-serif;
+color: #333;
+letter-spacing: 0.01em;
+border-bottom: 1px solid #dfdfdf;
+}
+@media print, screen and (max-width: 1260px){
+.adcenter-wrapper {
+padding: 0 0 0 0;
+}
+.AdCentre_new_adv {
+width: 587px;
+}
+.AdCentre_new_adv .sausage-list{
+width: 587px;
+max-height: 208px;
+}
+.AdCentre_new_adv .partner_material_item_text{
+max-width: 190px;
+}
+}
+
+
+ AdfProxy.ssp('AdCentre', {
+'p1': 'bwrhb',
+'p2': 'fomw',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_FINANCE',
+
+'puid59': 'business:bc',
+
+}, {
+'begun-auto-pad': "432328744",
+'begun-block-id': "442235190"
+});
+
+
+
+
+
+
+set_resizeblock_handler('#AdCentre', function () {
+if( $('#AdCentre').height() > 10 ) {
+$('.AdCentre_name, .AdCentre_bot').show();
+//$('#Adcenter_Vertical').hide();
+} else {
+$('.AdCentre_name, .AdCentre_bot').hide();
+}
+});
+
+Так, американский Госдеп включил накануне в «черный список» ряд крупных китайских технологических компаний и организаций из-за обвинений в нарушении прав уйгурских народов, этнических казахов и других представителей исповедующих ислам меньшинств, а также ограничил въезд на территорию США ряду якобы причастных к этому официальных лиц КНР.
+
+
+#mt_incut {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut"></div>');
+fetch('//news.mirtesen.ru/data/js/91014.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut').html(txt);
+});
+}
+
+
+Китай в свою очередь демонстрирует готовность к сохранению жесткости своих переговорных позиций и осуждает санкции США.
+Так что прорыва от переговоров эксперты не ждут.
+«От этого раунда ожидается максимум заключение возможной промежуточной сделки, в то время как наиболее острые «углы» в защите интеллектуальной собственности, субсидиарной поддержки китайских компаний останутся нерешенными.
+В нашем пессимистичном сценарии мы ждем очередного обострения, итогом которого станет взаимное усиление тарифных ограничений между странами», — говорит старший аналитик «БКС Премьер» Сергей Суверов.
+На европейские рынки в свою очередь давят заявления премьер-министра Великобритании об отсутствии подвижек в переговорах с ЕС по Brexit.
+
+
+
+
+
+AdfProxy.ssp('in_read', {
+'p1': 'bryhb',
+'p2': 'fcvb',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_FINANCE',
+
+'puid59': 'business:bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "432328918"
+});
+
+
+
+В этой ситуации инвесторы выходят из рисковых активов развивающихся стран и возвращаются в «тихую гавань», покупая золото и американские бумаги.
+Это заметно, в частности, по тому, как растут цены на драгметалл. Декабрьский фьючерс на золото вырос на 0,40% до отметки $1509,80 за унцию. И эксперты предрекают драгметаллу новые рекорды. К концу года цены на золото могут достичь $1600, считают аналитики.
+
+
+#mt_incut2 {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut2 .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut2 .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut2 .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut2 .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut2"></div>');
+fetch('//news.mirtesen.ru/data/js/92823.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut2').html(txt);
+});
+}
+
+Это создает риск для развивающихся стран из-за оттока средств инвесторов. В перспективе такие действия могут привести к новым минимумам для рубля.
+Самый привлекательный актив на нашем рынке для иностранных портфельных инвесторов – это государственные долговые бумаги – облигации федерального займа (ОФЗ).
+На 1 июля 2019 года доля иностранных вложений в ОФЗ доходила до 30%.
+Согласно обзору финансовых рынков за сентябрь, который опубликовал Банк России,
+доля вложений нерезидентов в ОФЗ находилась уже на уровне 29%.
+То есть за три месяца инвестиции немного, но снизились.
+Сократилась и доля нерезидентов в еврооблигациях – облигациях России, выпущенных в валюте. В сентябре она уменьшилась на 0,5 п.п. — до 54,1%, указано в обзоре ЦБ.
+
+
+
+#native3{ position: relative; float: right; width: auto; margin-left: 10px }
+#begun_block_439285592 .ad_native_block{
+position: relative !important;
+z-index: 1 !important;
+padding: .4em 1em .7em .7em !important;
+min-height: 100% !important;
+overflow: hidden !important;
+background: #eeefeb!important;
+border-bottom: 4px solid #e0e1dd;
+font-size: 14px !important;
+width: 410px!important;
+font-family: "Arial";
+color:#000;
+}
+#begun_block_439285592 .ad_native_img {
+position: relative !important;
+margin-right: 12px !important;
+float: left !important;
+overflow: hidden !important;
+-ms-flex-negative: 0 !important;
+flex-shrink: 0 !important;
+margin-top: 6px;
+}
+#begun_block_439285592 .ad_native_title_wrapper {
+line-height: 16px;
+padding-top: 4px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone {
+font-size: 18px;
+font-weight: 700;
+line-height: 19px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone:hover {
+color: #AF242C !important;
+}
+#begun_block_439285592 .ad_native_title {
+margin-top: 10px;
+}
+#begun_block_439285592 .ad_native_title span {
+background-color: #AF242C;
+color: #fff;
+padding: 2px 5px;
+}
+#begun_block_439285592 .ad_native_desc {
+line-height: 16px;
+margin-top: 10px;
+}
+#begun_block_439285592 span.ad_native_sponsored {
+display: none;
+}
+
+
+
+AdfProxy.sspScroll('native3', {
+'p1': 'bwjcl',
+'p2': 'fjgk',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_FINANCE',
+
+'puid59': 'business:bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "439285592"
+});
+
+
+
+Иностранцы покупают российские ОФЗ из-за того, что доходность по ним довольно высока – так, например, сейчас 10-летние облигации торгуются с доходностью 7% годовых, напоминает Сергей Суверов.
+В Европе ставки по бондам вообще ушли в отрицательную зону, а американские бумаги дают доходность всего на уровне 1,6% годовых.
+
+Новости СМИ2
+
+(function() {
+var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+sc.src = '//smi2.ru/data/js/93296.js'; sc.charset = 'utf-8';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+}());
+
+Зампред ЦБ Ксения Юдаева не так давно дала понять, что Банк России может еще раз снизить ключевую ставку (сейчас она составляет 7%) до конца года, и это тоже повлияет на доходность размещаемых ОФЗ, объясняет генеральный директор УК «Ронин Траст» Сергей Стукалов. Это означает, что интерес иностранцев к российскому долговому рынку будет еще ниже.
+Когда иностранные инвесторы продают на Московской бирже российские облигации, номинированные в рублях, они покупают на полученные рубли валюту на той же бирже и выводят ее за рубеж, чтобы вложить вырученные средства в другие активы,
+указывает Сергей Суверов.
+Естественно, «сброс» рублей и покупка валюты давят на курс российской валюты.
+«Если бы российские госбумаги не давали доходность в 7% годовых, то интерес иностранцев к нашим долгам был бы ниже, и тогда курс рубля к концу года дошел бы до 70 рублей за $1», — говорит Суверов.
+Пока то, что иностранцы не сбрасывают наши ОФЗ массово, помогает курсу удерживаться на отметке примерно 65 рублей за $1. Так, курс доллара на 10 октября, установленный Банком России, составляет 65,09 рублей.
+Но если мировые рынки будет продолжать штормить, а вдобавок ЦБ РФ снизит ключевую ставку, то курс доллара вполне может дойти в ближайшие дни и до 68 рублей,
+предупреждает аналитик.
+«Опасность в том, что если переговоры США и Китая не принесут позитивных решений, то весь негатив по цепочке выльется на российский рынок. Тут инвесторы вспомнят все – уже введенные против России санкции, предвыборную неразбериху в США – и просто закроют свои денежные позиции на Россию из разряда «на всякий случай», — резюмирует Стукалов.
+Вот тогда-то рубль может за несколько дней обвалиться и до 70 рублей за $1, и даже упасть еще ниже.
+

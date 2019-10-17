@@ -1,0 +1,303 @@
+«Я сотру их экономику»: Трамп пригрозил Турции
+
+США разрушат экономику Турции, если та предпримет какие-либо действия, выходящие за рамки дозволенного, заявил американский лидер Дональд Трамп.
+«Как я уже говорил ранее, если Турция сделает что-то, что я при всей своей огромной и непревзойденной мудрости сочту выходящим за рамки, я сотру экономику Турции с лица Земли», — написал он в своем твиттере. 
+Глава государства считает, что Турция совместно с Европой должна следить за «захваченными боевиками ИГ (запрещенная в России террористическая организация – «Газета.Ru») и их семьями». По словам Трампа, «США сделали гораздо больше, чем кто-либо мог когда-либо ожидать, включая захват 100% халифата ИГ».
+
+
+
+Реклама
+
+
+.adcenter-wrapper {
+padding: 0 20px 0 85px;
+}
+.AdCentre_new_adv{
+margin-bottom: 20px;
+}
+.AdCentre_new_adv .partner_material_item{
+min-height: 76px;
+margin: 10px 0px;
+float: left;
+margin-left: 12px;
+}
+.AdCentre_new_adv .x80_80{
+max-width: 80px;
+max-height: 80px;
+margin-right: 10px;
+float: left;
+}
+.AdCentre_new_adv .partner_material_item_text{
+float:left;
+max-width: 120px;
+}
+.AdCentre_new_adv .partner_material_item_text_value{
+font: normal 14px/16px "PT Sans", serif;
+display: block;
+}
+.AdCentre_new_adv .partner_material_item_text_value:hover{
+color: #b11116;
+}
+.AdCentre_new_adv .sausage-header{
+position: relative;
+display: block;
+height: 34px;
+margin-left: 10px;
+font: bold 15px/36px 'PT Sans', sans-serif;
+color: #333;
+letter-spacing: 0.01em;
+border-bottom: 1px solid #dfdfdf;
+}
+@media print, screen and (max-width: 1260px){
+.adcenter-wrapper {
+padding: 0 0 0 0;
+}
+.AdCentre_new_adv {
+width: 587px;
+}
+.AdCentre_new_adv .sausage-list{
+width: 587px;
+max-height: 208px;
+}
+.AdCentre_new_adv .partner_material_item_text{
+max-width: 190px;
+}
+}
+
+
+ AdfProxy.ssp('AdCentre', {
+'p1': 'bwrhb',
+'p2': 'fomw',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ECONOMY',
+
+'puid59': 'bc:military',
+
+}, {
+'begun-auto-pad': "432328744",
+'begun-block-id': "442235190"
+});
+
+
+
+
+
+
+set_resizeblock_handler('#AdCentre', function () {
+if( $('#AdCentre').height() > 10 ) {
+$('.AdCentre_name, .AdCentre_bot').show();
+//$('#Adcenter_Vertical').hide();
+} else {
+$('.AdCentre_name, .AdCentre_bot').hide();
+}
+});
+
+Ранее американский сенатор Линдси Грэм угрожал Турции санкциями в случае, если она «вторгнется в Сирию», и приостановкой членства в НАТО в случае атак на курдов.
+
+
+#mt_incut {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut"></div>');
+fetch('//news.mirtesen.ru/data/js/91014.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut').html(txt);
+});
+}
+
+
+Республиканец в своем посте в твиттере отметил, что намерен с сенатором Крисом Ван Холленом (демократ от штата Мэриленд) внести двухпартийный законопроект о санкциях против Турции, если власти будут агрессивно действовать в отношении союзников США курдов.
+Угроза Трампа воздействовать на турецкую экономику прозвучала после того, как глава Турции Реджеп Тайип Эрдоган заявил, что Анкара готова самостоятельно провести военную операцию около своей границы на северо-востоке Сирии, где Турция и США изначально договорились создать зону безопасности. Эрдоган считает, что американские власти не выполнили своего обещания.
+О проведении самостоятельной спецоперации глава Турции сообщил 1 октября. Спустя пять дней у него состоялся телефонный разговор с президентом США, по итогам которого Белым дом заявил, что не станет поддерживать действия турецких властей на севере Сирии. Стоит отметить, что в этом регионе располагаются силы курдов, которых американцы считают союзниками, а турки — террористами.
+Ранее Эрдоган сообщил о том, что США начали вывод своих войск из Сирии. 
+О том, что Соединенным Штатам пора «выйти из этих бесконечных войн» и вернуть американских военных домой писал и сам американский лидер в своем твиттере. По его мнению, больше всего об этом жалеют Россия и Китай.
+
+
+
+
+
+AdfProxy.ssp('in_read', {
+'p1': 'bryhb',
+'p2': 'fcvb',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ECONOMY',
+
+'puid59': 'bc:military',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "432328918"
+});
+
+
+
+«Я был избран [на обещаниях] выйти из этих нелепых бесконечных войн . Две самые несчастные страны на этом этапе — Россия и Китай, потому что им нравится видеть нас погрязшими, смотрящими за болотом, тратящими на это большие деньги», — писал в соцсети Трамп.
+
+
+#mt_incut2 {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut2 .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut2 .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut2 .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut2 .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut2"></div>');
+fetch('//news.mirtesen.ru/data/js/92823.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut2').html(txt);
+});
+}
+
+Пресс-секретарь главы России Дмитрий Песков ранее на вопрос об отказе США принять участие в военной операции напомнил о словах российского президента Владимира Путина о том, что все иностранные силы, находящиеся на территории Сирии нелегитимно, должны покинуть страну.
+Вместе с тем в Кремле надеются, что турецкие власти будут придерживаться постулата о территориальной целостности Сирии. Кроме того, Песков, отвечая на вопрос о том, необходимо ли искать диалог с курдами, заявил, что «надо избегать действий, которые препятствуют пути сирийского урегулирования».
+Однако курды считают, что Россия и Сирия должны защитить их территории. Такое мнение в разговоре с РИА «Новости» выразил советник в администрации Автономии севера и востока Сирии (AANES) Бадран Джакурд. 
+
+
+
+#native3{ position: relative; float: right; width: auto; margin-left: 10px }
+#begun_block_439285592 .ad_native_block{
+position: relative !important;
+z-index: 1 !important;
+padding: .4em 1em .7em .7em !important;
+min-height: 100% !important;
+overflow: hidden !important;
+background: #eeefeb!important;
+border-bottom: 4px solid #e0e1dd;
+font-size: 14px !important;
+width: 410px!important;
+font-family: "Arial";
+color:#000;
+}
+#begun_block_439285592 .ad_native_img {
+position: relative !important;
+margin-right: 12px !important;
+float: left !important;
+overflow: hidden !important;
+-ms-flex-negative: 0 !important;
+flex-shrink: 0 !important;
+margin-top: 6px;
+}
+#begun_block_439285592 .ad_native_title_wrapper {
+line-height: 16px;
+padding-top: 4px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone {
+font-size: 18px;
+font-weight: 700;
+line-height: 19px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone:hover {
+color: #AF242C !important;
+}
+#begun_block_439285592 .ad_native_title {
+margin-top: 10px;
+}
+#begun_block_439285592 .ad_native_title span {
+background-color: #AF242C;
+color: #fff;
+padding: 2px 5px;
+}
+#begun_block_439285592 .ad_native_desc {
+line-height: 16px;
+margin-top: 10px;
+}
+#begun_block_439285592 span.ad_native_sponsored {
+display: none;
+}
+
+
+
+AdfProxy.sspScroll('native3', {
+'p1': 'bwjcl',
+'p2': 'fjgk',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ECONOMY',
+
+'puid59': 'bc:military',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "439285592"
+});
+
+
+
+«России и Дамаску следует взять на себя ответственность за защиту нашего региона от нападения Турции, потому что это также поставит под угрозу интересы России», — уверен собеседник агентства.
+«Мы всегда признавали и верили в важность ведения серьезного диалога с Дамаском, и мы всегда будем открыты к тому, чтобы достичь этой цели. Россия могла бы сыграть в этом роль, и мы верим, что это будет иметь исключительно важное значение», — добавил он, выразив надежду на то, что «Россия сможет сыграть свою роль в возобновлении диалога, чтобы решить сирийский кризис».
+

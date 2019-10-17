@@ -1,0 +1,316 @@
+Российская нефть: большая часть месторождений рентабельна
+
+Федеральное агентство по недропользованию (Роснедра) завершили инвентаризацию нефтяных месторождений России, которая проводилась для анализа эффективности налоговых льгот. Итогом исследования стал вывод о том, что большая часть запасов нефти в нашей стране является рентабельной. Об этом сообщил заместитель главы федерального агентства Орест Каспаров на сессии международного форума «Российская энергетическая неделя» (РЭН) 3 октября.
+
+
+
+Реклама
+
+
+.adcenter-wrapper {
+padding: 0 20px 0 85px;
+}
+.AdCentre_new_adv{
+margin-bottom: 20px;
+}
+.AdCentre_new_adv .partner_material_item{
+min-height: 76px;
+margin: 10px 0px;
+float: left;
+margin-left: 12px;
+}
+.AdCentre_new_adv .x80_80{
+max-width: 80px;
+max-height: 80px;
+margin-right: 10px;
+float: left;
+}
+.AdCentre_new_adv .partner_material_item_text{
+float:left;
+max-width: 120px;
+}
+.AdCentre_new_adv .partner_material_item_text_value{
+font: normal 14px/16px "PT Sans", serif;
+display: block;
+}
+.AdCentre_new_adv .partner_material_item_text_value:hover{
+color: #b11116;
+}
+.AdCentre_new_adv .sausage-header{
+position: relative;
+display: block;
+height: 34px;
+margin-left: 10px;
+font: bold 15px/36px 'PT Sans', sans-serif;
+color: #333;
+letter-spacing: 0.01em;
+border-bottom: 1px solid #dfdfdf;
+}
+@media print, screen and (max-width: 1260px){
+.adcenter-wrapper {
+padding: 0 0 0 0;
+}
+.AdCentre_new_adv {
+width: 587px;
+}
+.AdCentre_new_adv .sausage-list{
+width: 587px;
+max-height: 208px;
+}
+.AdCentre_new_adv .partner_material_item_text{
+max-width: 190px;
+}
+}
+
+
+ AdfProxy.ssp('AdCentre', {
+'p1': 'bwrhb',
+'p2': 'fomw',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ENERGY',
+
+'puid59': 'business:bc',
+
+}, {
+'begun-auto-pad': "432328744",
+'begun-block-id': "442235190"
+});
+
+
+
+
+
+
+set_resizeblock_handler('#AdCentre', function () {
+if( $('#AdCentre').height() > 10 ) {
+$('.AdCentre_name, .AdCentre_bot').show();
+//$('#Adcenter_Vertical').hide();
+} else {
+$('.AdCentre_name, .AdCentre_bot').hide();
+}
+});
+
+«Всего у нас 2 тыс. 700 месторождений нефти. Это 28,9 млрд тонн нефти. Из них в инвентаризацию вошли месторождения с запасами свыше 5 млн тонн, или 719 месторождений. Это 92% всех запасов, или 26% всех месторождений», — отметил он.
+
+
+#mt_incut {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut"></div>');
+fetch('//news.mirtesen.ru/data/js/91014.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut').html(txt);
+});
+}
+
+
+В инвентаризацию не вошли несколько видов разрабатываемых месторождений. Например, те месторождения, которые разрабатываются по режиму соглашения о разделе продукции — СРП, которое регулирует вопросы добычи полезных ископаемых в России иностранными компаниями, а также имеющие льготу по пошлине, находящиеся в системе НДД — налога на дополнительный доход от добычи углеводородного сырья.
+Кроме того, это месторождения, имеющие стратегическое значение для отрасли. К таким относится, например, Самотлорское месторождение — крупнейшее в России, расположено в Ханты-Мансийском автономном округе (ХМАО).
+Всего Роснедра обследовали месторождения, в которых суммарно может находиться 17,2 млрд тонн нефти, или 60% всех разведанных запасов нефти. 
+«Предварительные результаты такие: 11,5 млрд тонн, или 67% извлекаемых запасов, являются рентабельными», — заявил Каспаров.
+
+
+
+
+
+AdfProxy.ssp('in_read', {
+'p1': 'bryhb',
+'p2': 'fcvb',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ENERGY',
+
+'puid59': 'business:bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "432328918"
+});
+
+
+
+«Не надо ставить знак равенства между термином «извлекаемые рентабельные запасы» и тем, что эту нефть из земли извлекать выгодно», — отметил в беседе с «Газетой.Ru» директор Фонда энергетического развития Сергей Пикин.
+
+
+#mt_incut2 {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut2 .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut2 .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut2 .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut2 .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut2"></div>');
+fetch('//news.mirtesen.ru/data/js/92823.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut2').html(txt);
+});
+}
+
+По его словам, говорить об экономической выгоде для страны таких больших запасов нефти нельзя. Надо рассуждать в терминах «коммерческих запасах», так как у каждого месторождения своя себестоимость извлечения нефти.
+В среднем себестоимость добычи барреля российской нефти составляет около $2 за баррель. Себестоимость добычи трудноизвлекаемых и шельфовых запасов выше — около $20. 
+Показатели также существенно различаются в зависимости от степени освоения недр. При падающей добыче себестоимость выше, так как при том же уровне затрат извлекается меньше нефти. Об этом говорил в 2015 году Кирилл Молодцов, бывший в тот период заместителем министра энергетики, а ныне являющийся помощником руководителя администрации президента России.
+
+
+
+#native3{ position: relative; float: right; width: auto; margin-left: 10px }
+#begun_block_439285592 .ad_native_block{
+position: relative !important;
+z-index: 1 !important;
+padding: .4em 1em .7em .7em !important;
+min-height: 100% !important;
+overflow: hidden !important;
+background: #eeefeb!important;
+border-bottom: 4px solid #e0e1dd;
+font-size: 14px !important;
+width: 410px!important;
+font-family: "Arial";
+color:#000;
+}
+#begun_block_439285592 .ad_native_img {
+position: relative !important;
+margin-right: 12px !important;
+float: left !important;
+overflow: hidden !important;
+-ms-flex-negative: 0 !important;
+flex-shrink: 0 !important;
+margin-top: 6px;
+}
+#begun_block_439285592 .ad_native_title_wrapper {
+line-height: 16px;
+padding-top: 4px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone {
+font-size: 18px;
+font-weight: 700;
+line-height: 19px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone:hover {
+color: #AF242C !important;
+}
+#begun_block_439285592 .ad_native_title {
+margin-top: 10px;
+}
+#begun_block_439285592 .ad_native_title span {
+background-color: #AF242C;
+color: #fff;
+padding: 2px 5px;
+}
+#begun_block_439285592 .ad_native_desc {
+line-height: 16px;
+margin-top: 10px;
+}
+#begun_block_439285592 span.ad_native_sponsored {
+display: none;
+}
+
+
+
+AdfProxy.sspScroll('native3', {
+'p1': 'bwjcl',
+'p2': 'fjgk',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ENERGY',
+
+'puid59': 'business:bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "439285592"
+});
+
+
+
+«Если поставить цель пробурить скважину глубиной 10 км в любом месте земной коры, то, уверяю вас, мы в этой скважине найдем очень много нефти и других полезных ископаемых. Вопрос только в том, насколько выгодно их будет добывать», — пошутил Пикин.
+«Я скажу, когда российские компании будут точно снижать добычу: когда нефть будет стоить 0 долларов», — отмечал ранее Молодцов.
+
+Новости СМИ2
+
+(function() {
+var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+sc.src = '//smi2.ru/data/js/93296.js'; sc.charset = 'utf-8';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+}());
+
+Согласно федеральному бюджету на 2019 год, среднегодовая цена на нефть марки Urals должна составлять $63,4 за баррель. Российская нефть марки Urals продается на мировом рынке с дисконтом к цене марки Brent.
+Федеральный бюджет в следующие три года будет сбалансирован при среднегодовой цене на нефть в районе $50 и даже ниже.
+Почти год назад Банк России одобрил основные направления единой государственной денежно-кредитной политики на 2019 год и период 2020–2021 годов. В документе предусмотрены три сценария потенциально возможных макроэкономических условий в России.
+Согласно базовому сценарию, цена на нефть снижается до $55 за баррель, согласно «сценарию с неизменными ценами на нефть» — ее среднегодовая стоимость составит $75 за баррель; рисковый вариант описывает ситуацию с падением котировок нефти до $35.
+Сегодня понятно, что самый оптимистичный сценарий ЦБ не оправдался — средняя цена нефти марки Brent в 2018 году составила $69,8. Правда, 3 октября декабрьский фьючерс на нефть Brent торгуется на уровне $57,24.
+В сентябре 2018 года задача по инвентаризации нефтяных месторождений в России была поставлена перед руководством Роснедр на заседании у премьер-министра Дмитрия Медведева. Тогда сообщалось, что инвентаризация будет проводиться в целях изучения экономической эффективности разработки месторождений в текущих налоговых условиях.
+Судя по тому, что практически все крупные месторождения в России признаны рентабельными, исследование Роснедр означает, что ждать новых налоговых поблажек нефтяникам не стоит.
+

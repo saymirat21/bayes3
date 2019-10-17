@@ -1,0 +1,318 @@
+Сбербанк и 500 Startups запускают вторую волну международного акселератора IT-стартапов
+
+К участию в программе приглашаются российские стартапы, уже имеющие юридическое лицо в форме ООО, первые продажи и MVP (работающая версия продукта) в отраслях: eCommerce, eHealth, Telecommunications, Professional & Support services, Educational & HR services, Lifestyle, eMarketing & eAdvertising, eAuto, FinTech, Logistics, Cybersecurity, Cloud services, Big Data и прочие технологии.
+
+
+
+Реклама
+
+
+.adcenter-wrapper {
+padding: 0 20px 0 85px;
+}
+.AdCentre_new_adv{
+margin-bottom: 20px;
+}
+.AdCentre_new_adv .partner_material_item{
+min-height: 76px;
+margin: 10px 0px;
+float: left;
+margin-left: 12px;
+}
+.AdCentre_new_adv .x80_80{
+max-width: 80px;
+max-height: 80px;
+margin-right: 10px;
+float: left;
+}
+.AdCentre_new_adv .partner_material_item_text{
+float:left;
+max-width: 120px;
+}
+.AdCentre_new_adv .partner_material_item_text_value{
+font: normal 14px/16px "PT Sans", serif;
+display: block;
+}
+.AdCentre_new_adv .partner_material_item_text_value:hover{
+color: #b11116;
+}
+.AdCentre_new_adv .sausage-header{
+position: relative;
+display: block;
+height: 34px;
+margin-left: 10px;
+font: bold 15px/36px 'PT Sans', sans-serif;
+color: #333;
+letter-spacing: 0.01em;
+border-bottom: 1px solid #dfdfdf;
+}
+@media print, screen and (max-width: 1260px){
+.adcenter-wrapper {
+padding: 0 0 0 0;
+}
+.AdCentre_new_adv {
+width: 587px;
+}
+.AdCentre_new_adv .sausage-list{
+width: 587px;
+max-height: 208px;
+}
+.AdCentre_new_adv .partner_material_item_text{
+max-width: 190px;
+}
+}
+
+
+ AdfProxy.ssp('AdCentre', {
+'p1': 'bwrhb',
+'p2': 'fomw',
+'pct': 'a',
+'puid6': 'GAZETA_OTHER',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_OTHER_OTHER',
+'puid48': '1',
+'puid59': 'business:gc',
+
+}, {
+'begun-auto-pad': "432328744",
+'begun-block-id': "442235190"
+});
+
+
+
+
+
+
+set_resizeblock_handler('#AdCentre', function () {
+if( $('#AdCentre').height() > 10 ) {
+$('.AdCentre_name, .AdCentre_bot').show();
+//$('#Adcenter_Vertical').hide();
+} else {
+$('.AdCentre_name, .AdCentre_bot').hide();
+}
+});
+
+Акселератор отберет 25 проектов, наиболее интересных для развития экосистемы Сбербанка, которая на текущий момент насчитывает более 30 компаний, партнеров акселератора – крупных российских компаний, а также успешно прошедших интервью у представителей 500 Startups.
+
+
+#mt_incut {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut"></div>');
+fetch('//news.mirtesen.ru/data/js/91014.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut').html(txt);
+});
+}
+
+
+Проекты с лучшими промежуточными результатами участия в программе смогут получить не только инвестиции от Сбербанка — 6 млн рублей в виде конвертируемого займа, с дальнейшей конвертацией в 5% уставного капитала стартапа, но и возможность сотрудничества с крупнейшими игроками рынка.
+Обучение в Акселераторе завершится Демо-Днем, на котором стартапы выступят перед сотнями инвесторов и представителей крупных корпораций, активно внедряющих инновации.
+Также на Демо-Дне будут определены 7 стартапов, которым Сбербанк предложит дополнительное финансирование на развитие бизнеса, в том числе индивидуальную стажировку в российских корпорациях той же индустрии, что и стартап, или программу изучения европейского опыта через стартап-хаб Европы - Люксембург.
+
+
+
+
+
+AdfProxy.ssp('in_read', {
+'p1': 'bryhb',
+'p2': 'fcvb',
+'pct': 'a',
+'puid6': 'GAZETA_OTHER',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_OTHER_OTHER',
+'puid48': '1',
+'puid59': 'business:gc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "432328918"
+});
+
+
+
+Сбербанк, являясь социально ответственной организацией, поддерживает этот масштабный проект, направленный на развитие предпринимательской инициативы в стране, на выявление талантливых, технологически продвинутых команд, способных вывести на рынок новые и прорывные бизнес-модели, продукты и сервисы, используя самые современные достижения научно-технического прогресса, говорит Лев Хасис, первый заместитель Председателя Правления Сбербанка.
+
+
+#mt_incut2 {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut2 .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut2 .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut2 .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut2 .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut2"></div>');
+fetch('//news.mirtesen.ru/data/js/92823.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut2').html(txt);
+});
+}
+
+«Мы рады, что заявки на участие в первой волне подали более 800 российских стартапов, и надеемся, что вторая волна, о начале которой мы объявляем сегодня, будет не менее привлекательной, — отметил он. — Хочу поблагодарить десятки российских корпораций, которые поддержали нашу инициативу и примут участие в проекте в качестве наших партнеров».
+В свою очередь, Беди Янг, управляющий партнер 500 Startups, заявила, что приятно удивлена высоким уровнем российских стартапов, особенно их IT-экспертизой.
+«Опыт 500 Startups поможет им выйти на новый уровень развития, — считает она. Первая волна нашего совместного со Сбербанком акселератора показала отличные результаты, поэтому мы с удовольствием приняли приглашение Сбербанка провести программу во второй раз».
+
+
+
+#native3{ position: relative; float: right; width: auto; margin-left: 10px }
+#begun_block_439285592 .ad_native_block{
+position: relative !important;
+z-index: 1 !important;
+padding: .4em 1em .7em .7em !important;
+min-height: 100% !important;
+overflow: hidden !important;
+background: #eeefeb!important;
+border-bottom: 4px solid #e0e1dd;
+font-size: 14px !important;
+width: 410px!important;
+font-family: "Arial";
+color:#000;
+}
+#begun_block_439285592 .ad_native_img {
+position: relative !important;
+margin-right: 12px !important;
+float: left !important;
+overflow: hidden !important;
+-ms-flex-negative: 0 !important;
+flex-shrink: 0 !important;
+margin-top: 6px;
+}
+#begun_block_439285592 .ad_native_title_wrapper {
+line-height: 16px;
+padding-top: 4px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone {
+font-size: 18px;
+font-weight: 700;
+line-height: 19px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone:hover {
+color: #AF242C !important;
+}
+#begun_block_439285592 .ad_native_title {
+margin-top: 10px;
+}
+#begun_block_439285592 .ad_native_title span {
+background-color: #AF242C;
+color: #fff;
+padding: 2px 5px;
+}
+#begun_block_439285592 .ad_native_desc {
+line-height: 16px;
+margin-top: 10px;
+}
+#begun_block_439285592 span.ad_native_sponsored {
+display: none;
+}
+
+
+
+AdfProxy.sspScroll('native3', {
+'p1': 'bwjcl',
+'p2': 'fjgk',
+'pct': 'a',
+'puid6': 'GAZETA_OTHER',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_OTHER_OTHER',
+'puid48': '1',
+'puid59': 'business:gc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "439285592"
+});
+
+
+
+«Мы видим, что Сбербанк выстроил свою работу с инновациями и стартапами таким образом, чтобы не только развивать собственную экосистему, но также благоприятно воздействовать на предпринимательскую и венчурную среды всей страны», — подчеркнула Янг.
+Программа акселератора Сбербанка и 500 Startups повторяет знаменитую программу 500 Startups, которая проводится в Сан-Франциско, и продлится 9 недель.
+
+Новости СМИ2
+
+(function() {
+var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+sc.src = '//smi2.ru/data/js/93296.js'; sc.charset = 'utf-8';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+}());
+
+Еженедельно в Москву будет приезжать 3 - 5 менторов из 500 Startups, каждый из которых будет преподавать свое направление: от Customer development до Fundraising. Обучение будет состоять из лекций, командных воркшопов, индивидуальных встреч с менторами по проработке специфики стартапов и основ развития их бизнеса.
+Помимо этого, с первых дней программы стартапы будут дорабатывать свои продукты с представителями экосистемы Сбербанка и его партнеров, чтобы по окончанию программы запустить с ними пилотные проекты и договориться о сотрудничестве.
+Первый совместный акселератор Сбербанка и 500 Startups прошел год назад, участие в нем приняло 30 проектов.
+За время проекта выручка B2B-стартапов выросла в среднем более чем на 40%, В2С – на 70%, компании провели более 130 пилотных проектов в корпорациях. Более 60 инвестиционных фондов и бизнес-ангелов заинтересовались инвестициями в стартапы.
+7 команд, чьи продукты были признаны перспективными для реализации на зарубежных рынках, прошли дополнительное обучение в США, в Кремниевой долине. Несколько проектов привлекли зарубежных инвесторов. Демо-День акселератора стал ярким событием на венчурном рынке России и собрал 600 гостей из более чем 100 компаний и фондов.
+500 Startups – это венчурная компания, миссия которой - искать и поддерживать самых талантливых предпринимателей в мире, помогать им создавать успешные масштабируемые компании и строить процветающие глобальные экосистемы. Это одна из самых активных венчурных фирм в мире.
+С момента своего создания в Силиконовой долине 500 Startups инвестировали в более чем 2200 компаний через 4 глобальных фонда и 15 тематических фондов, работающих с конкретными географическими рынками или отраслями. Более 100 членов команды расположены в 20 странах по всему миру для формирования международного портфеля инвестиций 500 Startups, который охватывает более 74 стран.
+В число известных портфельных компаний 500 Startups входят: Twilio (NYSE: TWLO), Credit Karma, SendGrid (приобретено Twilio), Grab, GitLab, Bukalapak, Canva, Udemy, TalkDesk, Intercom, Ipsy, MakerBot (приобретено SSYS), Wildfire (приобретено Google) и Viki (приобретена Rakuten).
+Помимо предоставления начального капитала, 500 Startups поддерживает стартапы на стадии seed с помощью своих акселерационных программ, в которых особое внимание уделяется цифровому маркетингу, привлечению клиентов, методам запуска стартапа и сбора средств.
+500 Startups также вносят свой вклад в развитие инновационных экосистем, поддерживая стартапы и инвесторов посредством образовательных программ, мероприятий, конференций и партнерских отношений с корпорациями и правительствами по всему миру.
+

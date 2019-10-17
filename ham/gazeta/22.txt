@@ -1,0 +1,320 @@
+Новая амнистия: кого не будут наказывать
+
+Для тех, кто возвращает свой бизнес в Россию и регистрирует его в специальных административных районах, амнистия должна продолжиться, заявил глава государства Владимир Путин в среду, 6 февраля, во время пленарного заседания на форуме «Деловой России».
+«Именно изъяны национальной юрисдикции — недостаточные гарантии защиты частной собственности — вынудили многих предпринимателей регистрировать свои активы за рубежом и выводить их», — сказал Путин. 
+Для того, чтобы вернуть капиталы на родину, власти проводят в данный момент амнистию. «При этом частные лица освобождаются от ответственности за ряд правонарушений экономического, валютного и налогового законодательства», — напомнил президент.
+
+
+
+Реклама
+
+
+.adcenter-wrapper {
+padding: 0 20px 0 85px;
+}
+.AdCentre_new_adv{
+margin-bottom: 20px;
+}
+.AdCentre_new_adv .partner_material_item{
+min-height: 76px;
+margin: 10px 0px;
+float: left;
+margin-left: 12px;
+}
+.AdCentre_new_adv .x80_80{
+max-width: 80px;
+max-height: 80px;
+margin-right: 10px;
+float: left;
+}
+.AdCentre_new_adv .partner_material_item_text{
+float:left;
+max-width: 120px;
+}
+.AdCentre_new_adv .partner_material_item_text_value{
+font: normal 14px/16px "PT Sans", serif;
+display: block;
+}
+.AdCentre_new_adv .partner_material_item_text_value:hover{
+color: #b11116;
+}
+.AdCentre_new_adv .sausage-header{
+position: relative;
+display: block;
+height: 34px;
+margin-left: 10px;
+font: bold 15px/36px 'PT Sans', sans-serif;
+color: #333;
+letter-spacing: 0.01em;
+border-bottom: 1px solid #dfdfdf;
+}
+@media print, screen and (max-width: 1260px){
+.adcenter-wrapper {
+padding: 0 0 0 0;
+}
+.AdCentre_new_adv {
+width: 587px;
+}
+.AdCentre_new_adv .sausage-list{
+width: 587px;
+max-height: 208px;
+}
+.AdCentre_new_adv .partner_material_item_text{
+max-width: 190px;
+}
+}
+
+
+ AdfProxy.ssp('AdCentre', {
+'p1': 'bwrhb',
+'p2': 'fomw',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ECONOMY',
+
+'puid59': 'bc',
+
+}, {
+'begun-auto-pad': "432328744",
+'begun-block-id': "442235190"
+});
+
+
+
+
+
+
+set_resizeblock_handler('#AdCentre', function () {
+if( $('#AdCentre').height() > 10 ) {
+$('.AdCentre_name, .AdCentre_bot').show();
+//$('#Adcenter_Vertical').hide();
+} else {
+$('.AdCentre_name, .AdCentre_bot').hide();
+}
+});
+
+Действующая амнистия капитала позволяет россиянам задекларировать свои зарубежные активы (банковские счета, недвижимость, ценные бумаги, контролируемые иностранные компании — КИК), а государство не спрашивает об источнике происхождения средств для приобретения этих активов. Однако амнистия истекает 1 марта 2019 года.
+
+
+#mt_incut {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut"></div>');
+fetch('//news.mirtesen.ru/data/js/91014.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut').html(txt);
+});
+}
+
+
+«Мы с коллегами обсуждали и считаем, что еще на один год можно продлить амнистию капитала для тех граждан, которые переводят свои денежные средства в Россию и регистрируют свой бизнес в специальных административных районах с особыми правовыми условиями для компаний, которые возвращаются в российскую юрисдикцию, которые созданы на острове Октябрьский в Калининграде и на острове Русский во Владивостоке», — сказал Путин.
+Бизнес властям не верит
+По мнению Артема Деева, ведущего аналитика Amarkets, сейчас российский бизнес оказался в таких условиях, что амнистия капитала может быть успешной. К возврату на родину предпринимателей побуждает санкционное давление и реальная угроза заморозки средств за рубежом. «Кроме того, бизнесмены начинают осознавать масштабы штрафных санкций со стороны российских властей, а условия возврата капитала на родину действительно щадящие », — говорит Деев.
+Между странами наладился обмен налоговой информацией, а значит, выявлять компании и физлиц, не доложивших о наличии активов за рубежом, станет еще проще,
+добавляет Алексей Антонов, аналитик Алор Брокер.
+
+
+
+
+
+AdfProxy.ssp('in_read', {
+'p1': 'bryhb',
+'p2': 'fcvb',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ECONOMY',
+
+'puid59': 'bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "432328918"
+});
+
+
+
+Впрочем, Антонов считает, что бизнесмены будут все равно неохотно и только в случае крайней необходимости возвращать капитал на родину.
+«Бизнес привык не доверять власти и хорошо знает российские законы, 
+которые можно трактовать как в пользу уплаты НДФЛ, так и в пользу освобождения от его уплаты, в зависимости от субъективного мнения судебного органа», — отмечает Антонов.
+
+
+#mt_incut2 {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut2 .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut2 .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut2 .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut2 .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut2"></div>');
+fetch('//news.mirtesen.ru/data/js/92823.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut2').html(txt);
+});
+}
+
+Первая амнистия капитала была неудачной. Она проходила с 1 июля 2015 года по 30 июня 2016 года. По словам руководителя налоговой практики юридической фирмы Cliff Натальи Кордюковой, первая волна амнистии капитала собрала всего 7200 представителей бизнеса. Вторая волна соберет уже десятки тысяч человек, считает она.
+После анонсирования президентом налоговой амнистии в Минфине заявили, что в 2018 году были задекларированы остатки по счетам в объеме €10 млрд.
+Глава ФНС Михаил Мишустин при этом отметил, что, когда бизнесмен подает спецдекларацию, он может оставить справку о движении по счетам. И совокупный объем остатков по счетам тех, кто это сделал, составил больше €10 млрд.
+
+
+
+#native3{ position: relative; float: right; width: auto; margin-left: 10px }
+#begun_block_439285592 .ad_native_block{
+position: relative !important;
+z-index: 1 !important;
+padding: .4em 1em .7em .7em !important;
+min-height: 100% !important;
+overflow: hidden !important;
+background: #eeefeb!important;
+border-bottom: 4px solid #e0e1dd;
+font-size: 14px !important;
+width: 410px!important;
+font-family: "Arial";
+color:#000;
+}
+#begun_block_439285592 .ad_native_img {
+position: relative !important;
+margin-right: 12px !important;
+float: left !important;
+overflow: hidden !important;
+-ms-flex-negative: 0 !important;
+flex-shrink: 0 !important;
+margin-top: 6px;
+}
+#begun_block_439285592 .ad_native_title_wrapper {
+line-height: 16px;
+padding-top: 4px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone {
+font-size: 18px;
+font-weight: 700;
+line-height: 19px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone:hover {
+color: #AF242C !important;
+}
+#begun_block_439285592 .ad_native_title {
+margin-top: 10px;
+}
+#begun_block_439285592 .ad_native_title span {
+background-color: #AF242C;
+color: #fff;
+padding: 2px 5px;
+}
+#begun_block_439285592 .ad_native_desc {
+line-height: 16px;
+margin-top: 10px;
+}
+#begun_block_439285592 span.ad_native_sponsored {
+display: none;
+}
+
+
+
+AdfProxy.sspScroll('native3', {
+'p1': 'bwjcl',
+'p2': 'fjgk',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ECONOMY',
+
+'puid59': 'bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "439285592"
+});
+
+
+
+«Неважно, остатки по счетам и так, и так. Никаких обязанностей вводить их в Россию не было», — ответил Мишустин на вопрос, на каких счетах были задекларированы эти средства
+Средства, которые возвращают предприниматели в Россию, обычно оседают в банках либо идут на покупку низкорисковых финансовых инструментов, в том числе ОФЗ, говорит в свою очередь Дмитрий Александров, заместитель начальника отдела аналитических исследований «Универ Капитал».
+
+Новости СМИ2
+
+(function() {
+var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+sc.src = '//smi2.ru/data/js/93296.js'; sc.charset = 'utf-8';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+}());
+
+Квазиналог и НДФЛ для семей
+В ходе форума в среду бизнесмены добились и ряда других обещаний от президента. В частности, Владимир Путин согласился с тем, что комиссия банков за безналичный расчет является «квазиналогом».
+Путин отметил, что в некоторых странах взимаемая комиссия ниже, чем в России — 0,2%-0,3%. «У нас 3%, и, конечно, это слишком много, это, конечно, квазиналог», — заявил Путин.
+Кроме того, президент поддержал идею освободить молодые семьи от уплаты налога на доходы физических лиц (НДФЛ) при продаже квартиры.
+«Если речь идет о единственном жилье, то тогда мне кажется, что это вполне обоснованное предложение, я его поддержу», — сказал он.
+Также Владимир Путин согласился с мнением предпринимателей, что автоматическая блокировка средств в рамках 115 закона («О противодействии легализации (отмыванию) доходов, полученных преступным путем, и финансированию терроризма») должна быть только «крайней мерой». В который раз президент выслушал жалобы бизнеса на проверки и незаконные наложения штрафов.
+

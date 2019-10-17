@@ -1,0 +1,312 @@
+Залатать демографическую дыру: в России повысили маткапитал
+
+В 2020 году сумма материнского капитала увеличится на 3,8% — до 466 617 рублей. Об этом премьер-министр России Дмитрий Медведев сообщил на заседании правительства 19 сентября, передает РИА «Новости». Таким образом он увеличится на 3,8% с текущих 453 026 рублей.
+
+
+
+Реклама
+
+
+.adcenter-wrapper {
+padding: 0 20px 0 85px;
+}
+.AdCentre_new_adv{
+margin-bottom: 20px;
+}
+.AdCentre_new_adv .partner_material_item{
+min-height: 76px;
+margin: 10px 0px;
+float: left;
+margin-left: 12px;
+}
+.AdCentre_new_adv .x80_80{
+max-width: 80px;
+max-height: 80px;
+margin-right: 10px;
+float: left;
+}
+.AdCentre_new_adv .partner_material_item_text{
+float:left;
+max-width: 120px;
+}
+.AdCentre_new_adv .partner_material_item_text_value{
+font: normal 14px/16px "PT Sans", serif;
+display: block;
+}
+.AdCentre_new_adv .partner_material_item_text_value:hover{
+color: #b11116;
+}
+.AdCentre_new_adv .sausage-header{
+position: relative;
+display: block;
+height: 34px;
+margin-left: 10px;
+font: bold 15px/36px 'PT Sans', sans-serif;
+color: #333;
+letter-spacing: 0.01em;
+border-bottom: 1px solid #dfdfdf;
+}
+@media print, screen and (max-width: 1260px){
+.adcenter-wrapper {
+padding: 0 0 0 0;
+}
+.AdCentre_new_adv {
+width: 587px;
+}
+.AdCentre_new_adv .sausage-list{
+width: 587px;
+max-height: 208px;
+}
+.AdCentre_new_adv .partner_material_item_text{
+max-width: 190px;
+}
+}
+
+
+ AdfProxy.ssp('AdCentre', {
+'p1': 'bwrhb',
+'p2': 'fomw',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ECONOMY',
+
+'puid59': 'bc',
+
+}, {
+'begun-auto-pad': "432328744",
+'begun-block-id': "442235190"
+});
+
+
+
+
+
+
+set_resizeblock_handler('#AdCentre', function () {
+if( $('#AdCentre').height() > 10 ) {
+$('.AdCentre_name, .AdCentre_bot').show();
+//$('#Adcenter_Vertical').hide();
+} else {
+$('.AdCentre_name, .AdCentre_bot').hide();
+}
+});
+
+«Будем индексировать материнский капитал, в следующем году его размер превысит 466 тысяч рублей», — сообщил Медведев.
+На эти выплате в проекте бюджета России заложено 316 миллиардов рублей, пояснил глава правительства.
+О том, что в 2020 году маткапитал будет составлять «около 470 тыс.» рублей на полях Петербургского международного экономического форума рассказывал министр труда и социальной защиты Максим Топилин.
+
+
+#mt_incut {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut"></div>');
+fetch('//news.mirtesen.ru/data/js/91014.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut').html(txt);
+});
+}
+
+
+Программа материнского капитала действует в стране уже больше десяти лет — с 2007 года. Ранее спикер Совета Федерации Валентина Матвиенко заявила, что рассчитывает на продление программы по предоставлению материнского капитала до 2025 года. По ее словам, такое решение может быть принято до конца 2019 года. Позже в июле в Минтруде предположили, что программа по выдаче материнского капитала может стать бессрочной. Об этом заявлял первый замминистра труда Алексей Вовченко. Действующая программа маткапитала в России завершается в 2021 году.
+
+
+
+
+
+AdfProxy.ssp('in_read', {
+'p1': 'bryhb',
+'p2': 'fcvb',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ECONOMY',
+
+'puid59': 'bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "432328918"
+});
+
+
+
+По программе маткапитал выделяется на второго и последующего ребенка в семье. Выделенную сумму можно потратить по-разному. Средства можно направить на улучшение жилищных условий, образование для детей, формирование накопительной трудовой пенсии матери. Кроме того, маткапитал можно использовать для компенсации затрат на социальную адаптацию и интеграцию в общество детей с ограниченными возможностями.
+
+
+#mt_incut2 {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut2 .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut2 .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut2 .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut2 .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut2"></div>');
+fetch('//news.mirtesen.ru/data/js/92823.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut2').html(txt);
+});
+}
+
+Помимо этого, можно оформить из средств маткапитала ежемесячную выплату, но для этого нужно подходить под ряд условий. В частности, оформить ежемесячные выплаты можно, если второй ребенок в вашей семье родился (или был усыновлен) после 1 января 2018 года, а среднедушевой доход вашей семьи — не выше, чем 1,5 прожиточного минимума. Попадающим семьям под оба условия могут в течение полутора лет ежемесячно выплачивать сумму, равную прожиточному минимуму детей.
+По закону материнский капитал выделяется семье единожды. Каждый год сертификат на маткапитал получают порядка 700-800 тыс. семей, говорилось в отчетах Пенсионного фонда России. ПФР является администратором программы маткапитала.
+Изначально сумма маткапитала составляла 250 тысяч рублей. Позже сумму индексировали, однако в 2016 году объем маткапитала заморозили до начала 2020 года. Последний раз маткапитал индексировали в 2015 году на 5,5%.
+Сохранение нации
+Cистемой материнского капитала российские власти пытаются решить часть проблем из-за демографического кризиса 1990-х годов. В России ожидается сокращение женщин детородного возраста. К настоящему моменту рождаемость в стране опустилась до минимума за 20 лет. К такому выводу пришли эксперты Института социального анализа и прогнозирования (ИНСАП) РАНХиГС, cледует из нового выпуска «Мониторинга социально-экономического положения и самочувствия населения».
+
+
+
+#native3{ position: relative; float: right; width: auto; margin-left: 10px }
+#begun_block_439285592 .ad_native_block{
+position: relative !important;
+z-index: 1 !important;
+padding: .4em 1em .7em .7em !important;
+min-height: 100% !important;
+overflow: hidden !important;
+background: #eeefeb!important;
+border-bottom: 4px solid #e0e1dd;
+font-size: 14px !important;
+width: 410px!important;
+font-family: "Arial";
+color:#000;
+}
+#begun_block_439285592 .ad_native_img {
+position: relative !important;
+margin-right: 12px !important;
+float: left !important;
+overflow: hidden !important;
+-ms-flex-negative: 0 !important;
+flex-shrink: 0 !important;
+margin-top: 6px;
+}
+#begun_block_439285592 .ad_native_title_wrapper {
+line-height: 16px;
+padding-top: 4px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone {
+font-size: 18px;
+font-weight: 700;
+line-height: 19px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone:hover {
+color: #AF242C !important;
+}
+#begun_block_439285592 .ad_native_title {
+margin-top: 10px;
+}
+#begun_block_439285592 .ad_native_title span {
+background-color: #AF242C;
+color: #fff;
+padding: 2px 5px;
+}
+#begun_block_439285592 .ad_native_desc {
+line-height: 16px;
+margin-top: 10px;
+}
+#begun_block_439285592 span.ad_native_sponsored {
+display: none;
+}
+
+
+
+AdfProxy.sspScroll('native3', {
+'p1': 'bwjcl',
+'p2': 'fjgk',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ECONOMY',
+
+'puid59': 'bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "439285592"
+});
+
+
+
+«За январь-июль 2019 г. родилось 860,4 тыс. детей, это на 7,4% меньше, чем за аналогичный период 2018 года. В 2018-м суммарный коэффициент рождаемости снизился до 1,58 ребенка в среднем на женщину, однако специфика настоящей ситуации не столько в общем снижении, сколько в динамике составляющих этого коэффициента по порядку рождения», — говорится на сайте РАНХиГС.
+
+Новости СМИ2
+
+(function() {
+var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+sc.src = '//smi2.ru/data/js/93296.js'; sc.charset = 'utf-8';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+}());
+
+По итогам 2018 года суммарный коэффициент первых рождений составил 0,66 ребенка в среднем на женщину. Эксперты подчеркивают, что падение рождаемости кажется особенно резким на фоне 2010-2015-х годов.
+Кроме того, это самый низкий показатель первых рождений и в России до этого он наблюдался лишь единожды – «в 1999 году на «дне» нисходящего тренда рождаемости», указывается в аналитическом выпуске.
+Между тем для молодых семей предусмотрены и другие льготы. Напомним, с 2020 года родители детей до трех лет будут ежемесячно получать от государства 12 тыс. рублей, обещает правительство. Сейчас выплаты положены лишь тем семьям, в которых есть ребенок не старше 1,5 лет. Между тем деньги увидят только малоимущие семьи, чей суммарный доход не превышает двух прожиточных минимумов. И чтобы их получить, россиянам приходится пройти круги «бюрократического ада», указывают эксперты. Что все равно не поможет победить бедность в стране.
+

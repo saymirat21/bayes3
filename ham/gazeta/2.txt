@@ -1,0 +1,321 @@
+Новая пенсионная система: как россияне будут копить на старость
+
+В Министерстве финансов сообщили детали законопроекта о новой системе добровольных пенсионных накоплений. Как рассказали в пресс-службе ведомства, рабочее название документа — «О гарантированном пенсионном продукте», отмечает агентство «РИА-Новости».
+
+
+
+Реклама
+
+
+.adcenter-wrapper {
+padding: 0 20px 0 85px;
+}
+.AdCentre_new_adv{
+margin-bottom: 20px;
+}
+.AdCentre_new_adv .partner_material_item{
+min-height: 76px;
+margin: 10px 0px;
+float: left;
+margin-left: 12px;
+}
+.AdCentre_new_adv .x80_80{
+max-width: 80px;
+max-height: 80px;
+margin-right: 10px;
+float: left;
+}
+.AdCentre_new_adv .partner_material_item_text{
+float:left;
+max-width: 120px;
+}
+.AdCentre_new_adv .partner_material_item_text_value{
+font: normal 14px/16px "PT Sans", serif;
+display: block;
+}
+.AdCentre_new_adv .partner_material_item_text_value:hover{
+color: #b11116;
+}
+.AdCentre_new_adv .sausage-header{
+position: relative;
+display: block;
+height: 34px;
+margin-left: 10px;
+font: bold 15px/36px 'PT Sans', sans-serif;
+color: #333;
+letter-spacing: 0.01em;
+border-bottom: 1px solid #dfdfdf;
+}
+@media print, screen and (max-width: 1260px){
+.adcenter-wrapper {
+padding: 0 0 0 0;
+}
+.AdCentre_new_adv {
+width: 587px;
+}
+.AdCentre_new_adv .sausage-list{
+width: 587px;
+max-height: 208px;
+}
+.AdCentre_new_adv .partner_material_item_text{
+max-width: 190px;
+}
+}
+
+
+ AdfProxy.ssp('AdCentre', {
+'p1': 'bwrhb',
+'p2': 'fomw',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_FINANCE',
+
+'puid59': 'bc',
+
+}, {
+'begun-auto-pad': "432328744",
+'begun-block-id': "442235190"
+});
+
+
+
+
+
+
+set_resizeblock_handler('#AdCentre', function () {
+if( $('#AdCentre').height() > 10 ) {
+$('.AdCentre_name, .AdCentre_bot').show();
+//$('#Adcenter_Vertical').hide();
+} else {
+$('.AdCentre_name, .AdCentre_bot').hide();
+}
+});
+
+«В ближайшее время планируем представить законопроект для общественного обсуждения с профессиональным и экспертным сообществом, после чего он будет внесен в правительство», — отметили в Минфине.
+
+
+#mt_incut {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut"></div>');
+fetch('//news.mirtesen.ru/data/js/91014.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut').html(txt);
+});
+}
+
+
+Документ уже направлен на согласование в Минтруд. Как отмечается,
+один из основных элементов «гарантированного пенсионного продукта» — добровольность вступления.
+Помимо этого, государство обещает сохранность долгосрочных пенсионных накоплений. Для бизнеса предполагается ввести налоговые льготы, а для граждан — налоговые вычеты.
+При этом накопительные счета граждан должны регистрироваться центральным администратором.
+Как отметили в Минфине, в рамках новой системы у россиян будет возможность присоединить к гарантированному пенсионному продукту накопления из системы обязательного пенсионного страхования.
+
+
+
+
+
+AdfProxy.ssp('in_read', {
+'p1': 'bryhb',
+'p2': 'fcvb',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_FINANCE',
+
+'puid59': 'bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "432328918"
+});
+
+
+
+«Основная цель данного законопроекта — создание государственной системы гарантирования сохранности добровольных пенсионных накоплений граждан, создание стимулов для как самостоятельного формирования таких накоплений работниками, так и для развития корпоративных пенсионных программ», — говорят в министерстве.
+
+
+#mt_incut2 {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut2 .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut2 .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut2 .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut2 .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut2"></div>');
+fetch('//news.mirtesen.ru/data/js/92823.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut2').html(txt);
+});
+}
+
+О том, что новая система добровольных пенсионных накоплений будет представлена в сентябре, заявлял в конце августа замминистра финансов Алексей Моисеев. Чиновник не исключал, что это будет во время московского финансового форума, который пройдет 12-13 сентября.
+При этом он говорил, что названия ИПК (индивидуального пенсионного напитала) не будет.
+Однако сам законопроект о новой системе накоплений разработан на основе ранее обсуждавшегося законопроекта об ИПК, говорил Моисеев.
+«Основная история — будет отказ от любых средств принуждения к вступлению граждан (в систему)»,
+— сказал он журналистам.
+
+
+
+#native3{ position: relative; float: right; width: auto; margin-left: 10px }
+#begun_block_439285592 .ad_native_block{
+position: relative !important;
+z-index: 1 !important;
+padding: .4em 1em .7em .7em !important;
+min-height: 100% !important;
+overflow: hidden !important;
+background: #eeefeb!important;
+border-bottom: 4px solid #e0e1dd;
+font-size: 14px !important;
+width: 410px!important;
+font-family: "Arial";
+color:#000;
+}
+#begun_block_439285592 .ad_native_img {
+position: relative !important;
+margin-right: 12px !important;
+float: left !important;
+overflow: hidden !important;
+-ms-flex-negative: 0 !important;
+flex-shrink: 0 !important;
+margin-top: 6px;
+}
+#begun_block_439285592 .ad_native_title_wrapper {
+line-height: 16px;
+padding-top: 4px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone {
+font-size: 18px;
+font-weight: 700;
+line-height: 19px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone:hover {
+color: #AF242C !important;
+}
+#begun_block_439285592 .ad_native_title {
+margin-top: 10px;
+}
+#begun_block_439285592 .ad_native_title span {
+background-color: #AF242C;
+color: #fff;
+padding: 2px 5px;
+}
+#begun_block_439285592 .ad_native_desc {
+line-height: 16px;
+margin-top: 10px;
+}
+#begun_block_439285592 span.ad_native_sponsored {
+display: none;
+}
+
+
+
+AdfProxy.sspScroll('native3', {
+'p1': 'bwjcl',
+'p2': 'fjgk',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_FINANCE',
+
+'puid59': 'bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "439285592"
+});
+
+
+
+Новая добровольная накопительная пенсионная система (индивидуального пенсионного капитала) должна заменить прежний обязательный механизм, замороженный правительством в 2014 году. Тогда в качестве антикризисной меры были прекращены отчисления в накопительную систему (на эти цели шло 6% из 22% пенсионных страховых взносов). Для граждан накопительный компонент был пересчитан в пенсионные коэффициенты.
+
+Новости СМИ2
+
+(function() {
+var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+sc.src = '//smi2.ru/data/js/93296.js'; sc.charset = 'utf-8';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+}());
+
+Концепция ИПК была разработана еще в 2016. Она предполагает, что взносы на накопительную пенсию вместо работодателя будет осуществлять сам работник, отчисляя на это 6% своей зарплаты, с возможностью изменить ставку взносов и отказаться от их уплаты.
+Однако чиновники так и не смогли прийти к единому мнению, и разгорелись ожесточенные споры. Ключевым моментом оказался так называемый пункт об «автоподписке».
+Один из вариантов ИПК предполагал, что автоподписка, то есть автоматическое включение в систему граждан с возможностью выйти из системы ИПК, должна происходить в соответствии со статьей №158 Гражданского кодекса «Форма сделок».
+Но социальному блоку правительства это не понравилось. Так, представители правительства и ЦБ открестились от планов включить граждан в систему индивидуального пенсионного капитала (ИПК) «по умолчанию».
+В результате дискуссий в правительстве и среди экспертов от нового способа решено было отказаться. Позднее, по данным источника ТАСС, близкого в обсуждению законопроекта, было решено, что вступление в систему будет полностью добровольным.
+При этом, как указывали ряд экспертов, проект также завис из-за того, что на первое место вышла пенсионная реформа.
+Между тем ранее чиновники называли 2020 год как срок, в который вполне возможно запустить ИПК.
+В любом случае эксперты считают, что новая система накопления вряд ли вызовет интерес у россиян.
+Как отмечает директор экспертной группы Veta Дмитрий Жарский, приток новых средств в любом случае будет относительно незначительным, поскольку доходы населения растут медленно, а возможность выйти из программы будет использована сразу после получения первых зарплат с вычетом на новые взносы.
+Кроме того, самая платежеспособная часть населения уже участвует в корпоративной пенсионной программе, и дополнительно откладывать средства будут далеко не все.
+

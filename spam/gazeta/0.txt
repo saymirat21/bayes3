@@ -1,0 +1,311 @@
+Счет на десятки: «Боинги» трещат по всему миру
+
+Подозрения, павшие почти две недели назад на один из самых массовых самолетов в мире Boeing 737NG, подтвердились и теперь могут привести к отзыву треснувших самолетов, а для Boeing — обернуться новыми репутационными и финансовыми потерями.
+Как сообщают американские СМИ, число дефектных самолетов уже измеряется десятками. 
+О новой проблеме с популярными лайнерами семейства Boeing 737 стало известно в конце сентября, когда инженеры компании случайно обнаружили трещины в их конструкции. 2019 год стал кошмаром для корпорации по причине двух катастроф самолетов семейства MAX, произошедших из-за неправильных алгоритмов автопилота. Расследование привело к посадке этих самолетов во всем мире и к искам со стороны жертв катастроф, а также перевозчиков.
+
+
+
+Реклама
+
+
+.adcenter-wrapper {
+padding: 0 20px 0 85px;
+}
+.AdCentre_new_adv{
+margin-bottom: 20px;
+}
+.AdCentre_new_adv .partner_material_item{
+min-height: 76px;
+margin: 10px 0px;
+float: left;
+margin-left: 12px;
+}
+.AdCentre_new_adv .x80_80{
+max-width: 80px;
+max-height: 80px;
+margin-right: 10px;
+float: left;
+}
+.AdCentre_new_adv .partner_material_item_text{
+float:left;
+max-width: 120px;
+}
+.AdCentre_new_adv .partner_material_item_text_value{
+font: normal 14px/16px "PT Sans", serif;
+display: block;
+}
+.AdCentre_new_adv .partner_material_item_text_value:hover{
+color: #b11116;
+}
+.AdCentre_new_adv .sausage-header{
+position: relative;
+display: block;
+height: 34px;
+margin-left: 10px;
+font: bold 15px/36px 'PT Sans', sans-serif;
+color: #333;
+letter-spacing: 0.01em;
+border-bottom: 1px solid #dfdfdf;
+}
+@media print, screen and (max-width: 1260px){
+.adcenter-wrapper {
+padding: 0 0 0 0;
+}
+.AdCentre_new_adv {
+width: 587px;
+}
+.AdCentre_new_adv .sausage-list{
+width: 587px;
+max-height: 208px;
+}
+.AdCentre_new_adv .partner_material_item_text{
+max-width: 190px;
+}
+}
+
+
+ AdfProxy.ssp('AdCentre', {
+'p1': 'bwrhb',
+'p2': 'fomw',
+'pct': 'a',
+'puid6': 'GAZETA_SCIENCE',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_SCIENCE_TECH',
+
+'puid59': 'military:bc',
+
+}, {
+'begun-auto-pad': "432328744",
+'begun-block-id': "442235190"
+});
+
+
+
+
+
+
+set_resizeblock_handler('#AdCentre', function () {
+if( $('#AdCentre').height() > 10 ) {
+$('.AdCentre_name, .AdCentre_bot').show();
+//$('#Adcenter_Vertical').hide();
+} else {
+$('.AdCentre_name, .AdCentre_bot').hide();
+}
+});
+
+На этот раз проблема коснулась предыдущего поколения самолетов Boeing 737NG, которое представлено на рынке четырьмя вариантами с обозначениями −600, −700, −800 и −900.
+Трещины были обнаружены в скрытом элементе конструкции — вилочном соединении «pickle fork», которое служит для соединения крыльев с фюзеляжем и которых на самолетах 737NG четыре штуки. При помощи этого узла на фюзеляж передаются нагрузки и вращающие моменты от крыла, возникающие при движении самолета.
+
+
+#mt_incut {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut"></div>');
+fetch('//news.mirtesen.ru/data/js/91014.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut').html(txt);
+});
+}
+
+
+Узел считается весьма надежным и рассчитан на службу в течение всего срока эксплуатации самолета — свыше 90 тыс. циклов «взлет-посадка» — без возникновения усталостных трещин. «Если этот узел сломается в воздухе, могут быть тяжелые последствия, — сообщил сиэтлский телеканал KOMO-TV, который первым узнал о новой проблеме. — Это соединение является ключевым для безопасности самолета,
+и его поломка в воздухе может обернуться катастрофой при самом неблагополучном сценарии».
+Что нашли?
+Проверки находящихся в эксплуатации самолетов 737NG дали свои плоды, сообщает CNN со ссылкой на заявление Boeing.
+Аналогичные трещины были обнаружены у 38 самолетов, находившихся в эксплуатации.
+По данным Boeing, по состоянию на 9 октября было проинспектировано 810 самолетов данного типа, и трещины, требующие ремонта, были выявлены примерно на каждом двадцатом из проверенных. Первые были обнаружены на ряде бывших в эксплуатации пассажирских самолетов, которые проходили разборку в связи с их переоборудованием в грузовые варианты, сообщил телеканалу источник, знакомый с ситуацией.
+
+
+
+
+
+AdfProxy.ssp('in_read', {
+'p1': 'bryhb',
+'p2': 'fcvb',
+'pct': 'a',
+'puid6': 'GAZETA_SCIENCE',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_SCIENCE_TECH',
+
+'puid59': 'military:bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "432328918"
+});
+
+
+
+По данным издания FlightGlobal, это переоснащение проходили самолеты 800-й серии, имевшие на своем счету 35 600 — 37 300 взлетов.
+Всего проверка должна коснуться 1911 самолетов, однако по подсчетам FlightGlobal, опирающимся на данные сервиса Cirium, большая часть самолетов с высоким налетом,
+сейчас находится в эксплуатации именно в США — это самолеты -600, -700, -800 и -900-й серий.
+Всего в мире в эксплуатации находится порядка 6800 самолетов 737NG, пока не известно, в каких авиакомпаниях мира служили треснувшие самолеты и сколько лайнеров еще может коснуться эта проблема. Известно, что проверка коснулась самолетов, совершивших определенное число циклов взлет-посадка, такие есть во флоте более сотни авиакомпаний мира. По указанию Управления гражданской авиации США самолеты,
+совершившие более 30 тыс. взлетов, требовали проверки в течение недели, более 22,6 тыс. взлетов — в течение года. 
+В Boeing утверждают, что отозванным самолетам предстоит провести более простой ремонт, чем это требует ситуация с самолетами семейства MAX.
+
+
+#mt_incut2 {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut2 .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut2 .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut2 .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut2 .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut2"></div>');
+fetch('//news.mirtesen.ru/data/js/92823.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut2').html(txt);
+});
+}
+
+«Безопасность и качество являются приоритетами Boeing. Boeing сожалеет о проблемах, которые создал этот прецедент для наших заказчиков по всему миру, — говорится в заявлении компании. — Boeing активно сотрудничает с заказчиками, чтобы разработать план ремонта и обеспечить запчастями и технической поддержкой, если это необходимо».
+Ранее в среду только одна американская компания, Southwest, официально объявила о выводе из эксплуатации двух своих самолетов из-за выявленной проблемы. Всего во флоте авиакомпании более 700 таких машин. Три другие крупные американские компании American Airlines, Delta и United заявили об отсутствии проблем, так как в их флоте нет лайнеров, совершивших указанное число полетов. Бразильская Gol объявила об отзыве сразу 11 самолетов.
+
+
+
+#native3{ position: relative; float: right; width: auto; margin-left: 10px }
+#begun_block_439285592 .ad_native_block{
+position: relative !important;
+z-index: 1 !important;
+padding: .4em 1em .7em .7em !important;
+min-height: 100% !important;
+overflow: hidden !important;
+background: #eeefeb!important;
+border-bottom: 4px solid #e0e1dd;
+font-size: 14px !important;
+width: 410px!important;
+font-family: "Arial";
+color:#000;
+}
+#begun_block_439285592 .ad_native_img {
+position: relative !important;
+margin-right: 12px !important;
+float: left !important;
+overflow: hidden !important;
+-ms-flex-negative: 0 !important;
+flex-shrink: 0 !important;
+margin-top: 6px;
+}
+#begun_block_439285592 .ad_native_title_wrapper {
+line-height: 16px;
+padding-top: 4px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone {
+font-size: 18px;
+font-weight: 700;
+line-height: 19px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone:hover {
+color: #AF242C !important;
+}
+#begun_block_439285592 .ad_native_title {
+margin-top: 10px;
+}
+#begun_block_439285592 .ad_native_title span {
+background-color: #AF242C;
+color: #fff;
+padding: 2px 5px;
+}
+#begun_block_439285592 .ad_native_desc {
+line-height: 16px;
+margin-top: 10px;
+}
+#begun_block_439285592 span.ad_native_sponsored {
+display: none;
+}
+
+
+
+AdfProxy.sspScroll('native3', {
+'p1': 'bwjcl',
+'p2': 'fjgk',
+'pct': 'a',
+'puid6': 'GAZETA_SCIENCE',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_SCIENCE_TECH',
+
+'puid59': 'military:bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "439285592"
+});
+
+
+
+Усталость конструкции
+История авиации знает случаи, когда накопление усталостных трещин в силовых элементах самолетов приводило к катастрофам и даже прекращению эксплуатации определенных типов самолетов.
+Подобные трещины, вовремя не замеченные, привели к нескольким крушениям советских пассажирских Ан-10.
+После катастрофы под Харьковом было доказано, что крыло самолета разрушилось из-за сниженной прочности стрингеров, в которых образовались усталостные трещины. Вскоре Госкомиссия постановила снять с линий все имевшиеся Ан-10.
+

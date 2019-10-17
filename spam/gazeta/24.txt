@@ -1,0 +1,316 @@
+Маловато будет: губернатор поднимет себе зарплату
+
+В закон Иркутской области о государственных должностях предлагается внести поправки, касающиеся должностных окладов. Паспорт проекта закона (№ ПЗ-602 от 01.10.2019) внесен в областную автоматизированную систему «Электронный парламент».
+
+
+
+Реклама
+
+
+.adcenter-wrapper {
+padding: 0 20px 0 85px;
+}
+.AdCentre_new_adv{
+margin-bottom: 20px;
+}
+.AdCentre_new_adv .partner_material_item{
+min-height: 76px;
+margin: 10px 0px;
+float: left;
+margin-left: 12px;
+}
+.AdCentre_new_adv .x80_80{
+max-width: 80px;
+max-height: 80px;
+margin-right: 10px;
+float: left;
+}
+.AdCentre_new_adv .partner_material_item_text{
+float:left;
+max-width: 120px;
+}
+.AdCentre_new_adv .partner_material_item_text_value{
+font: normal 14px/16px "PT Sans", serif;
+display: block;
+}
+.AdCentre_new_adv .partner_material_item_text_value:hover{
+color: #b11116;
+}
+.AdCentre_new_adv .sausage-header{
+position: relative;
+display: block;
+height: 34px;
+margin-left: 10px;
+font: bold 15px/36px 'PT Sans', sans-serif;
+color: #333;
+letter-spacing: 0.01em;
+border-bottom: 1px solid #dfdfdf;
+}
+@media print, screen and (max-width: 1260px){
+.adcenter-wrapper {
+padding: 0 0 0 0;
+}
+.AdCentre_new_adv {
+width: 587px;
+}
+.AdCentre_new_adv .sausage-list{
+width: 587px;
+max-height: 208px;
+}
+.AdCentre_new_adv .partner_material_item_text{
+max-width: 190px;
+}
+}
+
+
+ AdfProxy.ssp('AdCentre', {
+'p1': 'bwrhb',
+'p2': 'fomw',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ECONOMY',
+
+'puid59': 'bc',
+
+}, {
+'begun-auto-pad': "432328744",
+'begun-block-id': "442235190"
+});
+
+
+
+
+
+
+set_resizeblock_handler('#AdCentre', function () {
+if( $('#AdCentre').height() > 10 ) {
+$('.AdCentre_name, .AdCentre_bot').show();
+//$('#Adcenter_Vertical').hide();
+} else {
+$('.AdCentre_name, .AdCentre_bot').hide();
+}
+});
+
+Из поправок следует, что губернатор Иркутской области Сергей Левченко предложил поднять себе оклад на 44%, с 18 до 27 тысяч рублей.
+
+
+#mt_incut {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut"></div>');
+fetch('//news.mirtesen.ru/data/js/91014.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut').html(txt);
+});
+}
+
+
+В пояснительной записке к законопроекту уточняется, что оклад губернатора был сокращен на 10% в 2016 году, на 4% в 2018 и 2019 годах. Как и всем остальным губернаторам и чиновникам регионального уровня. Но теперь федеральная власть разрешила индексацию окладов.
+При таком скромном окладе в 18 тысяч рублей доход губернатора за прошлый год тем не менее составил 5,5 млн рублей, его супруги — 3,2 млн рублей.
+Как такое возможно? Основной доход госслужащих складывается не за счет оклада, а из премий и доплат за выслугу лет, классный чин и за то, что чиновник является носителем государственных секретов. Премиальная часть, как правило, в разы превышает оклад.
+Премия за заботу о людях
+В Иркутской области о премиях чиновникам предложено позаботиться с помощью специальных поправок в действующий закон «О государственных должностях».
+В частности, закон предлагается дополнить статьей 121. В ней говорится, что «за проведение на высоком профессиональном уровне мероприятий, направленных на развитие Иркутской области и повышение благосостояния ее жителей, выплачивается премиальное вознаграждение».
+Это вознаграждение, как следует из поправок, «не носит обязательный характер». Но выплачивается «из фонда материального стимулирования, формируемого из расчета 10 должностных окладов по каждой областной государственной должности в соответствующем органе государственной власти Иркутской области».
+
+
+
+
+
+AdfProxy.ssp('in_read', {
+'p1': 'bryhb',
+'p2': 'fcvb',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ECONOMY',
+
+'puid59': 'bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "432328918"
+});
+
+
+
+Напомним, доходы почти каждого третьего руководителя российского региона по итогам 2018 года уменьшились по сравнению с 2017 годом. При этом почти у всех глав годовой заработок превысил миллион рублей. Так что иркутский глава не самый «бедный». Из этой «иркутской истории» становится примерно понятно, как будут проиндексированы оклады глав других регионов. Но насколько вырастет в итоге годовой доход каждого из них, можно только гадать, поскольку премия за улучшение благосостояния жителей везде оценивается по-разному.
+Кроме губернатора, повышение зарплаты планируется провести для других иркутских чиновников, это коснется 74 человек, всей областной элиты, от замов губернатора до главы избиркома и областного бизнес-омбудсмена.
+Индексация окладов, а соответственно, и премий чиновникам потребует дополнительных расходов бюджета. На четвертый квартал этого года, как отмечается в заключении областной контрольно-счетной палаты, потребуется более 32 млн рублей (на увеличение окладов — 15 млн, на премиальный фонд — 17,4 млн рублей).
+
+
+#mt_incut2 {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut2 .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut2 .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut2 .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut2 .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut2"></div>');
+fetch('//news.mirtesen.ru/data/js/92823.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut2').html(txt);
+});
+}
+
+Для следующего года дополнительно придется выделить из бюджета примерно 128 млн рублей.
+Впрочем, по мнению правового управления заксобрания, необходимо все-таки обсудить критерии, по которым будут выплачиваться премии чиновникам. «Полагаем, что такое основание, как проведение на высоком профессиональном уровне мероприятий, направленных на развитие Иркутской области и повышение благосостояния её жителей, является достаточно абстрактным и допускает для правоприменителя необоснованно широкие пределы усмотрения, что в свою очередь свидетельствует о коррупционной составляющей в проекте закона и требует устранения», — отмечается в отзыве правового управления. Отзыв размещен в карточке законопроекта.
+
+
+
+#native3{ position: relative; float: right; width: auto; margin-left: 10px }
+#begun_block_439285592 .ad_native_block{
+position: relative !important;
+z-index: 1 !important;
+padding: .4em 1em .7em .7em !important;
+min-height: 100% !important;
+overflow: hidden !important;
+background: #eeefeb!important;
+border-bottom: 4px solid #e0e1dd;
+font-size: 14px !important;
+width: 410px!important;
+font-family: "Arial";
+color:#000;
+}
+#begun_block_439285592 .ad_native_img {
+position: relative !important;
+margin-right: 12px !important;
+float: left !important;
+overflow: hidden !important;
+-ms-flex-negative: 0 !important;
+flex-shrink: 0 !important;
+margin-top: 6px;
+}
+#begun_block_439285592 .ad_native_title_wrapper {
+line-height: 16px;
+padding-top: 4px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone {
+font-size: 18px;
+font-weight: 700;
+line-height: 19px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone:hover {
+color: #AF242C !important;
+}
+#begun_block_439285592 .ad_native_title {
+margin-top: 10px;
+}
+#begun_block_439285592 .ad_native_title span {
+background-color: #AF242C;
+color: #fff;
+padding: 2px 5px;
+}
+#begun_block_439285592 .ad_native_desc {
+line-height: 16px;
+margin-top: 10px;
+}
+#begun_block_439285592 span.ad_native_sponsored {
+display: none;
+}
+
+
+
+AdfProxy.sspScroll('native3', {
+'p1': 'bwjcl',
+'p2': 'fjgk',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ECONOMY',
+
+'puid59': 'bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "439285592"
+});
+
+
+
+Президент разрешил
+Повышение зарплаты губернатора Иркутской области и остальным чиновникам связано с необходимостью индексирования зарплаты госслужащих с 1 октября 2019 года в соответствии с указом президента РФ. Об этом в четверг 10 октября сообщил руководитель пресс-службы правительства региона Павел Добродеев.
+
+Новости СМИ2
+
+(function() {
+var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+sc.src = '//smi2.ru/data/js/93296.js'; sc.charset = 'utf-8';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+}());
+
+Он добавил, что сейчас областной администрацией готовится «подробный ответ» по факту индексации окладов. «Пока можем сказать, что повышение оклада губернатора связано с исполнением указа президента об индексировании зарплат госслужащих с 1 октября 2019 года. Это делается в рамках законодательства, поскольку расчет заработной платы подчиненных непосредственно привязан к уровню зарплаты руководителя, и выполнить указ без этой меры невозможно», — указал руководитель пресс-службы правительства Иркутской области.
+Добродеев также отметил, что о повышении на 44% речи не идет, эта цифра не соответствует действительности.
+Что может добавить обладминистрация к официально опубликованному законопроекту, внесенному губернатором, непонятно.
+

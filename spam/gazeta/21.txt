@@ -1,0 +1,326 @@
+Выхода нет: как Трамп толкает Турцию к России
+
+Американские сенаторы заканчивают разработку законопроекта о санкциях в отношении Турции. Политики планируют ввести ограничения из-за начатой Анкарой военной операции на северо-востоке Сирии.
+
+
+
+Реклама
+
+
+.adcenter-wrapper {
+padding: 0 20px 0 85px;
+}
+.AdCentre_new_adv{
+margin-bottom: 20px;
+}
+.AdCentre_new_adv .partner_material_item{
+min-height: 76px;
+margin: 10px 0px;
+float: left;
+margin-left: 12px;
+}
+.AdCentre_new_adv .x80_80{
+max-width: 80px;
+max-height: 80px;
+margin-right: 10px;
+float: left;
+}
+.AdCentre_new_adv .partner_material_item_text{
+float:left;
+max-width: 120px;
+}
+.AdCentre_new_adv .partner_material_item_text_value{
+font: normal 14px/16px "PT Sans", serif;
+display: block;
+}
+.AdCentre_new_adv .partner_material_item_text_value:hover{
+color: #b11116;
+}
+.AdCentre_new_adv .sausage-header{
+position: relative;
+display: block;
+height: 34px;
+margin-left: 10px;
+font: bold 15px/36px 'PT Sans', sans-serif;
+color: #333;
+letter-spacing: 0.01em;
+border-bottom: 1px solid #dfdfdf;
+}
+@media print, screen and (max-width: 1260px){
+.adcenter-wrapper {
+padding: 0 0 0 0;
+}
+.AdCentre_new_adv {
+width: 587px;
+}
+.AdCentre_new_adv .sausage-list{
+width: 587px;
+max-height: 208px;
+}
+.AdCentre_new_adv .partner_material_item_text{
+max-width: 190px;
+}
+}
+
+
+ AdfProxy.ssp('AdCentre', {
+'p1': 'bwrhb',
+'p2': 'fomw',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ECONOMY',
+
+'puid59': 'bc:military:business',
+
+}, {
+'begun-auto-pad': "432328744",
+'begun-block-id': "442235190"
+});
+
+
+
+
+
+
+set_resizeblock_handler('#AdCentre', function () {
+if( $('#AdCentre').height() > 10 ) {
+$('.AdCentre_name, .AdCentre_bot').show();
+//$('#Adcenter_Vertical').hide();
+} else {
+$('.AdCentre_name, .AdCentre_bot').hide();
+}
+});
+
+Турецкие власти 9 октября объявили о проведении в регионе Сирии военной миссии «Источник мира», которая началась с авиаударов ВВС республики по позициям курдских формирований. Путем бомбардировок турки намерены создать на севере Сирии буферную зону. По их задумке, она должна стать защитным поясом для турецкой границы и одновременно безопасным местом, куда смогут вернуться из Турции сирийские беженцы.
+
+
+#mt_incut {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut"></div>');
+fetch('//news.mirtesen.ru/data/js/91014.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut').html(txt);
+});
+}
+
+
+«Турция должна заплатить высокую цену за нападение на наших партнеров — сирийских курдов. В настоящее время завершается работа над нашим двухпартийным законопроектом о санкциях», — уже написал об ответных действиях США в твиттере демократ от штата Мэриленд, сенатор Крис Ван Холлен.
+По его словам, бездействие США в этом вопросе фактически будет «означать предательство курдских союзников». С сенаторами согласен и президент Штатов Дональд Трамп. Американский лидер уже пообещал в случае необходимости приостановить членство Турции в НАТО. Кроме того,
+глава Белого дома пригрозил «стереть экономику с лица земли».
+Нацвалюта Турции отреагировала на подобные новости молниеносно. Через час после заявления Трампа курс турецкой лиры просел на более чем 3%, что стало самым большим скачком с начала сентября.
+
+
+
+
+
+AdfProxy.ssp('in_read', {
+'p1': 'bryhb',
+'p2': 'fcvb',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ECONOMY',
+
+'puid59': 'bc:military:business',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "432328918"
+});
+
+
+
+На торгах в четверг, 10 октября, за доллар давали 5,8 лиры. «В итоге спекулянты способны разогнать нацвалюту до 7 лир за доллар», — не исключил в беседе с «Газетой.Ru» управляющий партнер экспертной группы Veta Илья Жарский.
+
+
+#mt_incut2 {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut2 .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut2 .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut2 .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut2 .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut2"></div>');
+fetch('//news.mirtesen.ru/data/js/92823.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut2').html(txt);
+});
+}
+
+Провал на валютном рынке потянул за собой и фондовые показатели страны. Так, ключевой индекс Турции — BIST 100 — просел в ходе торгов на 4%, хотя еще на прошлой неделе показатель находился в зеленой зоне.
+Санкционные ограничения со стороны США могут нанести серьезный удар по экономике Турции, которая и так находится в крайне нестабильном состоянии, признают аналитики.
+По мнению начальника отдела инвестидей «БКС Брокер» Нарека Авакяна, американцы введут неформальные ограничения в торговой сфере. Санкции включат в себя рекомендации американским компаниям не вести бизнес с Турцией и не инвестировать ничего в турецкий рынок. Но даже этого будет достаточно для дестабилизации национального рынка.
+
+
+
+#native3{ position: relative; float: right; width: auto; margin-left: 10px }
+#begun_block_439285592 .ad_native_block{
+position: relative !important;
+z-index: 1 !important;
+padding: .4em 1em .7em .7em !important;
+min-height: 100% !important;
+overflow: hidden !important;
+background: #eeefeb!important;
+border-bottom: 4px solid #e0e1dd;
+font-size: 14px !important;
+width: 410px!important;
+font-family: "Arial";
+color:#000;
+}
+#begun_block_439285592 .ad_native_img {
+position: relative !important;
+margin-right: 12px !important;
+float: left !important;
+overflow: hidden !important;
+-ms-flex-negative: 0 !important;
+flex-shrink: 0 !important;
+margin-top: 6px;
+}
+#begun_block_439285592 .ad_native_title_wrapper {
+line-height: 16px;
+padding-top: 4px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone {
+font-size: 18px;
+font-weight: 700;
+line-height: 19px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone:hover {
+color: #AF242C !important;
+}
+#begun_block_439285592 .ad_native_title {
+margin-top: 10px;
+}
+#begun_block_439285592 .ad_native_title span {
+background-color: #AF242C;
+color: #fff;
+padding: 2px 5px;
+}
+#begun_block_439285592 .ad_native_desc {
+line-height: 16px;
+margin-top: 10px;
+}
+#begun_block_439285592 span.ad_native_sponsored {
+display: none;
+}
+
+
+
+AdfProxy.sspScroll('native3', {
+'p1': 'bwjcl',
+'p2': 'fjgk',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ECONOMY',
+
+'puid59': 'bc:military:business',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "439285592"
+});
+
+
+
+«Турецкая экономика нестабильна, последствия валютного кризиса годичной давности пока не преодолены, а лира по-прежнему подвержена рискам повторной девальвации. Вдобавок валютные резервы ЦБ в ликвидной части составляют менее $100 млрд, а экономический рост крайне неустойчив», — указывает в разговоре с «Газетой. Ru» эксперт, добавляя, что социально-экономическая ситуация продолжает ухудшаться, и это провоцирует рост протестных настроений в обществе.
+
+Новости СМИ2
+
+(function() {
+var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+sc.src = '//smi2.ru/data/js/93296.js'; sc.charset = 'utf-8';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+}());
+
+Европа между двух огней
+Несмотря на яркие высказывания и угрозы США, Евросоюз проявляет пока сдержанную реакцию на операцию Турции в Сирии. Формально глава европейской дипломатии Федерика Могерини призвала Анкару остановить бомбардировки в регионе. Однако ключевые члены ЕС — Германия и Франция — никак не отреагировали на военную экспансию Турции.
+За последние 16 лет взаимный товарооборот Берлина и Анкары увеличился втрое и по итогам 2018 года достиг $38 млрд. Причем обе страны поставляют друг другу примерно одинаковое количество товаров и услуг. В отношении Франции наблюдается схожая динамика — за прошлый год товарооборот между государствами превысил отметку в $20 млрд.
+Париж и Берлин продолжат придерживаться нейтралитета, поскольку для Европы Турция выступает одним из ключевых торговых партнеров,
+признают эксперты.
+«Примерно половина ежегодно объема турецкого экспорта приходится на ЕС, но и Евросоюз поставляет значимую часть товаров в регион», — напоминает Илья Жарский.
+По данным Министерства экономики Турции, в прошлом году доля ЕС в экспорте Турции составила 48%, в импорте — 40%.
+Для сравнения: в США Евросоюз экспортирует всего 26% товаров, а импортирует уже 62%.
+«Поэтому Европейский союз скорее пойдет на вялое противостояние с США, чем лишится выгодного союзника на Ближнем Востоке», — объясняет аналитик.
+Примечательно, что Европа не решается открыто осудить действия Турции еще и по политическим причинам. Реджеп Эрдоган заявил, что Турция может открыть границы для сирийских беженцев, в случае если ЕС назовет военную операцию в Сирии вторжением. Для Европы, которая и так переживает тяжелый миграционный кризис с 2015 года, действия Анкары могут стать серьезным ударом.
+Игра на противоречиях
+Противоречия США и Турции оборачиваются несомненной выгодой для других стран, включая Россию. Накануне Москва и Анкара подписали cоглашение о расчетах в национальных валютах. Соглашение предполагает постепенный переход к использованию рубля и лиры при взаимной торговли.
+Сейчас по объему товарооборота Турция находится на шестом месте среди ключевых партнеров России. Доля в российском внешнеторговом обороте составляет 3,9%, в то время как по экспорту российских товаров Турция занимает четвертое место с долей более 5%.
+Традиционно треть российского экспорта в Турцию составляют нефть и нефтепродукты, а примерно четверть приходится на металлы и изделия из них. При этом Анкара поставляет в Россию сельскохозяйственную продукцию растительного происхождения, включая помидоры.
+По итогам 2018 года товарооборот между Россией и Турцией вырос на 16% и достиг $25,5 млрд, и дедолларизация в торговых отношениях лишь увеличит этот показатель.
+«В нынешней ситуации противостояния Вашингтона и Анкары Москва оказывается одним из ключевых бенефициаров. Введение санкций даст дополнительную мотивацию турецкой бизнес-элите развивать экономическое сотрудничество с российскими предпринимателями», — отмечает Нарек Авакян.
+Вдобавок Россия и Турция развивают сотрудничество в банковской сфере. Соглашение о расчетах в нацвалютах также подразумевает расширение инфраструктуры приема российских карт «Мир» на территории Турции и подключение турецких банков и компаний к российскому аналогу SWIFT — системе передачи финансовых сообщений Центробанка РФ.
+С конца весны россияне получили возможность расплачиваться картами «Мир» во время отдыха в Турции. За проведение операций отвечает турецкий эквайер Is Bank, который располагает сетью в 6,5 тыс. банкоматов и держит на балансе сотни тысяч платежных терминалов. Пока услуга доступна в четырех городах — Измире, Анкаре, Стамбуле и Анталии, но банк планирует расширить географию приема карт.
+

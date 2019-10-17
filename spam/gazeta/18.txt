@@ -1,0 +1,328 @@
+«Валютная паника»: как нагрянул «черный вторник»
+
+Спустя 25 лет после других событий — дефолта 1998 года, финансового кризиса 2008 года и валютного кризиса 2014-го — 11 октября 1994 года не кажется такой драматической датой в истории, однако в 90-х россияне так не думали.
+
+
+
+Реклама
+
+
+.adcenter-wrapper {
+padding: 0 20px 0 85px;
+}
+.AdCentre_new_adv{
+margin-bottom: 20px;
+}
+.AdCentre_new_adv .partner_material_item{
+min-height: 76px;
+margin: 10px 0px;
+float: left;
+margin-left: 12px;
+}
+.AdCentre_new_adv .x80_80{
+max-width: 80px;
+max-height: 80px;
+margin-right: 10px;
+float: left;
+}
+.AdCentre_new_adv .partner_material_item_text{
+float:left;
+max-width: 120px;
+}
+.AdCentre_new_adv .partner_material_item_text_value{
+font: normal 14px/16px "PT Sans", serif;
+display: block;
+}
+.AdCentre_new_adv .partner_material_item_text_value:hover{
+color: #b11116;
+}
+.AdCentre_new_adv .sausage-header{
+position: relative;
+display: block;
+height: 34px;
+margin-left: 10px;
+font: bold 15px/36px 'PT Sans', sans-serif;
+color: #333;
+letter-spacing: 0.01em;
+border-bottom: 1px solid #dfdfdf;
+}
+@media print, screen and (max-width: 1260px){
+.adcenter-wrapper {
+padding: 0 0 0 0;
+}
+.AdCentre_new_adv {
+width: 587px;
+}
+.AdCentre_new_adv .sausage-list{
+width: 587px;
+max-height: 208px;
+}
+.AdCentre_new_adv .partner_material_item_text{
+max-width: 190px;
+}
+}
+
+
+ AdfProxy.ssp('AdCentre', {
+'p1': 'bwrhb',
+'p2': 'fomw',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ECONOMY',
+
+'puid59': 'finance:business:bc',
+
+}, {
+'begun-auto-pad': "432328744",
+'begun-block-id': "442235190"
+});
+
+
+
+
+
+
+set_resizeblock_handler('#AdCentre', function () {
+if( $('#AdCentre').height() > 10 ) {
+$('.AdCentre_name, .AdCentre_bot').show();
+//$('#Adcenter_Vertical').hide();
+} else {
+$('.AdCentre_name, .AdCentre_bot').hide();
+}
+});
+
+«Катастрофическое и глубокое падение рубля», «шок и валютная паника по всей стране», — описывают это событие очевидцы.
+Курс национальной валюты 11 октября 1994 года провалился до отметки в 3926 рублей за один доллар. Это на 845 рублей ниже по сравнению с предыдущей торговой сессией 10 октября.
+
+
+#mt_incut {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut"></div>');
+fetch('//news.mirtesen.ru/data/js/91014.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut').html(txt);
+});
+}
+
+
+Спрос на валюту на бирже в этот день составил рекордную величину — $335,7 млн, а предложение — всего $24,25 млн.
+Падение рубля было хотя и глубоким, но кратковременным. Так, уже 14 октября 1994 года курс доллара снизился до 2994 рублей.
+Однако за время, пока рубль «плавал», паника происходила не только на бирже.
+Россияне, мечтающие купить доллары, штурмовали банки. Пункты обмена валют, полагая, что рост курса американской валюты продолжится, продавали доллары даже по 4900 рублей. Магазины закрывались и срочно адаптировали цены к новому уровню.
+Попытки успокоить рынок со стороны чиновников — так, глава ЦБ Виктор Геращенко пояснял, что курс не удалось удержать, поскольку резервы закончились, — только плодили панику. Россияне воспринимали это как то, что чиновники ничего не могут, а, значит, нужно бежать покупать доллары.
+
+
+
+
+
+AdfProxy.ssp('in_read', {
+'p1': 'bryhb',
+'p2': 'fcvb',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ECONOMY',
+
+'puid59': 'finance:business:bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "432328918"
+});
+
+
+
+Несмотря возвращение курса рубля к прежним уровням, многие магазины «забыли» пересчитать обратно цены.
+Просто опустил курс
+К событиям, произошедшим 11 октября 1994 года, Россия подошла с множеством проблем. Среди них были экономический спад, высокая безработица, хроническая неуплата налогов, прогрессирующая инфляция. Так, объем ВВП нашей страны в 1994 году уменьшился на 15%, а размер бюджетного дефицита превысил планку в 5% от ВВП.
+
+
+#mt_incut2 {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut2 .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut2 .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut2 .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut2 .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut2"></div>');
+fetch('//news.mirtesen.ru/data/js/92823.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut2').html(txt);
+});
+}
+
+Экспортная выручка снижалась К тому же новые рыночные механизмы плохо работали, а высокая ставка ЦБ не давала возможности наращивать кредитование реального сектора.
+Сами россияне, уже успевшие обжечься на «пирамидах» и разуверившиеся в чековой приватизации, ощущали общее разочарование.
+При этом сама финансовая политика правительства и ЦБ вызывала много вопросов.
+Так, бюджет позволял себе лишние траты, а чтобы справляться с падением курса, постоянно проводились валютные интервенции.
+Как считается, Банк России неоправданно завышал курс рубля, в частности, под давлением импортеров.
+О причинах, которые привели к «черному вторнику», экономисты спорят и сейчас. Кто-то обвиняет правительство в растратах, кто-то кивает на недальновидную политику ЦБ. По одной из распространенных версий, то, что случилось 11 октября, стало следствием общей разболтанности механизмов функционирования валютного рынка.
+
+
+
+#native3{ position: relative; float: right; width: auto; margin-left: 10px }
+#begun_block_439285592 .ad_native_block{
+position: relative !important;
+z-index: 1 !important;
+padding: .4em 1em .7em .7em !important;
+min-height: 100% !important;
+overflow: hidden !important;
+background: #eeefeb!important;
+border-bottom: 4px solid #e0e1dd;
+font-size: 14px !important;
+width: 410px!important;
+font-family: "Arial";
+color:#000;
+}
+#begun_block_439285592 .ad_native_img {
+position: relative !important;
+margin-right: 12px !important;
+float: left !important;
+overflow: hidden !important;
+-ms-flex-negative: 0 !important;
+flex-shrink: 0 !important;
+margin-top: 6px;
+}
+#begun_block_439285592 .ad_native_title_wrapper {
+line-height: 16px;
+padding-top: 4px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone {
+font-size: 18px;
+font-weight: 700;
+line-height: 19px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone:hover {
+color: #AF242C !important;
+}
+#begun_block_439285592 .ad_native_title {
+margin-top: 10px;
+}
+#begun_block_439285592 .ad_native_title span {
+background-color: #AF242C;
+color: #fff;
+padding: 2px 5px;
+}
+#begun_block_439285592 .ad_native_desc {
+line-height: 16px;
+margin-top: 10px;
+}
+#begun_block_439285592 span.ad_native_sponsored {
+display: none;
+}
+
+
+
+AdfProxy.sspScroll('native3', {
+'p1': 'bwjcl',
+'p2': 'fjgk',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ECONOMY',
+
+'puid59': 'finance:business:bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "439285592"
+});
+
+
+
+Как отмечали эксперты, Центробанк в тот момент «созрел» для того, чтобы не сдерживать падение курса рубля, тратя резервы, и не делать спекуляции привлекательными. Так что он просто опустил курс 11 октября 1994 года. Но хотя спекулянты поняли, что таким образом нельзя играть с ЦБ, на рынке началась паника. И то, что курс быстро удалось вернуть к прежним значениям, не спасло от неприятных последствий.
+
+Новости СМИ2
+
+(function() {
+var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+sc.src = '//smi2.ru/data/js/93296.js'; sc.charset = 'utf-8';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+}());
+
+Без вины виноватый
+В докладе специальной комиссии, которая расследовала последствия 11 октября, говорилось, что основной причиной обвала была «раскоординированность, несвоевременность, а порой и некомпетентность решений и действий федеральных органов власти».
+Президент России Борис Ельцин назвал тогда эти события «попыткой финансового путча». При этом Совет безопасности охарактеризовал «черный вторник» как «чрезвычайное происшествие, представляющее угрозу безопасности России».
+Были даже найдены конкретные виновные. Тогда демонстративно от должности отстранили председателя ЦБ Виктора Геращенко и и. о. министра финансов Сергей Дубинин.
+В воспоминаниях Виктора Геращенко, собранных публицистом Николаем Кротовым, финансист потом философски описывал это событие.
+«То, что случилось 11 октября 1994 года, должно было случиться. Причиной обвального падения российской валюты стала фундаментальная слабость российской экономики, которая вызвана чрезмерным падением производства. Да к тому же следует признать, что мы развитие ситуации слегка прозевали, просмотрели, и скачок курса пришелся на момент, когда резервов оставалось всего $300 млн …» — объяснял Геращенко.
+Сергей Дубин вообще считает, что лишился своего поста ни за что.
+В интервью журналу «Огонек» он заявлял, что рубль так резко обвалился в 1994 году из-за действий ЦБ: «Центробанк ушел с рынка! До того он сдерживал курс, а потом отпустил. Причем с Минфином, со мной — и.о. министра — это даже не согласовали. Уже потом вычислили, что «черный вторник» и случился потому, что Центробанк вовремя не провел интервенцию в момент скачка спроса на доллары», — говорил он.
+Среди экспертов до сих пор популярна точка зрения, что виновниками причиной драматического падения рубля 11 октября стал сговор коммерческих банков, которые играли против рубля и хорошо заработали на этом.
+Как утверждала тогда Генпрокуратура, «черный вторник» обогатил на десятки миллионов долларов те коммерческие банки, которые были готовы к такому повороту событий. Однако найти конкретных виновных в сговоре не удалось. Генпрокуратура просто ничего не смогла доказать. Банки, которые принимали активное участие в торгах 11 октября 1994 года, заявили о своей непричастности к краху рубля и спекуляциях.
+При этом часть экспертов считают, что обвал 1994 года стал одной из причин кризиса на межбанковском рынке в 1995 году.
+Крупные кредитные учреждения утратили тогда доверие и стали неохотно выдавать кредиты мелким организациям. Возникший дефицит ликвидных средств достиг пика в августе 1995 года. Тогда рынок межбанковского кредитования просто встал.
+«Последствиями, величина которых определяет важность «черного вторника», можно считать банкротство мелких банков и организаций, производивших обмен валют и специализировавшихся преимущественно на нем, усиление долларизации в стране. Тогда же появилось недоверие к облигациям и прочим ценным бумагам», — резюмирует Артем Деев, руководитель аналитического департамента AMarkets.
+

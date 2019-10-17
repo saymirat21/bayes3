@@ -1,0 +1,318 @@
+Кипр и Черногория: на что променяют Турцию
+
+В Российском союзе туриндустрии (РСТ) рассказали о странах, в которых можно отдохнуть вместо переполненных курортов в Турции.
+
+
+
+Реклама
+
+
+.adcenter-wrapper {
+padding: 0 20px 0 85px;
+}
+.AdCentre_new_adv{
+margin-bottom: 20px;
+}
+.AdCentre_new_adv .partner_material_item{
+min-height: 76px;
+margin: 10px 0px;
+float: left;
+margin-left: 12px;
+}
+.AdCentre_new_adv .x80_80{
+max-width: 80px;
+max-height: 80px;
+margin-right: 10px;
+float: left;
+}
+.AdCentre_new_adv .partner_material_item_text{
+float:left;
+max-width: 120px;
+}
+.AdCentre_new_adv .partner_material_item_text_value{
+font: normal 14px/16px "PT Sans", serif;
+display: block;
+}
+.AdCentre_new_adv .partner_material_item_text_value:hover{
+color: #b11116;
+}
+.AdCentre_new_adv .sausage-header{
+position: relative;
+display: block;
+height: 34px;
+margin-left: 10px;
+font: bold 15px/36px 'PT Sans', sans-serif;
+color: #333;
+letter-spacing: 0.01em;
+border-bottom: 1px solid #dfdfdf;
+}
+@media print, screen and (max-width: 1260px){
+.adcenter-wrapper {
+padding: 0 0 0 0;
+}
+.AdCentre_new_adv {
+width: 587px;
+}
+.AdCentre_new_adv .sausage-list{
+width: 587px;
+max-height: 208px;
+}
+.AdCentre_new_adv .partner_material_item_text{
+max-width: 190px;
+}
+}
+
+
+ AdfProxy.ssp('AdCentre', {
+'p1': 'bwrhb',
+'p2': 'fomw',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_TOURISM',
+
+'puid59': 'bc',
+
+}, {
+'begun-auto-pad': "432328744",
+'begun-block-id': "442235190"
+});
+
+
+
+
+
+
+set_resizeblock_handler('#AdCentre', function () {
+if( $('#AdCentre').height() > 10 ) {
+$('.AdCentre_name, .AdCentre_bot').show();
+//$('#Adcenter_Vertical').hide();
+} else {
+$('.AdCentre_name, .AdCentre_bot').hide();
+}
+});
+
+По cловам главы РСТ Юрия Барзыкина, альтернативным вариантом турецкой Антальи можно считать средиземноморские курорты.
+«Всё Средиземноморье, если сравнивать с Турцией, оно и по погоде, и по инфраструктуре, да и по цене сравнимо. Это, прежде всего, Кипр, который тоже пользуется большим спросом, и соседи рядом. Начиная от Балканских стран – это Черногория, Хорватия, и Италия, которая будет уже чуть дороже, и Греция», — перечислил Барзыкин в интервью радиостанции «Говорит Москва».
+
+
+#mt_incut {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut"></div>');
+fetch('//news.mirtesen.ru/data/js/91014.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut').html(txt);
+});
+}
+
+
+Представитель союза туриндустрии отметил, что все они «предлагают достойный продукт, сопоставимый».
+Барзыкин также в ряду альтернатив Турции добавил Юго-Восточную Азию и Латинскую Америку, Доминикану.
+«В это время еще низкий сезон. Думаю, замену, безусловно, найдут. Ёмкость рынка у нас, конечно, велика, но предложений более чем достаточно», — констатировал глава РСТ.
+Ранее российские СМИ писали, что в Анталье отели приостановили продажу туров из-за высокого спроса и полной загруженности. В туризме есть понятие stop sale, в целом продажи не приостановили, просто все места в отдельных отелях были проданы, пояснил «Газете.Ru» вице-президент Ассоциации туроператоров России (АТОР) Дмитрий Горин.
+
+
+
+
+
+AdfProxy.ssp('in_read', {
+'p1': 'bryhb',
+'p2': 'fcvb',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_TOURISM',
+
+'puid59': 'bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "432328918"
+});
+
+
+
+Это говорит о большой востребованности конкретного отеля, отмечает эксперт.
+Так, курорты в Турции покупаются по акциям раннего бронирования.
+«В феврале-марте этого года, когда 60% Турции уже было забронировано на летний сезон, были периоды, когда отели уже были на стоп-сейле. То есть в ряде отелей просто закончились места, естественно, туроператоры предлагали альтернативные варианты», — прокомментировал «Газете.Ru» Горин.
+Кроме того, были факты и перепродажи — овербукинга. В этом случае отель подтверждает больше мест, чем на самом деле есть — в надежде, что кто-то откажется.
+
+
+#mt_incut2 {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut2 .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut2 .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut2 .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut2 .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut2"></div>');
+fetch('//news.mirtesen.ru/data/js/92823.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut2').html(txt);
+});
+}
+
+По его словам, в последние годы Турция показывала серьезную динамику роста продаж.
+«Мы еще не знаем цифры по этому году, но можно однозначно предположить, что это будет более 6 млн туристов из России. Это абсолютный рекорд», — говорит эксперт.
+История с Турцией уникальна в этом году еще по одной причине, добавляет Горин. Высокий сезон — период повышенного спроса, пик которого приходится на июль - август, в этот раз продлился и на сентябрь, рассказал «Газете.Ru» представитель АТОР.
+В целом по ряду альтернатив эксперт согласен, что у Турции есть «здоровая конкуренция». Это Кипр, Испания, Тунис — из летних направлений, а также Черногория, Греция, Болгария.
+Только за июнь турпоток из России в Турцию уже превысил миллион человек.
+Летом сообщалось, что Анталья приняла рекордное количество туристов в этом году. Число российских путешественников, приехавших в июне 2019 года в Турцию, возросло в годовом выражении на 4,6% и достигло более 1 млн человек. Всего турецкие власти ожидают, что за этот год к ним приедут более 6 миллионов россиян на отдых. В 2018 году Турцию посетили 5,9 миллиона россиян.
+
+
+
+#native3{ position: relative; float: right; width: auto; margin-left: 10px }
+#begun_block_439285592 .ad_native_block{
+position: relative !important;
+z-index: 1 !important;
+padding: .4em 1em .7em .7em !important;
+min-height: 100% !important;
+overflow: hidden !important;
+background: #eeefeb!important;
+border-bottom: 4px solid #e0e1dd;
+font-size: 14px !important;
+width: 410px!important;
+font-family: "Arial";
+color:#000;
+}
+#begun_block_439285592 .ad_native_img {
+position: relative !important;
+margin-right: 12px !important;
+float: left !important;
+overflow: hidden !important;
+-ms-flex-negative: 0 !important;
+flex-shrink: 0 !important;
+margin-top: 6px;
+}
+#begun_block_439285592 .ad_native_title_wrapper {
+line-height: 16px;
+padding-top: 4px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone {
+font-size: 18px;
+font-weight: 700;
+line-height: 19px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone:hover {
+color: #AF242C !important;
+}
+#begun_block_439285592 .ad_native_title {
+margin-top: 10px;
+}
+#begun_block_439285592 .ad_native_title span {
+background-color: #AF242C;
+color: #fff;
+padding: 2px 5px;
+}
+#begun_block_439285592 .ad_native_desc {
+line-height: 16px;
+margin-top: 10px;
+}
+#begun_block_439285592 span.ad_native_sponsored {
+display: none;
+}
+
+
+
+AdfProxy.sspScroll('native3', {
+'p1': 'bwjcl',
+'p2': 'fjgk',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_TOURISM',
+
+'puid59': 'bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "439285592"
+});
+
+
+
+По информации Ассоциации турфирм Турции, около 91% российских посетителей в Турцию приезжают на отдых. Основные направления — Анталья и Стамбул. Около 74,6% приехавших из России туристов выбрали программу «все включено».
+Однако траты во время путешествий россиян заметно снизились с 2013 года. Если в тот год россияне в среднем оставляли $800 на человека, то в 2018-м в среднем по $607. Именно в 2014 году началось падение доходов россиян, которое продолжается и сейчас. И по последним прогнозам надеяться на серьезное увеличение благосостояния граждан не приходится.
+
+Новости СМИ2
+
+(function() {
+var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+sc.src = '//smi2.ru/data/js/93296.js'; sc.charset = 'utf-8';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+}());
+
+Ранее опрошенные «Газетой.Ru» эксперты указывали секрет успеха турецкой Антальи. Россиян с ограниченным кошельком привлекает формат «все включено» (англ. «all inclusive») предполагает совокупность всех услуг, входящих в тур, оказываемых бесплатно на территории отеля. Оплачивается все вместе при покупке тура.
+Однако отельеры Турции этому не рады. Летом они жаловались, что из-за системы «все включено» гости из России не слишком много тратятся во время поездок, а это вредит туризму и бизнесу в стране. Они хотят привлекать туристов, которые могут оставлять в стране по $1 000 (более 65 тысяч рублей).
+

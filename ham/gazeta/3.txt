@@ -1,0 +1,319 @@
+Не скатиться в бедность: пенсионерам накинут тысячу
+
+Страховая часть пенсии по старости для неработающих пенсионеров увеличится в 2020 году на тысячу рублей, рассказал глава Пенсионного фонда России Антон Дроздов на заседании комитета Госдумы по социальной политике и делам ветеранов, передает ТАСС.
+
+
+
+Реклама
+
+
+.adcenter-wrapper {
+padding: 0 20px 0 85px;
+}
+.AdCentre_new_adv{
+margin-bottom: 20px;
+}
+.AdCentre_new_adv .partner_material_item{
+min-height: 76px;
+margin: 10px 0px;
+float: left;
+margin-left: 12px;
+}
+.AdCentre_new_adv .x80_80{
+max-width: 80px;
+max-height: 80px;
+margin-right: 10px;
+float: left;
+}
+.AdCentre_new_adv .partner_material_item_text{
+float:left;
+max-width: 120px;
+}
+.AdCentre_new_adv .partner_material_item_text_value{
+font: normal 14px/16px "PT Sans", serif;
+display: block;
+}
+.AdCentre_new_adv .partner_material_item_text_value:hover{
+color: #b11116;
+}
+.AdCentre_new_adv .sausage-header{
+position: relative;
+display: block;
+height: 34px;
+margin-left: 10px;
+font: bold 15px/36px 'PT Sans', sans-serif;
+color: #333;
+letter-spacing: 0.01em;
+border-bottom: 1px solid #dfdfdf;
+}
+@media print, screen and (max-width: 1260px){
+.adcenter-wrapper {
+padding: 0 0 0 0;
+}
+.AdCentre_new_adv {
+width: 587px;
+}
+.AdCentre_new_adv .sausage-list{
+width: 587px;
+max-height: 208px;
+}
+.AdCentre_new_adv .partner_material_item_text{
+max-width: 190px;
+}
+}
+
+
+ AdfProxy.ssp('AdCentre', {
+'p1': 'bwrhb',
+'p2': 'fomw',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_OTHER',
+
+'puid59': 'gc:business',
+
+}, {
+'begun-auto-pad': "432328744",
+'begun-block-id': "442235190"
+});
+
+
+
+
+
+
+set_resizeblock_handler('#AdCentre', function () {
+if( $('#AdCentre').height() > 10 ) {
+$('.AdCentre_name, .AdCentre_bot').show();
+//$('#Adcenter_Vertical').hide();
+} else {
+$('.AdCentre_name, .AdCentre_bot').hide();
+}
+});
+
+По его словам, размер страховой части пенсии в будущем году вырастет до 16,4 тыс. рублей. Сейчас эта сумма равняется 15,4 тыс. рублей. Индексация пенсий произойдет в 2020 году на 6,6%, в 2021-м — на 6,3%, в 2022-м — на 5,9%.
+Дроздов отметил, на индексацию пенсий уйдет 423 млрд рублей в 2020 году. Она затронет более 15 млн человек.
+Индексация пенсий проходит на фоне начавшейся в этом году пенсионной реформы. Соответствующий закон подписал президент России Владимир Путин 3 октября 2018 года.
+
+
+#mt_incut {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut"></div>');
+fetch('//news.mirtesen.ru/data/js/91014.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut').html(txt);
+});
+}
+
+
+Реформа предусматривает, что на заслуженный отдых россияне будут выходить на пять лет позже. При этом повышение будет поэтапным и продлится 10 лет. В 2028 году мужчины будут выходить на пенсию в 65 лет, а женщины — в 60 лет.
+Как заверяли чиновники, более поздний выход на пенсию даст возможность проиндексировать пенсии выше инфляции — на 7%.
+Между тем опрошенные «Газетой.Ru» эксперты говорят, что рост этот незначительный. При существующих условиях проживания основной части неработающих пенсионеров — а таких примерно 31 миллион — такое пополнение бюджета в размере 1 тыс. рублей способно незначительно улучшить жизнь, но также может спровоцировать рост инфляции, считает первый вице президент «Опоры России» Павел Сигал.
+
+
+
+
+
+AdfProxy.ssp('in_read', {
+'p1': 'bryhb',
+'p2': 'fcvb',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_OTHER',
+
+'puid59': 'gc:business',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "432328918"
+});
+
+
+
+Для населения, проживающего в регионах и глубинках, это действительно ощутимая прибавка, а для городских пенсионеров — «малозаметное увеличение доходов», говорит эксперт.
+«Рост страховой пенсии на размер официальной инфляции остается одним из основных показателей реального выполнения обязательств правительства перед пенсионерами», — отмечает в беседе с «Газетой.Ru» независимый пенсионный консультант Сергей Звенигородский.
+
+
+#mt_incut2 {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut2 .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut2 .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut2 .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut2 .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut2"></div>');
+fetch('//news.mirtesen.ru/data/js/92823.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut2').html(txt);
+});
+}
+
+По его словам, прибавка «на руки» для пожилых россиян не сильно отразится на бюджете.
+«Как и рост стоимости цен на бензин, ЖКХ и продукты, эта прибавка служит для выравнивания имеющихся доходов и расходов по определенному перечню товаров и услуг — пересмотр самого перечня имеет больший смысл», — указывает эксперт.
+С 2021 года власти готовятся перейти на новую систему накопительных пенсий. Предполагается переход, в рамках которого граждане добровольно будут отчислять на старость.
+От прежнего названия системы — «ИПК» (индивидуальный пенсионный капитал) — решили отказаться. Теперь чиновники говорят о проекте «гарантированного пенсионного продукта».
+
+
+
+#native3{ position: relative; float: right; width: auto; margin-left: 10px }
+#begun_block_439285592 .ad_native_block{
+position: relative !important;
+z-index: 1 !important;
+padding: .4em 1em .7em .7em !important;
+min-height: 100% !important;
+overflow: hidden !important;
+background: #eeefeb!important;
+border-bottom: 4px solid #e0e1dd;
+font-size: 14px !important;
+width: 410px!important;
+font-family: "Arial";
+color:#000;
+}
+#begun_block_439285592 .ad_native_img {
+position: relative !important;
+margin-right: 12px !important;
+float: left !important;
+overflow: hidden !important;
+-ms-flex-negative: 0 !important;
+flex-shrink: 0 !important;
+margin-top: 6px;
+}
+#begun_block_439285592 .ad_native_title_wrapper {
+line-height: 16px;
+padding-top: 4px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone {
+font-size: 18px;
+font-weight: 700;
+line-height: 19px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone:hover {
+color: #AF242C !important;
+}
+#begun_block_439285592 .ad_native_title {
+margin-top: 10px;
+}
+#begun_block_439285592 .ad_native_title span {
+background-color: #AF242C;
+color: #fff;
+padding: 2px 5px;
+}
+#begun_block_439285592 .ad_native_desc {
+line-height: 16px;
+margin-top: 10px;
+}
+#begun_block_439285592 span.ad_native_sponsored {
+display: none;
+}
+
+
+
+AdfProxy.sspScroll('native3', {
+'p1': 'bwjcl',
+'p2': 'fjgk',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_OTHER',
+
+'puid59': 'gc:business',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "439285592"
+});
+
+
+
+Новая модель должна изменить существующую систему негосударственного пенсионного обеспечения (НПО). Она предполагает, что долгосрочные пенсионные накопления граждан со стороны государства сохраняются.
+Однако эксперты уже критикуют ее.
+В целом новая накопительная система позволяет получить более высокую пенсию в пожилом возрасте лишь людям с заработком выше средних показателей, говорит Сигал.
+
+Новости СМИ2
+
+(function() {
+var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+sc.src = '//smi2.ru/data/js/93296.js'; sc.charset = 'utf-8';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+}());
+
+«Ведь реалии таковы, что расчетные значения доходов (считаются как среднее арифметическое) намного выше реального дохода населения», — поясняет эксперт.
+Новая система накопительных пенсий служит больше созданию новых возможностей для граждан через 10-20 лет, но не сейчас, говорит Звенигородский.
+В 2019 году величина прожиточного минимума неработающего пенсионера России составляет 8 846 рублей. Показатель рассчитывается отдельно по субъектам страны. Прожиточный минимум отражает минимальный уровень дохода, рассчитывается на основе потребительской корзины. В нее входят самые важные для жизни продукты питания и непродовольственные товары.
+Между тем всем неработающим пенсионерам, чье материальное обеспечение не достает до величины прожиточного минимума в регионе проживания, устанавливается федеральная или региональная социальная доплата к пенсии. Размер социальной пенсии в 2019 году составляет 9 тыс. 764 рублей. После индексации ее размер вырастет до 10,320 тыс. рублей.
+В 2020-м году средний прожиточный минимум пенсионеров по стране поднимут до 9 311 рублей, следует из проекта федерального бюджета на 2020 год и на плановый период 2021–2022 годов.
+В целом на развитие пенсионной системы в 2020-2022 годах правительство закладывает почти 9 трлн рублей расходов, следует из проекта бюджета.
+

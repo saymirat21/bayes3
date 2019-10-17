@@ -1,0 +1,326 @@
+«Люкс» уходит из центра Москвы: у пешеходов кончились деньги
+
+В третьем квартале текущего года на основных торговых улицах Москвы открылось 53 ресторана и кафе. Этот показатель продемонстрировал рекордный рост в столице с начала 2016 года, свидетельствуют данные последнего отчета компании JLL, с которым ознакомилась «Газета.Ru».
+
+
+
+Реклама
+
+
+.adcenter-wrapper {
+padding: 0 20px 0 85px;
+}
+.AdCentre_new_adv{
+margin-bottom: 20px;
+}
+.AdCentre_new_adv .partner_material_item{
+min-height: 76px;
+margin: 10px 0px;
+float: left;
+margin-left: 12px;
+}
+.AdCentre_new_adv .x80_80{
+max-width: 80px;
+max-height: 80px;
+margin-right: 10px;
+float: left;
+}
+.AdCentre_new_adv .partner_material_item_text{
+float:left;
+max-width: 120px;
+}
+.AdCentre_new_adv .partner_material_item_text_value{
+font: normal 14px/16px "PT Sans", serif;
+display: block;
+}
+.AdCentre_new_adv .partner_material_item_text_value:hover{
+color: #b11116;
+}
+.AdCentre_new_adv .sausage-header{
+position: relative;
+display: block;
+height: 34px;
+margin-left: 10px;
+font: bold 15px/36px 'PT Sans', sans-serif;
+color: #333;
+letter-spacing: 0.01em;
+border-bottom: 1px solid #dfdfdf;
+}
+@media print, screen and (max-width: 1260px){
+.adcenter-wrapper {
+padding: 0 0 0 0;
+}
+.AdCentre_new_adv {
+width: 587px;
+}
+.AdCentre_new_adv .sausage-list{
+width: 587px;
+max-height: 208px;
+}
+.AdCentre_new_adv .partner_material_item_text{
+max-width: 190px;
+}
+}
+
+
+ AdfProxy.ssp('AdCentre', {
+'p1': 'bwrhb',
+'p2': 'fomw',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ECONOMY',
+
+'puid59': 'bc',
+
+}, {
+'begun-auto-pad': "432328744",
+'begun-block-id': "442235190"
+});
+
+
+
+
+
+
+set_resizeblock_handler('#AdCentre', function () {
+if( $('#AdCentre').height() > 10 ) {
+$('.AdCentre_name, .AdCentre_bot').show();
+//$('#Adcenter_Vertical').hide();
+} else {
+$('.AdCentre_name, .AdCentre_bot').hide();
+}
+});
+
+По данным специалистов, тенденция вполне закономерна. Активное развитие сегмента ресторанов и кафе наблюдается на основных торговых улицах Москвы в последние несколько лет. Именно по этой причине в столице растет доля арендаторов, готовых снять площади в центре города. За три года она выросла до 37%.
+Недорогие кафе вытесняют фешенебельные рестораны и люксовые бутики, 
+признают эксперты.
+
+
+#mt_incut {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut"></div>');
+fetch('//news.mirtesen.ru/data/js/91014.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut').html(txt);
+});
+}
+
+
+Чаще всего точки общепита открывались внутри Садового кольца – там свои двери открыли 23% ресторанов и кафе от общего числа заведений. Вторым местом по популярности традиционно стала территория нового и старого Арбата (17% открытий). Также владельцы общепита активно занимали площади на Покровке (9%) и Пятницкой улице (8%).
+Если говорить о типе заведений, то лидерство принадлежит кафе и ресторанам с традиционной кухней, на которые пришлось порядка 38% новых арендаторов в центре.
+«На втором месте – кофейни с показателем 21%. При этом сегмент кофейн растет быстрее всего – примерно на 10% за год. На третьем месте по количеству открытий находятся бары и пабы (15%)», - отметил заместитель руководителя отдела исследований JLL Владислав Фадеев.
+
+
+
+
+
+AdfProxy.ssp('in_read', {
+'p1': 'bryhb',
+'p2': 'fcvb',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ECONOMY',
+
+'puid59': 'bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "432328918"
+});
+
+
+
+В целом за последний квартал количество открытий заведений на 30% превысило число закрытых объектов, что привело к снижению доли свободных коммерческих помещений до 9,4%, что является самым низким уровнем с начала года.
+
+
+#mt_incut2 {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut2 .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut2 .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut2 .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut2 .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut2"></div>');
+fetch('//news.mirtesen.ru/data/js/92823.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut2').html(txt);
+});
+}
+
+Примечательно, что меньше всего свободных для аренды помещений осталось Покровке. Причем с этого места не уходят как старые арендаторы, так и сравнительно новые точки. Все предприниматели, занявшие пустовавшие помещения, представляют сегмент общественного питания, что неудивительно, учитывая сложившийся ресторанный профиль улицы, отмечают в JLL.
+Логично, что растущий спрос увеличил и цену на аренду помещений. Например, Тверская улица показала 6% увеличение стоимости квадратного метра. Так, в среднем показатель составляет 90 тысяч рублей в год.
+Для сравнения: еще во втором квартале текущего года стоимость квадратного метра не превышала 83-85 тыс. рублей. Похожая ситуация складывается и на Покровке – там цены подскочили в среднем на 4-7%. При этом дороже всего снять помещение стоит в Столешниковом переулке, в котором цены за квадратный метр стартуют с 195 тысяч рублей в год.
+
+
+
+#native3{ position: relative; float: right; width: auto; margin-left: 10px }
+#begun_block_439285592 .ad_native_block{
+position: relative !important;
+z-index: 1 !important;
+padding: .4em 1em .7em .7em !important;
+min-height: 100% !important;
+overflow: hidden !important;
+background: #eeefeb!important;
+border-bottom: 4px solid #e0e1dd;
+font-size: 14px !important;
+width: 410px!important;
+font-family: "Arial";
+color:#000;
+}
+#begun_block_439285592 .ad_native_img {
+position: relative !important;
+margin-right: 12px !important;
+float: left !important;
+overflow: hidden !important;
+-ms-flex-negative: 0 !important;
+flex-shrink: 0 !important;
+margin-top: 6px;
+}
+#begun_block_439285592 .ad_native_title_wrapper {
+line-height: 16px;
+padding-top: 4px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone {
+font-size: 18px;
+font-weight: 700;
+line-height: 19px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone:hover {
+color: #AF242C !important;
+}
+#begun_block_439285592 .ad_native_title {
+margin-top: 10px;
+}
+#begun_block_439285592 .ad_native_title span {
+background-color: #AF242C;
+color: #fff;
+padding: 2px 5px;
+}
+#begun_block_439285592 .ad_native_desc {
+line-height: 16px;
+margin-top: 10px;
+}
+#begun_block_439285592 span.ad_native_sponsored {
+display: none;
+}
+
+
+
+AdfProxy.sspScroll('native3', {
+'p1': 'bwjcl',
+'p2': 'fjgk',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_ECONOMY',
+
+'puid59': 'bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "439285592"
+});
+
+
+
+«Повышенный спрос, конкуренция и ограниченное количество качественных и удачно расположенных локаций в ближайшее время могут вызвать рост арендных ставок на помещения под заведения общественного питания в центральных торговых коридорах Москвы», — отметила руководитель отдела стрит-ритейла JLL Екатерина Подлесных.
+
+Новости СМИ2
+
+(function() {
+var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+sc.src = '//smi2.ru/data/js/93296.js'; sc.charset = 'utf-8';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+}());
+
+Хватает только на фастфуд
+В этом году основными тенденциями на рынке коммерческой недвижимости в столице стали увеличение доли общепита и общая демократизация состава арендаторов, подтверждают в беседе с «Газетой. Ru» аналитики компании Cushman & Wakefield. Доля заведений общественного питания остается стабильно высокой. Кафе и рестораны занимают 40% в общей структуре в 2019 году.
+При этом в агентстве в отличие от своих коллег делают ставку на улицу Петровка. По их подсчетам, в этом уличном коридоре был замечен самый заметный рост доли заведений общественного питания за последний год - с 18% в 2018 году до 24% в 2019 году, указывает, аналитик департамента исследований Cushman & Wakefield Евгения Сафонова.
+«Здесь рестораны заняли пустующие помещения, что привело к снижению доли свободных площадей с 14% до 8%», — отмечает собеседница «Газеты. Ru».
+Между тем аналитики
+связывают рост спроса на помещения среди владельцев точек общепита с падающими шестой год подряд доходами населения. 
+Так, по официальным данным Росстата, безработица составляет в среднем по стране всего 4,8%, но многие эксперты отмечают, что большая часть россиян просто не доходит до службы занятости и не видит смысла регистрироваться на биржах труда, так что реальная картина неизвестна.
+При этом доходы россиян статистическое ведомство пересчитало по новым правилам. Счет оказался в плюс: по новой методологии реальные располагаемые доходы граждан за шесть последних лет снизились всего на 8,3% против ранее озвученных 10,9%.
+«В итоге еда остается тем развлечением, которое может дать как разное ценовое предложение, так и разные эмоциональные впечатления. При этом сейчас все больше развивается формат баров и ресторанов, того, что легко трансформируется из дневного досуга в вечерний и может быть использовано собственниками с максимальной эффективностью», - указывает консультант департамента торговой недвижимости Cushman & Wakefield Кристина Мортина.
+На рынок стрит-ретейла и состав арендаторов на улицах в центре Москвы влияет и внешние факторы. Среди них запрет на парковки и создание пешеходных улиц, перечисляет в разговоре с «Газетой.Ru» президент Федерации рестораторов и отельеров России Игорь Бухаров.
+«Например, расширение тротуаров привлекло новых туристов и горожан в центр столицы. Прохаживаясь по улицам, они стали чаще заходить в кафе, что и положительно сказалось на спросе на коммерческую недвижимость», - отмечает он.
+Мнение спикера подтверждает и свежая статистика от Knight Frank. По их данным,
+доля пустующих помещений на центральных пешеходных улицах столицы составила 2,1%, а на центральных транспортно-пешеходных — 7,4%,
+сократившись при этом в сравнении с 2017 годом на 3,8% и 1% соответственно.
+Любопытно, что открытие новых точек может быть связано и с переездом предпринимателей на другие локации. По словам Мортиной, часть масштабных локаций в центре Москвы постоянно закрываются на реконструкцию и ремонт, вынуждая находящиеся там точки общепита искать альтернативные места. Вдобавок рестораны и кафе переезжают из-за того, что нашли точку с большей проходимостью и в целом более выгодными условиями.
+Последняя причина наиболее ярко проявилась в ходе прошедшего в прошлом году чемпионата мира по футболу. Так, Никольская стала одним из самых желанных мест для открытия ресторана, сформировав новый кластер общепита. Набирают популярность и такие локации, как Трехгорка и Даниловская мануфактура – зоны, где в одном месте собрано большое количество различных концепций. Ценник за ужин или обед в таких местах не сильно бьет по карману и даже в условиях падения реальных доходов потребители не отказывают себе в походе туда, признают аналитики.
+Впрочем, сами участники рынка в качестве главной причины переезда указывают сложные отношения с собственником помещения. По словам Игоря Бухарова, зачастую арендатору проще и выгоднее переехать, чем договариваться по новым условиям съема помещения.
+

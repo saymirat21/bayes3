@@ -1,0 +1,310 @@
+Без дохода: банки возьмут деньги за вклады в евро
+
+Центробанк может дать право банкам вводить отрицательные ставки по валютным вкладам.
+«Этот вопрос сейчас обсуждается, но решение еще не принято», — заявила глава департамента финансовой стабильности Банка России Елизавета Данилова на конференции Fitch Ratings 2019. Так она прокомментировала возможность появления в отечественной финансовой системе отрицательных ставок. Речь идет, в первую очередь, о вкладах в евро.
+
+
+
+Реклама
+
+
+.adcenter-wrapper {
+padding: 0 20px 0 85px;
+}
+.AdCentre_new_adv{
+margin-bottom: 20px;
+}
+.AdCentre_new_adv .partner_material_item{
+min-height: 76px;
+margin: 10px 0px;
+float: left;
+margin-left: 12px;
+}
+.AdCentre_new_adv .x80_80{
+max-width: 80px;
+max-height: 80px;
+margin-right: 10px;
+float: left;
+}
+.AdCentre_new_adv .partner_material_item_text{
+float:left;
+max-width: 120px;
+}
+.AdCentre_new_adv .partner_material_item_text_value{
+font: normal 14px/16px "PT Sans", serif;
+display: block;
+}
+.AdCentre_new_adv .partner_material_item_text_value:hover{
+color: #b11116;
+}
+.AdCentre_new_adv .sausage-header{
+position: relative;
+display: block;
+height: 34px;
+margin-left: 10px;
+font: bold 15px/36px 'PT Sans', sans-serif;
+color: #333;
+letter-spacing: 0.01em;
+border-bottom: 1px solid #dfdfdf;
+}
+@media print, screen and (max-width: 1260px){
+.adcenter-wrapper {
+padding: 0 0 0 0;
+}
+.AdCentre_new_adv {
+width: 587px;
+}
+.AdCentre_new_adv .sausage-list{
+width: 587px;
+max-height: 208px;
+}
+.AdCentre_new_adv .partner_material_item_text{
+max-width: 190px;
+}
+}
+
+
+ AdfProxy.ssp('AdCentre', {
+'p1': 'bwrhb',
+'p2': 'fomw',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_FINANCE',
+
+'puid59': 'bc:business:finance',
+
+}, {
+'begun-auto-pad': "432328744",
+'begun-block-id': "442235190"
+});
+
+
+
+
+
+
+set_resizeblock_handler('#AdCentre', function () {
+if( $('#AdCentre').height() > 10 ) {
+$('.AdCentre_name, .AdCentre_bot').show();
+//$('#Adcenter_Vertical').hide();
+} else {
+$('.AdCentre_name, .AdCentre_bot').hide();
+}
+});
+
+По словам Даниловой, крупные банки столкнулись с проблемой – у них большой объем привлечения клиентских средств в валюте. Финансовые организации после резкого обесценения курса рубля в 2014 году практически перестали выдавать кредиты в валюте, поэтому девать накопленную валютную ликвидность им некуда. В итоге они вынуждены средства клиентов размещать на счетах в европейских банках, и нашим банкам приходится платить за ведение таких депозитов – из собственных средств.
+
+
+#mt_incut {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut"></div>');
+fetch('//news.mirtesen.ru/data/js/91014.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut').html(txt);
+});
+}
+
+
+Доходности по государственным облигациям Германии на горизонте до 15 лет находятся в отрицательной зоне в диапазоне от минус 0,75 до минус 0,10%. А ставки денежного рынка еврозоны также пребывают в отрицательной области от минус 0,40% до минус 0,10% на горизонте до 7 лет. Таким образом, банки вынуждены искать выход из сложившейся ситуации, то есть ограничивать приток средств в депозиты и счета в евро ввиду отсутствия тех ниш, куда можно направить эти средства.
+Но разрешение банкам на открытие вкладов под отрицательную доходность требует существенного изменения российского финансового законодательства, отметила Данилова. Правда, сам Банк России не обладает законодательной инициативой, но поправки в закон «О банках и банковской деятельности» могло бы внести правительство.
+
+
+
+
+
+AdfProxy.ssp('in_read', {
+'p1': 'bryhb',
+'p2': 'fcvb',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_FINANCE',
+
+'puid59': 'bc:business:finance',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "432328918"
+});
+
+
+
+Между тем две недели назад в опубликованном на сайте ЦБ «Обзоре рисков финансовых рынков» Банк России обратил внимание на тот факт, что российские банки могут получить убытки в результате операций привлечения и размещения средств в европейской валюте. Это «оказывает неблагоприятное влияние на чистые процентные доходы и возможности генерации прибыли».
+
+
+#mt_incut2 {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut2 .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut2 .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut2 .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut2 .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut2"></div>');
+fetch('//news.mirtesen.ru/data/js/92823.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut2').html(txt);
+});
+}
+
+Впрочем, банки имеют право просто убрать из своей линейки депозитов вклады в евро. Именно по этому пути пошли многие банки – в их отделениях и на сайтах не увидишь опции «открыть вклад в евро».
+«Возможность отрицательных ставок по депозитам в иностранной валюте обсуждается участниками рынка уже достаточно давно, но в последнее время эти обсуждения вошли в активную фазу», — заявила в беседе с «Газета.Ru» управляющий Санкт-Петербургским филиалом Росгосстрахбанка Елена Веревочкина. По ее словам, очень вероятно, что в перспективе эти обсуждения выльются в конкретные решения, которые раньше воспринимались рынком исключительно как гипотетические. Более того, экономическая нецелесообразность привлечения средств граждан в иностранной валюте привела некоторые банки к идее в принципе отказаться от вкладов в валюте, отмечает эксперт.
+
+
+
+#native3{ position: relative; float: right; width: auto; margin-left: 10px }
+#begun_block_439285592 .ad_native_block{
+position: relative !important;
+z-index: 1 !important;
+padding: .4em 1em .7em .7em !important;
+min-height: 100% !important;
+overflow: hidden !important;
+background: #eeefeb!important;
+border-bottom: 4px solid #e0e1dd;
+font-size: 14px !important;
+width: 410px!important;
+font-family: "Arial";
+color:#000;
+}
+#begun_block_439285592 .ad_native_img {
+position: relative !important;
+margin-right: 12px !important;
+float: left !important;
+overflow: hidden !important;
+-ms-flex-negative: 0 !important;
+flex-shrink: 0 !important;
+margin-top: 6px;
+}
+#begun_block_439285592 .ad_native_title_wrapper {
+line-height: 16px;
+padding-top: 4px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone {
+font-size: 18px;
+font-weight: 700;
+line-height: 19px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone:hover {
+color: #AF242C !important;
+}
+#begun_block_439285592 .ad_native_title {
+margin-top: 10px;
+}
+#begun_block_439285592 .ad_native_title span {
+background-color: #AF242C;
+color: #fff;
+padding: 2px 5px;
+}
+#begun_block_439285592 .ad_native_desc {
+line-height: 16px;
+margin-top: 10px;
+}
+#begun_block_439285592 span.ad_native_sponsored {
+display: none;
+}
+
+
+
+AdfProxy.sspScroll('native3', {
+'p1': 'bwjcl',
+'p2': 'fjgk',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_FINANCE',
+
+'puid59': 'bc:business:finance',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "439285592"
+});
+
+
+
+А для того, чтобы люди больше не вносили на счета и не переводили средства в евро из других банков, кредитные организации могут взимать с клиентов плату за хранение средств в европейской валюте на своих счетах.
+Так, например, начиная с 1 августа 2019 года уже два банка вводят ежемесячную комиссию за ведение текущих счетов физических лиц в евро. Размер комиссии зависит от суммы среднемесячного остатка по всем текущим и карточным счетам клиента в евро.
+
+Новости СМИ2
+
+(function() {
+var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+sc.src = '//smi2.ru/data/js/93296.js'; sc.charset = 'utf-8';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+}());
+
+«Однако совершенно очевидно, что отказ от вкладов в валюте — это не выход, ведь валютные накопления граждан не уменьшаются. Другими словами, есть категория граждан и организаций, которых уже давно не смущают минимальные ставки по валютным депозитам — они их используют как инструмент «защиты капитала» от валютных рисков и девальвационных скачков», — говорит Веревочкина.
+Такой подход, кстати, сейчас практикуется в кредитных организациях большинства европейских стран. То есть официально ставка не объявляется, но банк берет за хранение денег на счету определенную плату, в зависимости от суммы — например, 5 евро за каждые 10 тыс. евро на счете.
+Конечно же, если ЦБ позволит банкам вводить отрицательные ставки в евро — это будет историческое решение, говорит Веревочкина. Но глобальная повестка по части смягчения денежно-кредитных политик в Европе и США говорит о том, что введение отрицательных ставок по валютным депозитам в России станет реальностью в ближайшем будущем.
+

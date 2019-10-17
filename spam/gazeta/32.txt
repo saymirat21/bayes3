@@ -1,0 +1,320 @@
+Никуда не денется: эксперты не верят в запрет крафтового пива
+
+В России может прекратиться производство крафтового пива. Как пояснили RT в Росстандарте, к этому может привести принятие нового регламента Евразийского экономического союза (ЕАЭС) о безопасности алкогольной продукции.
+
+
+
+Реклама
+
+
+.adcenter-wrapper {
+padding: 0 20px 0 85px;
+}
+.AdCentre_new_adv{
+margin-bottom: 20px;
+}
+.AdCentre_new_adv .partner_material_item{
+min-height: 76px;
+margin: 10px 0px;
+float: left;
+margin-left: 12px;
+}
+.AdCentre_new_adv .x80_80{
+max-width: 80px;
+max-height: 80px;
+margin-right: 10px;
+float: left;
+}
+.AdCentre_new_adv .partner_material_item_text{
+float:left;
+max-width: 120px;
+}
+.AdCentre_new_adv .partner_material_item_text_value{
+font: normal 14px/16px "PT Sans", serif;
+display: block;
+}
+.AdCentre_new_adv .partner_material_item_text_value:hover{
+color: #b11116;
+}
+.AdCentre_new_adv .sausage-header{
+position: relative;
+display: block;
+height: 34px;
+margin-left: 10px;
+font: bold 15px/36px 'PT Sans', sans-serif;
+color: #333;
+letter-spacing: 0.01em;
+border-bottom: 1px solid #dfdfdf;
+}
+@media print, screen and (max-width: 1260px){
+.adcenter-wrapper {
+padding: 0 0 0 0;
+}
+.AdCentre_new_adv {
+width: 587px;
+}
+.AdCentre_new_adv .sausage-list{
+width: 587px;
+max-height: 208px;
+}
+.AdCentre_new_adv .partner_material_item_text{
+max-width: 190px;
+}
+}
+
+
+ AdfProxy.ssp('AdCentre', {
+'p1': 'bwrhb',
+'p2': 'fomw',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_MARKET',
+
+'puid59': 'gc',
+
+}, {
+'begun-auto-pad': "432328744",
+'begun-block-id': "442235190"
+});
+
+
+
+
+
+
+set_resizeblock_handler('#AdCentre', function () {
+if( $('#AdCentre').height() > 10 ) {
+$('.AdCentre_name, .AdCentre_bot').show();
+//$('#Adcenter_Vertical').hide();
+} else {
+$('.AdCentre_name, .AdCentre_bot').hide();
+}
+});
+
+Документ, положения которого будут обязательны к применению в России, вступит в силу с 2021 года. Он указывает, что пивом может считаться только напиток, содержащий 80% солода, менее 20% несоложеного сырья и менее 2% сахаросодержащих продуктов.
+
+
+#mt_incut {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut"></div>');
+fetch('//news.mirtesen.ru/data/js/91014.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut').html(txt);
+});
+}
+
+
+Пиво – это алкогольный напиток, который, возможно, является самым старым из ферментированных продуктов, известных человеку. Изготовляется путем смешивания зерновых с водой. Затем, добавляя дрожжи, смесь поддают ферментации. В состав напитка также входит хмель, который придает продукту характерный горьковатый привкус. Современные методы пивоварения предусматривают разные способы осветления напитка, который к потребителям попадает в виде прозрачной жидкости с ярким цветом (оттенок варьируется зависимо от сорта).
+При этом, по действующим ГОСТам, в России предусмотрено изготовление только трех разновидностей пива — светлого, темного и пшеничного.
+Разработка единого стандарта на крафтовое пиво невозможна, так как этот напиток предполагает разные рецептуры, технологии и компоненты. 
+Учитывая, что крафт не выделен в отдельную категорию ни в каких документах, часть напитков подпадет под категорию контрафакта.
+
+
+
+
+
+AdfProxy.ssp('in_read', {
+'p1': 'bryhb',
+'p2': 'fcvb',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_MARKET',
+
+'puid59': 'gc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "432328918"
+});
+
+
+
+Впрочем, генеральный директор «Центра исследований федерального и регионального рынка алкоголя» (ЦИФРА) Вадим Дробиз опроверг возможность исчезновения крафтового пива из производства.
+
+
+#mt_incut2 {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut2 .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut2 .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut2 .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut2 .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut2"></div>');
+fetch('//news.mirtesen.ru/data/js/92823.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut2').html(txt);
+});
+}
+
+По его словам,
+крупные пивоваренные компании, которые представляют на российском рынке примерно 70%, пытались пролоббировать такой запрет через профильные ведомства, занимающиеся вопросами регулирования алкоголя. 
+Но у них не получилось. Поэтому-то они «и зашли» через непрофильные структуры – Росстандарт и Евразийскую комиссию. Но эти структуры никакого отношения к регулированию рынка алкоголя не имеют, поэтому и запрет налагать тоже не могут.
+Мнение Дробиза поддержал и член «Опоры России» Алексей Небольсин. По его словам, термин «крафтовое пиво» применяется к напитку, который производят на небольших пивоварнях по авторской технологии.
+«И заводское пиво, и пиво крафтовое – все эти напитки по-праву называются термином «пиво», и из производства в 2021 не исчезнут. 
+Более того, технический регламент позволяет с 2021 года добавлять в классическое заводское пиво до 59% несоложеных продуктов, чем и намерены воспользоваться крупные производители, так как это сырье дешевле», — сообщил в беседе с «Газетой.Ru» Небольсин.
+
+
+
+#native3{ position: relative; float: right; width: auto; margin-left: 10px }
+#begun_block_439285592 .ad_native_block{
+position: relative !important;
+z-index: 1 !important;
+padding: .4em 1em .7em .7em !important;
+min-height: 100% !important;
+overflow: hidden !important;
+background: #eeefeb!important;
+border-bottom: 4px solid #e0e1dd;
+font-size: 14px !important;
+width: 410px!important;
+font-family: "Arial";
+color:#000;
+}
+#begun_block_439285592 .ad_native_img {
+position: relative !important;
+margin-right: 12px !important;
+float: left !important;
+overflow: hidden !important;
+-ms-flex-negative: 0 !important;
+flex-shrink: 0 !important;
+margin-top: 6px;
+}
+#begun_block_439285592 .ad_native_title_wrapper {
+line-height: 16px;
+padding-top: 4px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone {
+font-size: 18px;
+font-weight: 700;
+line-height: 19px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone:hover {
+color: #AF242C !important;
+}
+#begun_block_439285592 .ad_native_title {
+margin-top: 10px;
+}
+#begun_block_439285592 .ad_native_title span {
+background-color: #AF242C;
+color: #fff;
+padding: 2px 5px;
+}
+#begun_block_439285592 .ad_native_desc {
+line-height: 16px;
+margin-top: 10px;
+}
+#begun_block_439285592 span.ad_native_sponsored {
+display: none;
+}
+
+
+
+AdfProxy.sspScroll('native3', {
+'p1': 'bwjcl',
+'p2': 'fjgk',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_MARKET',
+
+'puid59': 'gc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "439285592"
+});
+
+
+
+Авторские производители пива, как и раньше, будут использовать при производстве пива не более 20% несоложеного сырья, подчеркнул эксперт.
+Опубликованный в сентябре отчет компании FinExpertiza показал, что пиво – самый популярный в России алкогольный напиток, и он лидирует по объемам потребления в России. Исследование было поведено по анализу информации, которую содержит платформа фискальных данных «Такском».
+
+Новости СМИ2
+
+(function() {
+var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+sc.src = '//smi2.ru/data/js/93296.js'; sc.charset = 'utf-8';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+}());
+
+На момент написания заметки Росстандарт не ответил на запрос «Газеты.Ru».
+В 2018 году жители России выпили порядка 7,9 млрд литров пива. Водки и ликероводочных изделий было выпито 833 млн литров – или 332,8 млн литров в пересчете на чистый спирт. 
+Также в топ-5 самых востребованных вошли вино, коньяк и сидр. В 2017 году место сидра в пятерке лидеров занимало шампанское.
+Самым популярным безалкогольным напитком стала вода. Также в список также вошли квас, сок, энергетические напитки и минеральная вода.
+Анализ проводился на основе обработки 15 млрд кассовых чеков.
+Ранее Росстат посчитал траты россиян на покупку алкоголя и табака в 2018 году. Оказалось, что в среднем траты составили около 3% общих потребительских расходов.
+Больше всего средств на покупку этих товаров тратили жители Ямало-Ненецкого АО (5,7%). Также в число лидеров вошли Еврейская автономная область (6%), Костромская область и Хакасия — по 4,3%.
+При этом меньше всего средств на данные товары было потрачено в Чечне (0,1%), Ингушетии (0,3%), Карачаево-Черкессии (1,2%), Дагестане и Тамбовской области — по 1,4%. В Москве и Санкт-Петербурге показатель составил 3,4% и 2,7% соответственно.
+

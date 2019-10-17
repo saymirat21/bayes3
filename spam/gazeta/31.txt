@@ -1,0 +1,324 @@
+«Серое» такси: почему нас возят нелегалы
+
+С 2017 года объем рынка нелегального такси объем в денежном выражении вырос на 35% с 75 млрд рублей до 101 млрд рублей в текущем году. К такому выводу пришли в Аналитическом центре при правительстве РФ.
+
+
+
+Реклама
+
+
+.adcenter-wrapper {
+padding: 0 20px 0 85px;
+}
+.AdCentre_new_adv{
+margin-bottom: 20px;
+}
+.AdCentre_new_adv .partner_material_item{
+min-height: 76px;
+margin: 10px 0px;
+float: left;
+margin-left: 12px;
+}
+.AdCentre_new_adv .x80_80{
+max-width: 80px;
+max-height: 80px;
+margin-right: 10px;
+float: left;
+}
+.AdCentre_new_adv .partner_material_item_text{
+float:left;
+max-width: 120px;
+}
+.AdCentre_new_adv .partner_material_item_text_value{
+font: normal 14px/16px "PT Sans", serif;
+display: block;
+}
+.AdCentre_new_adv .partner_material_item_text_value:hover{
+color: #b11116;
+}
+.AdCentre_new_adv .sausage-header{
+position: relative;
+display: block;
+height: 34px;
+margin-left: 10px;
+font: bold 15px/36px 'PT Sans', sans-serif;
+color: #333;
+letter-spacing: 0.01em;
+border-bottom: 1px solid #dfdfdf;
+}
+@media print, screen and (max-width: 1260px){
+.adcenter-wrapper {
+padding: 0 0 0 0;
+}
+.AdCentre_new_adv {
+width: 587px;
+}
+.AdCentre_new_adv .sausage-list{
+width: 587px;
+max-height: 208px;
+}
+.AdCentre_new_adv .partner_material_item_text{
+max-width: 190px;
+}
+}
+
+
+ AdfProxy.ssp('AdCentre', {
+'p1': 'bwrhb',
+'p2': 'fomw',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_TRANSPORT',
+
+'puid59': 'bc',
+
+}, {
+'begun-auto-pad': "432328744",
+'begun-block-id': "442235190"
+});
+
+
+
+
+
+
+set_resizeblock_handler('#AdCentre', function () {
+if( $('#AdCentre').height() > 10 ) {
+$('.AdCentre_name, .AdCentre_bot').show();
+//$('#Adcenter_Vertical').hide();
+} else {
+$('.AdCentre_name, .AdCentre_bot').hide();
+}
+});
+
+По стране доля нелегальных поездок составляет 16%. На нее приходится не меньше 12% от общего объема рынка в денежном выражении. При этом доля нелегалов (в деньгах) за это время практически не изменилась — в 2017 году она составляла 11%.
+
+
+#mt_incut {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut"></div>');
+fetch('//news.mirtesen.ru/data/js/91014.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut').html(txt);
+});
+}
+
+
+Но в 13 регионах России доля нелегалов превышает 50%, следует из исследования. Ежегодный объем упущенных поступлений в бюджет из-за активной работы таких таксистов оценивается в 6 млрд рублей. Именно столько нелегальные такси не доплачивают налогов.
+Хуже всего ситуация в Северной Осетии – Алании. «Серый» рынок такси оценивается в регионе в 87%. 
+Далее идут Волгоградская область (67,6%), Вологодская (66,4%), Калмыкия (64,3%), Пермский край (59,4%), Свердловская область (58,3%), Новосибирская и Тульская (56,4%), Татарстан (53,6%), Челябинская область (53,5%), Тверская область (53,2%), Архангельская (51,1%), Тамбовская (50,7%). 
+Высокая концентрация нелегалов в этой двадцатке регионов может быть объяснена двумя факторами: это может быть связано с особенностями учета данных, а также с тем, как на местах выстроена система контроля, прокомментировал исследование в беседе с «Газетой.Ru» его автор, руководитель аналитического блока департамента экономики и развития транспорта Аналитического центра при правительстве России Алексей Сафронов.
+
+
+
+
+
+AdfProxy.ssp('in_read', {
+'p1': 'bryhb',
+'p2': 'fcvb',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_TRANSPORT',
+
+'puid59': 'bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "432328918"
+});
+
+
+
+«Не думаю, что в одном регионе все законопослушные, а в другом – злостные нарушители. Водитель каждый раз оценивает, что ему больше принесет дискомфорт: легализация с учетом бюрократических процедур и денежных потерь или общение с инспекторами, если его поймают. Видимо, там, где нелегалов больше, говорит о том, что водители решают, что общаться с инспекторами им более комфортно, чем работать по-белому», — поясняет Сафронов.
+
+
+#mt_incut2 {
+position: relative;
+display: block;
+width: 305px;
+float: left;
+margin-right: 20px;
+}
+#mt_incut2 .sausage-header {
+height: 40px;
+font: bold 21px/40px 'PT Sans', sans-serif;
+}
+#mt_incut2 .partner_material_item {
+min-height: 0;
+margin: 10px 20px;
+}
+#mt_incut2 .partner_material_item_text {
+max-width: 160px;
+line-height: 15px;
+font-size: 1px;
+}
+#mt_incut2 .partner_material_item_text_value {
+font: normal 13px/15px "PT Sans", sans-serif;
+}
+
+
+if ( window['fetch'] ) {
+document.write('<div id="mt_incut2"></div>');
+fetch('//news.mirtesen.ru/data/js/92823.js')
+.then( function ( response ) {
+if ( response.ok)
+return response.json();
+else
+throw ( 'err at loadind script //news.mirtesen.ru/data/js/91014.js' );
+} )
+.then( function (json) {
+var txt = '<div class="b-white sausage" aria-hidden="true"><div class="sausage-header ">Интересное в сети</div><ul class="sausage-list">';
+for ( var i = 0; i < 4; ++i ) {
+txt += '<div class="partner_material_item"><a href="' + json.news[i].url + '" target="_blank"><img class="x80_80" src="' + json.news[i].img + '"> <div class="partner_material_item_text "><span class="partner_material_item_text_value ">' + json.news[i].title.replace(/"/, '&quot;') + '</span></div><div style="clear: both"></div></a></div>'
+}
+txt+='</ul> <div class="cf"></div></div>'
+$('#mt_incut2').html(txt);
+});
+}
+
+Например, в Москве за нелегалами серьезно следят, и их доля в столице относительно мала – 7,4%.
+В столице и других крупных городах поймать такое такси стало сложнее, отмечает директор Института экономики, транспорта и транспортной политики Высшей школы экономики Михаил Блинкин. Нелегальные такси частично сохранились в аэропортах, где сложно отрегулировать этот вопрос, но при городских поездках в Москве «серых» такси почти не встречается.
+В основном таксомоторные перевозки без разрешения совершаются в тех регионах, куда не добрались агрегаторы, говорит Блинкин. 
+Традиционно нелегальные перевозчики уходят оттуда, куда приходят агрегаторы, поскольку они становятся неконкурентными, поясняет Блинкин. Плюс их должна отпугивать платная парковка — это еще одно объяснение, почему их количество сократилось в столице.
+
+
+
+#native3{ position: relative; float: right; width: auto; margin-left: 10px }
+#begun_block_439285592 .ad_native_block{
+position: relative !important;
+z-index: 1 !important;
+padding: .4em 1em .7em .7em !important;
+min-height: 100% !important;
+overflow: hidden !important;
+background: #eeefeb!important;
+border-bottom: 4px solid #e0e1dd;
+font-size: 14px !important;
+width: 410px!important;
+font-family: "Arial";
+color:#000;
+}
+#begun_block_439285592 .ad_native_img {
+position: relative !important;
+margin-right: 12px !important;
+float: left !important;
+overflow: hidden !important;
+-ms-flex-negative: 0 !important;
+flex-shrink: 0 !important;
+margin-top: 6px;
+}
+#begun_block_439285592 .ad_native_title_wrapper {
+line-height: 16px;
+padding-top: 4px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone {
+font-size: 18px;
+font-weight: 700;
+line-height: 19px;
+}
+#begun_block_439285592 span.ad_native_sponsored_clone:hover {
+color: #AF242C !important;
+}
+#begun_block_439285592 .ad_native_title {
+margin-top: 10px;
+}
+#begun_block_439285592 .ad_native_title span {
+background-color: #AF242C;
+color: #fff;
+padding: 2px 5px;
+}
+#begun_block_439285592 .ad_native_desc {
+line-height: 16px;
+margin-top: 10px;
+}
+#begun_block_439285592 span.ad_native_sponsored {
+display: none;
+}
+
+
+
+AdfProxy.sspScroll('native3', {
+'p1': 'bwjcl',
+'p2': 'fjgk',
+'pct': 'a',
+'puid6': 'GAZETA_BUSINESS',
+'puid10': 'NO',
+'puid15': 'article',
+'puid18': 'GAZETA_BUSINESS_TRANSPORT',
+
+'puid59': 'bc',
+
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "439285592"
+});
+
+
+
+«Как только платная парковка [появляется] в городе — «бомбила» умирает. Знаете почему? Потому что «бомбила» должен стоять в каком-нибудь живом месте и ловить клиентов. Где-нибудь на Садовом кольце, где парковка 200 рублей. Он это в жизни не окупит за счет перевозок. Поэтому эти бойкие биржи нелегальных таксистов просто исчезли. В Москве и любом крупном городе есть платная парковка и агрегаторы», — отмечает Блинкин.
+
+Новости СМИ2
+
+(function() {
+var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+sc.src = '//smi2.ru/data/js/93296.js'; sc.charset = 'utf-8';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+}());
+
+При этом цифры по объему нелегального рынка в 101 млрд рублей эксперт называет «абсолютно бумажными».
+Как поясняет Сафронов, доля нелегальных перевозок высчитывается сопоставлением двух величин. Есть примерное понимание, как активно машина работает, сколько поездок за день она может сделать. Когда считаются две эти величины, одно из другого вычитаем – получаем количество нелегалов как разницу между этими двумя величинами, отметил Сафронов.
+«По ряду регионов у нас получилась парадоксальная ситуация. Получилось, что разрешений индивидуальным предпринимателям (ИП) выдано меньше, чем существует ИП, у которых основной вид деятельности – служба такси», 
+— объяснил автор исследования.
+Например, в Калмыкии таксистов-ИП в 2,6 раза больше, чем выданных им разрешений.
+То есть кто-то зарегистрировался как таксист, но ни за одним разрешением на автомобиль не пришел. Таксисты – есть, зарегистрированных на них машин – нет. В данном случае таксопарки могут приглашать на работу таксистов, просят их оформить ИП, после чего заключают не трудовой, а гражданско-правовой договор. Таким образом, они работают по лицензиям таксопарка, становясь ИП. В итоге налогов поступает меньше, чем если бы их взяли на работу на трудовой договор.
+«Таксопарк таким образом выводит часть персонала за штат, для того чтобы избежать всех официальных платежей», — говорит Сафронов.
+Стоит отметить, что этим грешат не только таксомоторные организации — в целом есть нелегальная схема оптимизации налогообложения, рассказывает руководитель налоговых практик юридической компании BMS Law Firm Денис Зайцев.
+«Работнику говорят: ты увольняйся и приходи к нам в статусе ИП (индивидуального предпринимателя)», — поясняет эксперт.
+Схема эта выгодна организациям – ведь в таком случае работодатель за сотрудника хоть и переводит официальные отчисления, но их меньше, нежели если бы он находился в штате.
+«Сейчас в России более полутора миллионов водителей такси, но многие из них официально не зарегистрированы. Решить эту проблему позволит статус самозанятых для таксистов. Уже сейчас в четырех регионах эксперимента каждый пятый самозанятый — водитель такси», — пояснили «Газете.Ru» в пресс-службе «Яндекс.Такси».
+«Водители уходят в тень из-за неграмотной, непродуманной политики государства. Примеров ее проявления множество», — пояснили «Газете.Ru» в сервисе заказа такси «Максим». 
+Например, штрафы для легальных перевозчиков в десятки раз превышают штрафы для нелегальных, указывают там. «При этом получить штраф можно даже за отсутствие бейджа. В некоторых городах сотрудники полиции целенаправленно проверяют автомобили с шашками и символикой такси, чтобы найти причину и выписать штраф», — сетует агрегатор.
+По их словам, региональные власти вводят обязательный желтый цвет автомобилей, федеральные — обязывают таксистов оборудовать автомобили кассовыми аппаратами.
+«Легальный водитель вынужден платить за все это из своего кармана, не получая никаких привилегий взамен. Влияет и постоянное обсуждение нового закона о такси. Простые водители читают, понимают, что дальше будет только хуже, и сдают разрешения. Легальные перевозчики добровольно уходят в тень, потому что работать в существующих условиях им просто не выгодно», — заключают в сервисе «Максим».
+
