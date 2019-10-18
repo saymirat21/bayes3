@@ -58,8 +58,8 @@ keywords_probs = YAML.load_file('../yaml data/keywords_probs.yaml')
 
   puts "Категория #{category.upcase}"
   puts "Всего статей: #{amounts[category].to_i}"
-  puts "Количество статей отнесенных к ham: #{counters[:ham]} (#{(counters[:ham]/amounts[category]).round(2)}%)"
-  puts "Количество статей отнесенных к spam: #{counters[:spam]} (#{(counters[:spam]/amounts[category]).round(2)}%)"
+  puts "Количество статей отнесенных к ham: #{counters[:ham]} (#{((counters[:ham]/amounts[category])*100).round(2)}%)"
+  puts "Количество статей отнесенных к spam: #{counters[:spam]} (#{((counters[:spam]/amounts[category])*100).round(2)}%)"
   print "\n\n" 
 end
 
