@@ -12,7 +12,7 @@ keywords_probs = YAML.load_file('../yaml data/keywords_probs.yaml')
 
 [:spam, :ham].each do |category|
   counters = { spam: 0, ham: 0 }
-  amounts = { spam: ARTICLES[:ham].length.to_f, ham: ARTICLES[:spam].length.to_f }
+  amounts = { spam: ARTICLES[:spam].length.to_f, ham: ARTICLES[:ham].length.to_f }
   
   prob_ham = (amounts[:ham]/(amounts[:ham] + amounts[:spam])).round(5)
   prob_spam = (amounts[:spam]/(amounts[:ham] + amounts[:spam])).round(5)
